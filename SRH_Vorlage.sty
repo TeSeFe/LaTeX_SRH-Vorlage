@@ -1,0 +1,122 @@
+%% this style package follows the DGPs 5th edition rules as well as the 
+%% SRH Hochschule Heidelberg rules and therefore produce a correctly formatted
+%% PDF file as of 24th Aug. 2021
+
+\NeedsTeXFormat{LaTeX2e}
+%\ProvidesPackage{SRH_Vorlage}[2021/08/24 package for SRH-style papers]
+
+
+\usepackage{color}
+\usepackage[colorlinks=true, allcolors=black]{hyperref}     % The hyperref 
+%package is used to handle cross-referencing commands in LaTeX to produce hypertext 
+%links in the document. 
+\usepackage[left=2.5cm, right=2.5cm, top=2cm,bottom=2.0cm]{geometry}
+
+\usepackage[autostyle]{csquotes}   %Anführungszeichen vereinfacht
+% autostyle=true, false, try, once, tryonce default: tryonce
+%This option controls multilingual support. It requires either the babel package 
+%or the polyglossia package.2 autostyle=true continuously adapts the quote style 
+%to the current document language; once will only adapt the style once so that it 
+%matches the main language of the document. autostyle=try and tryonce are similar 
+%to true and once if multilingual support is available but will not issue any 
+%warnings if not (i. e., if neither babel nor polyglossia have been loaded). The 
+%short form autostyle is equivalent to autostyle=true. 
+\MakeAutoQuote{«}{»}
+
+
+
+% font size for headings
+\usepackage{anyfontsize}    % lets the user select any font size
+\usepackage[pagestyles]{titlesec}
+
+% Einstellungen für Überschriften erster Ordnung (1 Blabla)
+\renewcommand{\huge}{\fontsize{18pt}{0pt}} 
+\titleformat{\chapter}
+  {\normalfont\huge\bfseries}
+  {\thechapter}{25pt}{\huge}
+\titlespacing{\chapter}{0pt}{-6pt}{12pt}
+
+% Einstellungen für Überschriften zweiter Ordnung (1.1 Blabla)
+\renewcommand{\Large}{\fontsize{16pt}{0pt}}
+\titleformat{\section}
+  {\normalfont\Large\bfseries}
+  {\thesection}{11pt}{\Large}
+\titlespacing{\section}{0pt}{30pt}{12pt}
+
+% Einstellungen für Überschriften dritter Ordnung (1.1.1 Blabla)
+\renewcommand{\large}{\fontsize{14pt}{0pt}}
+\titleformat{\subsection}
+  {\normalfont\large\bfseries}
+  {\thesubsection}{3pt}{\large}
+\titlespacing{\subsection}{0pt}{30pt}{12pt}
+
+% Einstellungen für Überschriften vierter Ordnung (1.1.1.1 Blabla)
+\renewcommand{\small}{\fontsize{12pt}{0pt}}
+\titleformat{\subsubsection}
+  {\normalfont\small\bfseries}
+  {\thesubsubsection}{3pt}{\small}
+\titlespacing{\subsubsection}{0pt}{30pt}{12pt}
+
+
+
+\usepackage[style=apa6]{biblatex}   % formats the bibliography acording to the 
+% APA 6th edition guidelines
+\bibliography{Quellen}
+
+% sets header and footer
+\usepackage{scrlayer-fancyhdr}
+\setlength{\headheight}{15pt}
+\pagestyle{fancyplain}          % fancyplain instead of fancy -> page number 
+% also on chapter title page
+\fancyhf{}                      % entfernt KAPITEL X. TITEL DES KAPITELS
+\fancyhead[L]{LaTeX-Vorlage für die SRH} % gewünschten Text hier einfügen
+\fancyfoot[R]{\thepage}         % Seitenzahl unten rechts
+\renewcommand{\headrulewidth}{0pt}
+
+\usepackage{microtype}
+% Formalien von Schrift
+\renewcommand{\baselinestretch}{1.5}    % Zeilenabstand vergrößert auf das 
+% anderthalbfache der Normalwerte der verschiedenen Schriftgrößen
+\parindent1.25cm    % Paragraph indentation
+\parskip0ex         % Vertical space between paragraphs
+
+% Tabellen 
+\usepackage{chngcntr}   % change the resetting of counters
+\counterwithout{table}{chapter}
+\counterwithout{figure}{chapter}
+\usepackage[labelsep=period, singlelinecheck=false]{caption}   % trennt "Tabelle" 
+% und Überschrift durch einen Punkt an Stelle von einem Doppeltpunkt (nach DGPs nur
+% getrennt durch Leerzeichen --> "space" statt "period") + right 
+% align caption
+\captionsetup[figure]{labelfont=it}
+%\usepackage[format=plain,labelfont=it]{caption}
+\captionsetup[table]{aboveskip=6pt}  % adjust distance between caption and float 
+% "aboveskip" when float caption is above float
+\usepackage[euler]{textgreek}  % upright greek letters in text
+
+% für die Einrückung von Blockzitaten und Aufzählungselementen
+\usepackage{changepage}
+% if planed to use a lot, then it's best to define your own environment
+\newenvironment{Blockzitat}{\begin{adjustwidth}{1.25cm}{}}{\end{adjustwidth}}
+% for needed indent @ lists
+\usepackage{enumitem} % [leftmargin=1.25cm] needed every time after \itemize
+
+
+% puts LoT and LoF into the ToC
+\usepackage{etoolbox}
+\preto\listoffigures{%
+  \clearpage
+  \csname phantomsection\endcsname
+  \addcontentsline{toc}{chapter}{\listfigurename}%
+}
+\preto\listoftables{%
+  \clearpage
+  \csname phantomsection\endcsname
+  \addcontentsline{toc}{chapter}{\listtablename}%
+}
+
+% um kenie Silbentrennung zu haben
+\tolerance=1
+\emergencystretch=\maxdimen
+\hyphenpenalty=10000
+\hbadness=9999

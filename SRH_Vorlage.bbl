@@ -1,0 +1,458 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{Amelang2006}{inbook}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9db379f9bfa14e14b253761a85190f59}{%
+           family={Amelang},
+           familyi={A\bibinitperiod},
+           given={Manfred},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6d64b80acfb630363cc8cb5b0dd179d9}{%
+           family={Schmidt-Atzert},
+           familyi={S\bibinithyphendelim A\bibinitperiod},
+           given={Lothar},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{8128bb3e24b60599389372d37a9941b4}
+      \strng{fullhash}{8128bb3e24b60599389372d37a9941b4}
+      \strng{bibnamehash}{8128bb3e24b60599389372d37a9941b4}
+      \strng{authorbibnamehash}{8128bb3e24b60599389372d37a9941b4}
+      \strng{authornamehash}{8128bb3e24b60599389372d37a9941b4}
+      \strng{authorfullhash}{8128bb3e24b60599389372d37a9941b4}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Psychologische Diagnostik und Intervention}
+      \field{isbn}{978-3-540-28507-6}
+      \field{title}{Der diagnostische Prozess}
+      \field{year}{2006}
+      \field{pages}{379\bibrangedash 394}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1007/3-540-28507-5_5
+      \endverb
+    \endentry
+    \entry{AQUINOJARQUIN2021}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=126af183dd3678533186cfca8eae1837}{%
+           family={Aquino\bibnamedelima Jarquin},
+           familyi={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={Guillermo},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{126af183dd3678533186cfca8eae1837}
+      \strng{fullhash}{126af183dd3678533186cfca8eae1837}
+      \strng{bibnamehash}{126af183dd3678533186cfca8eae1837}
+      \strng{authorbibnamehash}{126af183dd3678533186cfca8eae1837}
+      \strng{authornamehash}{126af183dd3678533186cfca8eae1837}
+      \strng{authorfullhash}{126af183dd3678533186cfca8eae1837}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{CRISPR/Cas9-based technology has revolutionized biomedical research by providing a high-fidelity gene-editing method, foreshadowing a significant impact on the therapeutics of many human genetic disorders previously considered untreatable. However, off-target events represent a critical hurdle before genome editing can be fully established in clinical practice. This mini-review recapitulates some recent advances for detecting and overcoming off-target effects mediated by the CRISPR/Cas9 system that could increase the likelihood of clinical success of the CRISPR-based approaches.}
+      \field{issn}{1096-7192}
+      \field{journaltitle}{Molecular Genetics and Metabolism}
+      \field{title}{Current advances in overcoming obstacles of CRISPR/Cas9 off-target genome editing}
+      \field{year}{2021}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.ymgme.2021.08.002
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1096719221007666
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1096719221007666
+      \endverb
+      \keyw{CRISPR/Cas9,Genome-editing,Off-target effects,Base editors,Prime editing,Anti-CRISPR proteins}
+    \endentry
+    \entry{Hussy2010}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=205a00e83ecec266b73f12ff16be5b32}{%
+           family={Autor},
+           familyi={A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Heidelberg}%
+      }
+      \strng{namehash}{205a00e83ecec266b73f12ff16be5b32}
+      \strng{fullhash}{205a00e83ecec266b73f12ff16be5b32}
+      \strng{bibnamehash}{205a00e83ecec266b73f12ff16be5b32}
+      \strng{authorbibnamehash}{205a00e83ecec266b73f12ff16be5b32}
+      \strng{authornamehash}{205a00e83ecec266b73f12ff16be5b32}
+      \strng{authorfullhash}{205a00e83ecec266b73f12ff16be5b32}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Titel des Buchs}
+      \field{year}{2010}
+    \endentry
+    \entry{ao1}{article}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=e983cdf0fcbb80caee4420b385bda364}{%
+           family={Boker},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7cd3afe948921e8d48564d0767a742b7}{%
+           family={Neale},
+           familyi={N\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7b2721fb260df0b7a7c5f2ae7c0010c9}{%
+           family={Maes},
+           familyi={M\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c4a83fbf776ddc08751d50b394cfe8a3}{%
+           family={Wilde},
+           familyi={W\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e714cf1a082d99833463ca55bca2ccab}{%
+           family={Spiegel},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e0a88d6902d45202a51cef1e40a7c500}{%
+           family={Brick},
+           familyi={B\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52e7be7e4f9f011f8d79c139f2b6d085}{%
+           family={Spies},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eeedde06a178048d5963bef226319e01}{%
+           family={Estabrook},
+           familyi={E\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7beeb940b5bc67a2eff8528f1526071e}{%
+           family={Kenny},
+           familyi={K\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e10daa85093cff77c862e4959b40f2e1}{%
+           family={Bates},
+           familyi={B\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3303abc49a33d09868b6f291f80032f7}
+      \strng{fullhash}{d7b9239fc4d6980db94c96bb6cfd2522}
+      \strng{bibnamehash}{0ee6e15e052f78c3f0c390c47a21f545}
+      \strng{authorbibnamehash}{0ee6e15e052f78c3f0c390c47a21f545}
+      \strng{authornamehash}{3303abc49a33d09868b6f291f80032f7}
+      \strng{authorfullhash}{d7b9239fc4d6980db94c96bb6cfd2522}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychometrika}
+      \field{title}{Open{M}x: {A}n open source extended structural equation modeling framework}
+      \field{volume}{76}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{pages}{306\bibrangedash 317}
+      \range{pages}{12}
+    \endentry
+    \entry{doi:10.1026/1616-3443/a000099}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=b0b00f01b55ca7704b60da0a62451b57}{%
+           family={Daig},
+           familyi={D\bibinitperiod},
+           given={Isolde},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4909d0358f6cc4a102f1afba8ece26d0}{%
+           family={Spangenberg},
+           familyi={S\bibinitperiod},
+           given={Lena},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=205f843b01b668b4b21a8771485247e5}{%
+           family={Henrich},
+           familyi={H\bibinitperiod},
+           given={Gerhard},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3c2604934d30b533ad34b8c61d428d25}{%
+           family={Herschbach},
+           familyi={H\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae09521d7d52ef5da2a38a21fcfe5a40}{%
+           family={Kienast},
+           familyi={K\bibinitperiod},
+           given={Thorsten},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dfc9c57c3b8578d9aaf205c992e8ce4a}{%
+           family={Brähler},
+           familyi={B\bibinitperiod},
+           given={Elmar},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cb374dd2f96ca0af542fbc469edc0c33}
+      \strng{fullhash}{8dd09c8c181db84fd7f94cf0ab2db45f}
+      \strng{bibnamehash}{8dd09c8c181db84fd7f94cf0ab2db45f}
+      \strng{authorbibnamehash}{8dd09c8c181db84fd7f94cf0ab2db45f}
+      \strng{authornamehash}{cb374dd2f96ca0af542fbc469edc0c33}
+      \strng{authorfullhash}{8dd09c8c181db84fd7f94cf0ab2db45f}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Zusammenfassung. Theoretischer Hintergrund: Der FLZM-Fragebogen (Fragen zur Lebenszufriedenheit) ist ein ökonomisches, reliables Verfahren zur Erfassung der allgemeinen Lebenszufriedenheit. Fragestellung: Die vorhandenen Normwerte sind über 10 Jahre alt, zudem fehlen bislang Angaben über Prozentränge. Methode: Die vorliegende Studie stellt eine alters- und geschlechtsspezifische Neunormierung anhand einer bevölkerungsrepräsentativen Stichprobe aus Deutschland für den Altersbereich 14 bis 64 Jahre vor (N = 3877). Ergebnisse: Mittelwerte, Standardabweichungen, Trennschärfeindices und Prozentränge werden für Alter und Geschlecht getrennt berichtet. Die Ergebnisse zeigen gute interne Konsistenzen für die gewichtete (Cronbachs Alpha = 0,83) wie auch für die ungewichtete Lebenszufriedenheit (Cronbachs Alpha = 0,82). Schlussfolgerungen: Für die FLZM liegen aktualisierte Normdaten vor. Für einen Einsatz des Messinstruments können nun aktuelle Vergleichsdaten der gesamtdeutschen Bevölkerung zwischen 14–64 Jahren herangezogen werden.}
+      \field{journaltitle}{Zeitschrift für Klinische Psychologie und Psychotherapie}
+      \field{title}{Alters- und geschlechtspezifische Neunormierung der Fragen zur Lebenszufriedenheit (FLZM) für die Altersspanne von 14 bis 64 Jahre}
+      \field{volume}{40}
+      \field{year}{2011}
+      \field{pages}{172\bibrangedash 178}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1026/1616-3443/a000099
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1026/1616-3443/a000099
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1026/1616-3443/a000099
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1026/1616-3443/a000099
+      \endverb
+    \endentry
+    \entry{6.13p}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=200f5b4b31ab58e5e399e804be424dc7}{%
+           family={{Deutsches Jugendinstitut}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{un=0,uniquepart=base,hash=153d951385c5fdca0deb46430d4c73e2}{%
+           family={DJI},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{153d951385c5fdca0deb46430d4c73e2}
+      \strng{fullhash}{200f5b4b31ab58e5e399e804be424dc7}
+      \strng{bibnamehash}{153d951385c5fdca0deb46430d4c73e2}
+      \strng{authorbibnamehash}{200f5b4b31ab58e5e399e804be424dc7}
+      \strng{authornamehash}{200f5b4b31ab58e5e399e804be424dc7}
+      \strng{authorfullhash}{200f5b4b31ab58e5e399e804be424dc7}
+      \strng{shortauthorbibnamehash}{153d951385c5fdca0deb46430d4c73e2}
+      \strng{shortauthornamehash}{153d951385c5fdca0deb46430d4c73e2}
+      \strng{shortauthorfullhash}{153d951385c5fdca0deb46430d4c73e2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{title}{Title}
+      \field{year}{1984}
+      \field{dateera}{ce}
+    \endentry
+    \entry{6.13t}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=7f3b3006dec20576f971ec7ab5639bb9}{%
+           family={{National Institute of Mental Health}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{un=0,uniquepart=base,hash=977bbb13310772b84c673e90be63ddeb}{%
+           family={NIMH},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{977bbb13310772b84c673e90be63ddeb}
+      \strng{fullhash}{7f3b3006dec20576f971ec7ab5639bb9}
+      \strng{bibnamehash}{977bbb13310772b84c673e90be63ddeb}
+      \strng{authorbibnamehash}{7f3b3006dec20576f971ec7ab5639bb9}
+      \strng{authornamehash}{7f3b3006dec20576f971ec7ab5639bb9}
+      \strng{authorfullhash}{7f3b3006dec20576f971ec7ab5639bb9}
+      \strng{shortauthorbibnamehash}{977bbb13310772b84c673e90be63ddeb}
+      \strng{shortauthornamehash}{977bbb13310772b84c673e90be63ddeb}
+      \strng{shortauthorfullhash}{977bbb13310772b84c673e90be63ddeb}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{title}{Title}
+      \field{year}{2003}
+      \field{dateera}{ce}
+    \endentry
+    \entry{b0424f3eebf64b03a01a8841d7e3bf8d}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=1aebb6a79f9d801616611b642cef6fec}{%
+           family={Nicholls},
+           familyi={N\bibinitperiod},
+           given={A.R.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e5a048ebb9dd1bc6cb6103d03b9b5aaf}{%
+           family={Polman},
+           familyi={P\bibinitperiod},
+           given={R.C.J.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=976103930e61f203dd3068ebaf0a93c2}{%
+           family={Levy},
+           familyi={L\bibinitperiod},
+           given={Andy},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ea88a60aab8d239f42356c1867ad33d}{%
+           family={Borkoles},
+           familyi={B\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{publisher}{1}{%
+        {springer}%
+      }
+      \strng{namehash}{d8860555e8d01519c32660886e0dfd08}
+      \strng{fullhash}{56f08129124c58a0250ff596cde683c0}
+      \strng{bibnamehash}{56f08129124c58a0250ff596cde683c0}
+      \strng{authorbibnamehash}{56f08129124c58a0250ff596cde683c0}
+      \strng{authornamehash}{d8860555e8d01519c32660886e0dfd08}
+      \strng{authorfullhash}{56f08129124c58a0250ff596cde683c0}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This study examines the relationship among global coping self-efficacy, coping, and coping effectiveness within athletes. We hypothesized that there would be a positive association between coping self-efficacy and coping effectiveness, which would be mediated by coping. It was also predicted that coping strategies within the task-oriented coping dimension would be positively associated with coping effectiveness, whereas strategies from the disengagement- and distraction-oriented coping dimensions would be negatively associated with coping effectiveness. Participants were 353 athletes between the ages of 18 and 29 years, who completed a measure of coping self-efficacy the night before they competed, in addition to a measure of the athletes' use of coping strategies and their perceived coping effectiveness, which was completed immediately after the competitive event. Results revealed that higher global coping self-efficacy scores were significantly (r = .33, p < .01) associated with coping effectiveness. Furthermore, task-oriented and disengagement-oriented coping partially mediated this relationship, but distraction-oriented coping was not a significant partial mediator of the relationship between global coping self-efficacy and coping effectiveness.}
+      \field{issn}{1072-5245}
+      \field{journaltitle}{International Journal of Stress Management}
+      \field{title}{The mediating role of coping: A cross-sectional analysis of the relationship between coping self-efficacy and coping effectiveness among athletes}
+      \field{volume}{17}
+      \field{year}{2010}
+      \field{pages}{181\bibrangedash 192}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1037/a0020064
+      \endverb
+    \endentry
+    \entry{TERNS2011321}{article}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=fab9f5c84f3af2bbe339a4a084822ec8}{%
+           family={Terns},
+           familyi={T\bibinitperiod},
+           given={Michael\bibnamedelima P},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=667bea8809c06ebfdfa97bd03daa4703}{%
+           family={Terns},
+           familyi={T\bibinitperiod},
+           given={Rebecca\bibnamedelima M},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{b04c4118f4834b3eb97337952eebb822}
+      \strng{fullhash}{b04c4118f4834b3eb97337952eebb822}
+      \strng{bibnamehash}{b04c4118f4834b3eb97337952eebb822}
+      \strng{authorbibnamehash}{b04c4118f4834b3eb97337952eebb822}
+      \strng{authornamehash}{b04c4118f4834b3eb97337952eebb822}
+      \strng{authorfullhash}{b04c4118f4834b3eb97337952eebb822}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{CRISPR–Cas systems are recently discovered, RNA-based immune systems that control invasions of viruses and plasmids in archaea and bacteria. Prokaryotes with CRISPR–Cas immune systems capture short invader sequences within the CRISPR loci in their genomes, and small RNAs produced from the CRISPR loci (CRISPR (cr)RNAs) guide Cas proteins to recognize and degrade (or otherwise silence) the invading nucleic acids. There are multiple variations of the pathway found among prokaryotes, each mediated by largely distinct components and mechanisms that we are only beginning to delineate. Here we will review our current understanding of the remarkable CRISPR–Cas pathways with particular attention to studies relevant to systems found in the archaea.}
+      \field{issn}{1369-5274}
+      \field{journaltitle}{Current Opinion in Microbiology}
+      \field{note}{Ecology and industrial microbiology / Special section: Archaea}
+      \field{title}{CRISPR-based adaptive immune systems}
+      \field{volume}{14}
+      \field{year}{2011}
+      \field{pages}{321\bibrangedash 327}
+      \range{pages}{7}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.mib.2011.03.005
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1369527411000488
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1369527411000488
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
