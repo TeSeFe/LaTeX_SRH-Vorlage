@@ -25,7 +25,7 @@
 % Anführungsstriche einfacher schreiben
 \MakeOuterQuote{"}
 
-
+\setcounter{secnumdepth}{4} %bildet Nummerierung bis 4te Ebene
 
 % font size for headings
 \usepackage{anyfontsize}    % lets the user select any font size
@@ -104,7 +104,10 @@
 \usepackage{enumitem} % [leftmargin=1.25cm] needed every time after \itemize
 
 
+
+
 % puts LoT and LoF into the ToC
+
 \usepackage{etoolbox}
 \preto\listoffigures{%
   \clearpage
@@ -117,12 +120,11 @@
   \addcontentsline{toc}{chapter}{\listtablename}%
 }
 
+% Prefix Einträge listoftables
+% funktioniert nicht
+%\usepackage{tocloft}
+%\renewcommand{\cfttabpresnum}{Tabelle }
 
-% format LoF and LoT items to appear as the items in text
-\usepackage{tocloft}  % https://ftp.rrzn.uni-hannover.de/pub/mirror/tex-archive/macros/latex/contrib/tocloft/tocloft.pdf
-\renewcommand{\cftfigpresnum}{Abbildung }
-\renewcommand{\cftfigaftersnum}{.}
-\renewcommand{\cfttabpresnum}{Tabelle }
 
 
 

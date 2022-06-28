@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.4.18)  28 JUN 2022 19:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.4.18)  28 JUN 2022 23:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -861,45 +861,6 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@inbox=\box46
 \enit@count@id=\count403
 \enitdp@description=\count404
-) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
-Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
-Package tocloft Info: The document has chapter divisions on input line 51.
-\cftparskip=\skip86
-\cftbeforetoctitleskip=\skip87
-\cftaftertoctitleskip=\skip88
-\cftbeforepartskip=\skip89
-\cftpartnumwidth=\skip90
-\cftpartindent=\skip91
-\cftbeforechapskip=\skip92
-\cftchapindent=\skip93
-\cftchapnumwidth=\skip94
-\cftbeforesecskip=\skip95
-\cftsecindent=\skip96
-\cftsecnumwidth=\skip97
-\cftbeforesubsecskip=\skip98
-\cftsubsecindent=\skip99
-\cftsubsecnumwidth=\skip100
-\cftbeforesubsubsecskip=\skip101
-\cftsubsubsecindent=\skip102
-\cftsubsubsecnumwidth=\skip103
-\cftbeforeparaskip=\skip104
-\cftparaindent=\skip105
-\cftparanumwidth=\skip106
-\cftbeforesubparaskip=\skip107
-\cftsubparaindent=\skip108
-\cftsubparanumwidth=\skip109
-\cftbeforeloftitleskip=\skip110
-\cftafterloftitleskip=\skip111
-\cftbeforefigskip=\skip112
-\cftfigindent=\skip113
-\cftfignumwidth=\skip114
-\c@lofdepth=\count405
-\c@lotdepth=\count406
-\cftbeforelottitleskip=\skip115
-\cftafterlottitleskip=\skip116
-\cftbeforetabskip=\skip117
-\cfttabindent=\skip118
-\cfttabnumwidth=\skip119
 )) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2020/02/14 3.40 The Babel package
  (/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
@@ -910,18 +871,18 @@ Language: ngerman 2018/12/08 v2.11 German support for babel (post-1996 orthograp
 Language: ngermanb 2018/12/08 v2.11 German support for babel (post-1996 orthography)
  (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2020/02/14 3.40 Babel common definitions
-\babel@savecnt=\count407
+\babel@savecnt=\count405
 \U@D=\dimen161
  (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read3
-\bbl@dirlevel=\count408
+\bbl@dirlevel=\count406
 )
 Package babel Info: Making " an active character on input line 121.
 ))) (/usr/share/texlive/texmf-dist/tex/latex/mnsymbol/MnSymbol.sty
 Package: MnSymbol 2007/01/21 v1.4 support for the MnSymbol font
  (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2020/01/20 v2.17e AMS math features
-\@mathmargin=\skip120
+\@mathmargin=\skip86
 
 For additional information on amsmath, use the `?' option.
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -936,13 +897,13 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 ) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count409
+\inf@bad=\count407
 LaTeX Info: Redefining \frac on input line 227.
-\uproot@=\count410
-\leftroot@=\count411
+\uproot@=\count408
+\leftroot@=\count409
 LaTeX Info: Redefining \overline on input line 389.
-\classnum@=\count412
-\DOTSCASE@=\count413
+\classnum@=\count410
+\DOTSCASE@=\count411
 LaTeX Info: Redefining \ldots on input line 486.
 LaTeX Info: Redefining \dots on input line 489.
 LaTeX Info: Redefining \cdots on input line 610.
@@ -951,15 +912,15 @@ LaTeX Info: Redefining \cdots on input line 610.
 \big@size=\dimen164
 LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
-\macc@depth=\count414
-\c@MaxMatrixCols=\count415
+\macc@depth=\count412
+\c@MaxMatrixCols=\count413
 \dotsspace@=\muskip21
-\c@parentequation=\count416
-\dspbrk@lvl=\count417
+\c@parentequation=\count414
+\dspbrk@lvl=\count415
 \tag@help=\toks21
-\row@=\count418
-\column@=\count419
-\maxfields@=\count420
+\row@=\count416
+\column@=\count417
+\maxfields@=\count418
 \andhelp@=\toks22
 \eqnshift@=\dimen165
 \alignsep@=\dimen166
@@ -968,8 +929,8 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \totwidth@=\dimen169
 \lineht@=\dimen170
 \@envbody=\toks23
-\multlinegap=\skip121
-\multlinetaggap=\skip122
+\multlinegap=\skip87
+\multlinetaggap=\skip88
 \mathdisplay@stack=\toks24
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
@@ -1032,9 +993,9 @@ Package: titletoc 2019/10/16 v2.13 TOC entries
 \ttl@leftsep=\dimen171
 ) (/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty
 Package: appendix 2020/02/08 v1.2c extra appendix facilities
-\c@@pps=\count421
-\c@@ppsavesec=\count422
-\c@@ppsaveapp=\count423
+\c@@pps=\count419
+\c@@ppsavesec=\count420
+\c@@ppsaveapp=\count421
 ) (/usr/share/texlive/texmf-dist/tex/latex/threeparttable/threeparttable.sty
 Package: threeparttable 2003/06/13  v 3.0
 \@tempboxb=\box49
@@ -1050,18 +1011,18 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \cmidrulesep=\dimen179
 \cmidrulekern=\dimen180
 \defaultaddspace=\dimen181
-\@cmidla=\count424
-\@cmidlb=\count425
+\@cmidla=\count422
+\@cmidlb=\count423
 \@aboverulesep=\dimen182
 \@belowrulesep=\dimen183
-\@thisruleclass=\count426
-\@lastruleclass=\count427
+\@thisruleclass=\count424
+\@lastruleclass=\count425
 \@thisrulewidth=\dimen184
 ) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
-\multirow@colwidth=\skip123
-\multirow@cntb=\count428
-\multirow@dima=\skip124
+\multirow@colwidth=\skip89
+\multirow@cntb=\count426
+\multirow@dima=\skip90
 \bigstrutjot=\dimen185
 ) (/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjustbox.sty
 Package: adjustbox 2019/01/04 v1.2 Adjusting TeX boxes (trim, clip, ...)
@@ -1071,7 +1032,7 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 \XKV@toks=\toks25
 \XKV@tempa@toks=\toks26
 )
-\XKV@depth=\count429
+\XKV@depth=\count427
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )) (/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjcalc.sty
 Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
@@ -1112,12 +1073,12 @@ File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
 \adjbox@ptotalheight=\dimen199
  (/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
 Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
-\c@checkoddpage=\count430
+\c@checkoddpage=\count428
 LaTeX Info: Redefining \checkoddpage on input line 45.
 ) (/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box51
-\sift@deathcycles=\count431
+\sift@deathcycles=\count429
 \@vwid@loff=\dimen256
 \@vwid@roff=\dimen257
 )) (/usr/share/texlive/texmf-dist/tex/latex/tabu/tabu.sty
@@ -1128,16 +1089,16 @@ Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \ar@mcellbox=\box52
 \extrarowheight=\dimen259
 \NC@list=\toks27
-\extratabsurround=\skip125
-\backup@length=\skip126
+\extratabsurround=\skip91
+\backup@length=\skip92
 \ar@cellbox=\box53
 )
-\c@taburow=\count432
-\tabu@nbcols=\count433
-\tabu@cnt=\count434
-\tabu@Xcol=\count435
-\tabu@alloc=\count436
-\tabu@nested=\count437
+\c@taburow=\count430
+\tabu@nbcols=\count431
+\tabu@cnt=\count432
+\tabu@Xcol=\count433
+\tabu@alloc=\count434
+\tabu@nested=\count435
 \tabu@target=\dimen260
 \tabu@spreadtarget=\dimen261
 \tabu@naturalX=\dimen262
@@ -1153,23 +1114,23 @@ Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \tabu@arstrutbox=\box55
 \tabu@hleads=\box56
 \tabu@vleads=\box57
-\tabu@cellskip=\skip127
+\tabu@cellskip=\skip93
 ) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
-\LTleft=\skip128
-\LTright=\skip129
-\LTpre=\skip130
-\LTpost=\skip131
-\LTchunksize=\count438
+\LTleft=\skip94
+\LTright=\skip95
+\LTpre=\skip96
+\LTpost=\skip97
+\LTchunksize=\count436
 \LTcapwidth=\dimen269
 \LT@head=\box58
 \LT@firsthead=\box59
 \LT@foot=\box60
 \LT@lastfoot=\box61
-\LT@cols=\count439
-\LT@rows=\count440
-\c@LT@tables=\count441
-\c@LT@chunks=\count442
+\LT@cols=\count437
+\LT@rows=\count438
+\c@LT@tables=\count439
+\c@LT@chunks=\count440
 \LT@p@ftn=\toks30
 ) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
@@ -1178,12 +1139,51 @@ Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 \TX@old@col=\dimen272
 \TX@target=\dimen273
 \TX@delta=\dimen274
-\TX@cols=\count443
+\TX@cols=\count441
 \TX@ftn=\toks31
 ) (/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
-\c@subfigure=\count444
-\c@subtable=\count445
+\c@subfigure=\count442
+\c@subtable=\count443
+) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip98
+\cftbeforetoctitleskip=\skip99
+\cftaftertoctitleskip=\skip100
+\cftbeforepartskip=\skip101
+\cftpartnumwidth=\skip102
+\cftpartindent=\skip103
+\cftbeforechapskip=\skip104
+\cftchapindent=\skip105
+\cftchapnumwidth=\skip106
+\cftbeforesecskip=\skip107
+\cftsecindent=\skip108
+\cftsecnumwidth=\skip109
+\cftbeforesubsecskip=\skip110
+\cftsubsecindent=\skip111
+\cftsubsecnumwidth=\skip112
+\cftbeforesubsubsecskip=\skip113
+\cftsubsubsecindent=\skip114
+\cftsubsubsecnumwidth=\skip115
+\cftbeforeparaskip=\skip116
+\cftparaindent=\skip117
+\cftparanumwidth=\skip118
+\cftbeforesubparaskip=\skip119
+\cftsubparaindent=\skip120
+\cftsubparanumwidth=\skip121
+\cftbeforeloftitleskip=\skip122
+\cftafterloftitleskip=\skip123
+\cftbeforefigskip=\skip124
+\cftfigindent=\skip125
+\cftfignumwidth=\skip126
+\c@lofdepth=\count444
+\c@lotdepth=\count445
+\cftbeforelottitleskip=\skip127
+\cftafterlottitleskip=\skip128
+\cftbeforetabskip=\skip129
+\cfttabindent=\skip130
+\cfttabnumwidth=\skip131
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
@@ -1207,28 +1207,28 @@ LaTeX Warning: Label `sec_3.3' multiply defined.
 )
 \openout1 = `SRH_Vorlage.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 70.
-LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 70.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 63.
+LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 63.
  (/usr/share/texlive/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    ... okay on input line 63.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count447
@@ -1249,7 +1249,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 \AtBeginShipoutBox=\box64
-Package hyperref Info: Link coloring ON on input line 70.
+Package hyperref Info: Link coloring ON on input line 63.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
@@ -1259,9 +1259,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count453
 )
-LaTeX Info: Redefining \ref on input line 70.
-LaTeX Info: Redefining \pageref on input line 70.
-LaTeX Info: Redefining \nameref on input line 70.
+LaTeX Info: Redefining \ref on input line 63.
+LaTeX Info: Redefining \pageref on input line 63.
+LaTeX Info: Redefining \nameref on input line 63.
  (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.out) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.out)
 \@outlinefile=\write4
 \openout4 = `SRH_Vorlage.out'.
@@ -1301,7 +1301,7 @@ LaTeX Info: Redefining \nameref on input line 70.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package csquotes Info: Making character " active on input line 70.
+Package csquotes Info: Making character " active on input line 63.
 Package biblatex Info: Trying to load language 'ngerman' -> 'ngerman-apa6'...
 Package biblatex Info: ... file 'ngerman-apa6.lbx' found.
 (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/ngerman-apa6.lbx
@@ -1340,18 +1340,18 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'SRH_Vorlage.bbl' found.
  (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.bbl)
-Package biblatex Info: Reference section=0 on input line 70.
-Package biblatex Info: Reference segment=0 on input line 70.
+Package biblatex Info: Reference section=0 on input line 63.
+Package biblatex Info: Reference segment=0 on input line 63.
 Package scrlayer Info: Setting magic \footheight to \baselineskip while
-(scrlayer)             \begin{document} on input line 70.
-LaTeX Info: Redefining \microtypecontext on input line 70.
+(scrlayer)             \begin{document} on input line 63.
+LaTeX Info: Redefining \microtypecontext on input line 63.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `basictext'.
-LaTeX Info: Redefining \showhyphens on input line 70.
+LaTeX Info: Redefining \showhyphens on input line 63.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1388,7 +1388,7 @@ Package caption Info: End \AtBeginDocument code.
 ]
 Kapitel 1.
 ) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/2 Theorie/Theorie.tex
-Underfull \hbox (badness 10000) in paragraph at lines 41--1
+Underfull \hbox (badness 10000) in paragraph at lines 38--1
 \OT1/cmr/m/n/12 (+20) hin-ge-wie-sen, dass die aus-schlie^^Y-li-che Ver-wen-dung der m[]annlichen Form
  []
 
@@ -1396,9 +1396,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--1
 
 ]
 Kapitel 2.
-(/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/2 Theorie/2.1.1 Aggressivität.tex [8
+(/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/2 Theorie/2.1.1 Aggressivität.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--12
+\OT1/cmr/m/n/12 (+20) Kor-nadt, [][]2011[][][]; Spek-trum, [][]2022[][]) Ag-gres-si-vit[]at ent-spricht dem-zu-fol-ge ei-ner
+ []
 
-] [9] [10]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/2 Theorie/2.1.2 Häusliche Gewalt.tex [11] [12]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/2 Theorie/2.1.3 Gewaltmythen.tex) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/2 Theorie/2.2.1 Hypothese 1.tex) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/2 Theorie/2.2.2 Hypothese 2.tex) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/2 Theorie/2.2.3 Hypothese 3.tex)) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/3 Methode/Methoden.tex [13] [14]
+[8
+
+] [9] [10]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/2 Theorie/2.1.2 Häusliche Gewalt.tex [11]
+Underfull \hbox (badness 10000) in paragraph at lines 32--51
+\OT1/cmr/m/n/12 (+20) Ge-sichts-aus-dr[]ucke er-fol-gen ([]Ko-lier, [][]2019[][]) Ei-ni-ge Bei-spie-le f[]ur psy-chi-sche
+ []
+
+[12]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/2 Theorie/2.1.3 Gewaltmythen.tex) [13] (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/2 Theorie/2.2.1 Hypothese 1.tex) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/2 Theorie/2.2.2 Hypothese 2.tex) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/2 Theorie/2.2.3 Hypothese 3.tex)) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/3 Methode/Methoden.tex [14]
 Kapitel 3.
 
 Underfull \hbox (badness 10000) in paragraph at lines 35--39
@@ -1409,32 +1419,63 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--39
 
 ]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Ergebnisse.tex [16]
 Kapitel 4.
-) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/5 Diskussion/Diskussion.tex [17
+(/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm Skala 1 Schlaf.tex
+<Histogramm Skala Schlaf.pdf, id=342, 639.13782pt x 375.65344pt>
+File: Histogramm Skala Schlaf.pdf Graphic file (type pdf)
+<use Histogramm Skala Schlaf.pdf>
+Package pdftex.def Info: Histogramm Skala Schlaf.pdf  used on input line 3.
+(pdftex.def)             Requested size: 364.19667pt x 214.0559pt.
+LaTeX Font Info:    Trying to load font information for U+eur on input line 7.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/ueur.fd
+File: ueur.fd 2013/01/14 v3.01 Euler Roman
+) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-eur.cfg
+File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
+))) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/5 Diskussion/Diskussion.tex [17
 
-]
+ </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm Skala Schlaf.pdf>]
 Kapitel 5.
 ) [18
 
-] (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Anhang.tex [19
+]
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
+\OT1/cmr/m/n/12 (+20) (Kap. Ge-walt ge-gen Frau-en: ei-ne theo-re-ti-sche Ver-or-tung, S. 32).
+ []
+
+[19
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
+\OT1/cmr/m/n/12 (+20) Kap. Er-schei-nungs-for-men h[]auslicher Ge-walt, S. 115).
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
+\OT1/cmr/m/n/12 (+20) (Kap. Part-ner-ge-walt ge-gen Frau-en, S. 24).
+ []
+
+
+Overfull \hbox (0.20253pt too wide) in paragraph at lines 85--85
+[][]$\OT1/cmr/m/n/12 (+3) https : / / www . violentia -[] muenchen . de / unterscheidung -[] von -[] aggression -[] und -[] gewalt -[] in -[]
+ []
+
+(/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Anhang.tex [21]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [20
+ [22
 
-]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Ehrenwörtliche Erklärung.tex [21
+]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Ehrenwörtliche Erklärung.tex [23
 
 ])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 90.
- [22]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 90.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 88.
+ [24]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 88.
  (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 90.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 90.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 88.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 88.
 Package rerunfilecheck Info: File `SRH_Vorlage.out' has not changed.
-(rerunfilecheck)             Checksum: 1540D2242DA3118331A6A15FAD0D2EBB;1793.
+(rerunfilecheck)             Checksum: 5BDAA45BDE3D0AEF8493AF5074583A8A;1908.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -1442,21 +1483,21 @@ LaTeX Warning: There were multiply-defined labels.
 Package logreq Info: Writing requests to 'SRH_Vorlage.run.xml'.
 \openout1 = `SRH_Vorlage.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 90.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 88.
  ) 
 Here is how much of TeX's memory you used:
- 26152 strings out of 481239
- 442613 string characters out of 5920377
- 1208717 words of memory out of 5000000
- 40846 multiletter control sequences out of 15000+600000
- 545102 words of font info for 99 fonts, out of 8000000 for 9000
+ 26419 strings out of 481239
+ 449821 string characters out of 5920377
+ 1214668 words of memory out of 5000000
+ 41063 multiletter control sequences out of 15000+600000
+ 545298 words of font info for 97 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  80i,23n,131p,1192b,5508s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.pdf (22 pages, 101430 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.pdf (24 pages, 195607 bytes).
 PDF statistics:
- 291 PDF objects out of 1000 (max. 8388607)
- 259 compressed objects within 3 object streams
- 53 named destinations out of 1000 (max. 500000)
- 9953 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 484 PDF objects out of 1000 (max. 8388607)
+ 441 compressed objects within 5 object streams
+ 97 named destinations out of 1000 (max. 500000)
+ 9974 words of extra memory for PDF output out of 10000 (max. 10000000)
 

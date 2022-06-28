@@ -19,6 +19,1197 @@
 
 \refsection{0}
   \datalist[entry]{apa/global//global/global}
+    \entry{impulsive_aggro}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aabdc509ce739d0d4af4d90b5455e6cb}{%
+           family={AlleyDog.com},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{aabdc509ce739d0d4af4d90b5455e6cb}
+      \strng{fullhash}{aabdc509ce739d0d4af4d90b5455e6cb}
+      \strng{bibnamehash}{aabdc509ce739d0d4af4d90b5455e6cb}
+      \strng{authorbibnamehash}{aabdc509ce739d0d4af4d90b5455e6cb}
+      \strng{authornamehash}{aabdc509ce739d0d4af4d90b5455e6cb}
+      \strng{authorfullhash}{aabdc509ce739d0d4af4d90b5455e6cb}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Impulsive Aggression}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.alleydog.com/glossary/definition.php?term=Impulsive+Aggression
+      \endverb
+      \verb{url}
+      \verb https://www.alleydog.com/glossary/definition.php?term=Impulsive+Aggression
+      \endverb
+    \endentry
+    \entry{impulsive_aggro_psych_Störung}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9d813a1cb796d4e1807c74e73517553c}{%
+           family={Amann},
+           familyi={A\bibinitperiod},
+           given={B.H.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9d813a1cb796d4e1807c74e73517553c}
+      \strng{fullhash}{9d813a1cb796d4e1807c74e73517553c}
+      \strng{bibnamehash}{9d813a1cb796d4e1807c74e73517553c}
+      \strng{authorbibnamehash}{9d813a1cb796d4e1807c74e73517553c}
+      \strng{authornamehash}{9d813a1cb796d4e1807c74e73517553c}
+      \strng{authorfullhash}{9d813a1cb796d4e1807c74e73517553c}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Clinician's Guide to Impulsive Aggression}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.additudemag.com/impulsive-aggression-clinicians-guide/
+      \endverb
+      \verb{url}
+      \verb https://www.additudemag.com/impulsive-aggression-clinicians-guide/
+      \endverb
+    \endentry
+    \entry{Aggro_Theorie}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=51aaa9f3f4f078711dd189cfc7b8dff3}{%
+           family={Bandura},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=3f013acc87072083aca577c068ac0ecd}{%
+           family={Geen},
+           familyi={G\bibinitperiod},
+           given={R.G.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=adbf4db3c6b8a1112df58cafff63464f}{%
+           family={Donnerstein},
+           familyi={D\bibinitperiod},
+           given={E.I.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {New York: Academic Press}%
+      }
+      \strng{namehash}{51aaa9f3f4f078711dd189cfc7b8dff3}
+      \strng{fullhash}{51aaa9f3f4f078711dd189cfc7b8dff3}
+      \strng{bibnamehash}{51aaa9f3f4f078711dd189cfc7b8dff3}
+      \strng{authorbibnamehash}{51aaa9f3f4f078711dd189cfc7b8dff3}
+      \strng{authornamehash}{51aaa9f3f4f078711dd189cfc7b8dff3}
+      \strng{authorfullhash}{51aaa9f3f4f078711dd189cfc7b8dff3}
+      \strng{editorbibnamehash}{f314c7a11c9ef6bfd848217246981422}
+      \strng{editornamehash}{f314c7a11c9ef6bfd848217246981422}
+      \strng{editorfullhash}{f314c7a11c9ef6bfd848217246981422}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{Psychological mechanisms of aggression.}
+      \field{title}{Aggression: Theoretical and empirical reviews}
+      \field{year}{1983}
+      \field{pages}{1\bibrangedash 40}
+      \range{pages}{40}
+    \endentry
+    \entry{Gewaltart}{thesis}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=606250bb5e8eb33a6cd3f7b4663e4013}{%
+           family={Blumenthal},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2f746463e8b1cd5db033c55824baad11}{%
+           family={Simonett},
+           familyi={S\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{252d0cc11866bb24a0b04644100959e0}
+      \strng{fullhash}{252d0cc11866bb24a0b04644100959e0}
+      \strng{bibnamehash}{252d0cc11866bb24a0b04644100959e0}
+      \strng{authorbibnamehash}{252d0cc11866bb24a0b04644100959e0}
+      \strng{authornamehash}{252d0cc11866bb24a0b04644100959e0}
+      \strng{authorfullhash}{252d0cc11866bb24a0b04644100959e0}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Häusliche Gewalt gegen Frauen Analyse der aktuellen Unterstützungsangebote mit Handlungsempfehlungen für den Kanton Graubünden}
+      \field{year}{2019}
+    \endentry
+    \entry{physische_Gewalt_wie_aggro}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e003f8a9b0457c76d1d5c2079d4b33ca}{%
+           family={Brzank},
+           familyi={B\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiesbaden: VS Verlag für Sozialwissenschaften}%
+      }
+      \strng{namehash}{e003f8a9b0457c76d1d5c2079d4b33ca}
+      \strng{fullhash}{e003f8a9b0457c76d1d5c2079d4b33ca}
+      \strng{bibnamehash}{e003f8a9b0457c76d1d5c2079d4b33ca}
+      \strng{authorbibnamehash}{e003f8a9b0457c76d1d5c2079d4b33ca}
+      \strng{authornamehash}{e003f8a9b0457c76d1d5c2079d4b33ca}
+      \strng{authorfullhash}{e003f8a9b0457c76d1d5c2079d4b33ca}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{Gewalt gegen Frauen: eine theoretische Verortung}
+      \field{subtitle}{Frauen auf der Suche nach Hilfe}
+      \field{title}{Wege aus der Partnergewalt}
+      \field{year}{2012}
+      \field{pages}{32}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1007/978-3-531-18756-3
+      \endverb
+    \endentry
+    \entry{häusliche_Gewalt}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=73f138de8d4c5f055f47b8ba40d2afd8}{%
+           family={{Bundesministerium für Familien, Senioren, Frauen und Jugend}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{un=0,uniquepart=base,hash=98c5cf4698568ead6fb67e0270d13e15}{%
+           family={BMFSFJ},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{98c5cf4698568ead6fb67e0270d13e15}
+      \strng{fullhash}{73f138de8d4c5f055f47b8ba40d2afd8}
+      \strng{bibnamehash}{98c5cf4698568ead6fb67e0270d13e15}
+      \strng{authorbibnamehash}{73f138de8d4c5f055f47b8ba40d2afd8}
+      \strng{authornamehash}{73f138de8d4c5f055f47b8ba40d2afd8}
+      \strng{authorfullhash}{73f138de8d4c5f055f47b8ba40d2afd8}
+      \strng{shortauthorbibnamehash}{98c5cf4698568ead6fb67e0270d13e15}
+      \strng{shortauthornamehash}{98c5cf4698568ead6fb67e0270d13e15}
+      \strng{shortauthorfullhash}{98c5cf4698568ead6fb67e0270d13e15}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{title}{Formen der Gewalt erkennen}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.bmfsfj.de/bmfsfj/themen/gleichstellung/frauen-vor-gewalt-schuetzen/haeusliche-gewalt
+      \endverb
+      \verb{url}
+      \verb https://www.bmfsfj.de/bmfsfj/themen/gleichstellung/frauen-vor-gewalt-schuetzen/haeusliche-gewalt
+      \endverb
+    \endentry
+    \entry{Def_Aggressivität_eng1}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=010897cff44070b33c7000de85a2b7df}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={Alexa},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{010897cff44070b33c7000de85a2b7df}
+      \strng{fullhash}{010897cff44070b33c7000de85a2b7df}
+      \strng{bibnamehash}{010897cff44070b33c7000de85a2b7df}
+      \strng{authorbibnamehash}{010897cff44070b33c7000de85a2b7df}
+      \strng{authornamehash}{010897cff44070b33c7000de85a2b7df}
+      \strng{authorfullhash}{010897cff44070b33c7000de85a2b7df}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Aggressiveness}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://psychoques.com/aggressiveness/
+      \endverb
+      \verb{url}
+      \verb https://psychoques.com/aggressiveness/
+      \endverb
+    \endentry
+    \entry{Def_Aggressivität_vs_violence}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=010897cff44070b33c7000de85a2b7df}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={Alexa},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{010897cff44070b33c7000de85a2b7df}
+      \strng{fullhash}{010897cff44070b33c7000de85a2b7df}
+      \strng{bibnamehash}{010897cff44070b33c7000de85a2b7df}
+      \strng{authorbibnamehash}{010897cff44070b33c7000de85a2b7df}
+      \strng{authornamehash}{010897cff44070b33c7000de85a2b7df}
+      \strng{authorfullhash}{010897cff44070b33c7000de85a2b7df}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Differences between aggressiveness and violence}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://psychoques.com/differences-between-aggressiveness-and-violence/
+      \endverb
+      \verb{url}
+      \verb https://psychoques.com/differences-between-aggressiveness-and-violence/
+      \endverb
+    \endentry
+    \entry{ausmaß_verbale_aggro}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b0cc8a577a7c887a481b900019b00aed}{%
+           family={Craig},
+           familyi={C\bibinitperiod},
+           given={W.M.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b0cc8a577a7c887a481b900019b00aed}
+      \strng{fullhash}{b0cc8a577a7c887a481b900019b00aed}
+      \strng{bibnamehash}{b0cc8a577a7c887a481b900019b00aed}
+      \strng{authorbibnamehash}{b0cc8a577a7c887a481b900019b00aed}
+      \strng{authornamehash}{b0cc8a577a7c887a481b900019b00aed}
+      \strng{authorfullhash}{b0cc8a577a7c887a481b900019b00aed}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Personality and Individual Differences}
+      \field{title}{The relationship among bullying, victimization, depression, anxiety, and aggression in elementary school children}
+      \field{volume}{24}
+      \field{year}{1998}
+      \field{pages}{123\bibrangedash 130}
+      \range{pages}{8}
+    \endentry
+    \entry{Def_Aggression_1939}{inbook}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=b3c7544229e9e37f3618c97fd8067428}{%
+           family={Dollard},
+           familyi={D\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9cb4d5901f66a7f827a5f54c14396075}{%
+           family={Doob},
+           familyi={D\bibinitperiod},
+           given={L.W.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b8a1340c3165dea4bb1c06f6c3e74f88}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={N.E.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bcea7b5657190ecc0556dd91d606e7e8}{%
+           family={Mowrer},
+           familyi={M\bibinitperiod},
+           given={R.R.},
+           giveni={R\bibinitperiod},
+           givenun=0,
+           suffix={O.H.\bibnamedelimi und\bibnamedelima Sears},
+           suffixi={O\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim S\bibinitperiod},
+           suffixun=0}}%
+      }
+      \list{publisher}{1}{%
+        {New Haven: Yale University-Press}%
+      }
+      \strng{namehash}{645c0c3cda25f93c861c7a9c190f2e75}
+      \strng{fullhash}{47b568db4a37bee00f03fa6901200041}
+      \strng{bibnamehash}{47b568db4a37bee00f03fa6901200041}
+      \strng{authorbibnamehash}{47b568db4a37bee00f03fa6901200041}
+      \strng{authornamehash}{645c0c3cda25f93c861c7a9c190f2e75}
+      \strng{authorfullhash}{47b568db4a37bee00f03fa6901200041}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{Definitions}
+      \field{title}{Frustration and Aggression}
+      \field{year}{1939}
+      \field{pages}{1\bibrangedash 27}
+      \range{pages}{27}
+    \endentry
+    \entry{Def_Aggression_Duden}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c45e241bcca4afb9229f313ad192af74}{%
+           family={Duden},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{c45e241bcca4afb9229f313ad192af74}
+      \strng{fullhash}{c45e241bcca4afb9229f313ad192af74}
+      \strng{bibnamehash}{c45e241bcca4afb9229f313ad192af74}
+      \strng{authorbibnamehash}{c45e241bcca4afb9229f313ad192af74}
+      \strng{authornamehash}{c45e241bcca4afb9229f313ad192af74}
+      \strng{authorfullhash}{c45e241bcca4afb9229f313ad192af74}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Aggression}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.duden.de/rechtschreibung/Aggression
+      \endverb
+      \verb{url}
+      \verb https://www.duden.de/rechtschreibung/Aggression
+      \endverb
+    \endentry
+    \entry{Def_Aggressivität_Duden}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c45e241bcca4afb9229f313ad192af74}{%
+           family={Duden},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{c45e241bcca4afb9229f313ad192af74}
+      \strng{fullhash}{c45e241bcca4afb9229f313ad192af74}
+      \strng{bibnamehash}{c45e241bcca4afb9229f313ad192af74}
+      \strng{authorbibnamehash}{c45e241bcca4afb9229f313ad192af74}
+      \strng{authornamehash}{c45e241bcca4afb9229f313ad192af74}
+      \strng{authorfullhash}{c45e241bcca4afb9229f313ad192af74}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Aggressivität}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.duden.de/rechtschreibung/Aggressivitaet
+      \endverb
+      \verb{url}
+      \verb https://www.duden.de/rechtschreibung/Aggressivitaet
+      \endverb
+    \endentry
+    \entry{Gewalt_Duden}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c45e241bcca4afb9229f313ad192af74}{%
+           family={Duden},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{c45e241bcca4afb9229f313ad192af74}
+      \strng{fullhash}{c45e241bcca4afb9229f313ad192af74}
+      \strng{bibnamehash}{c45e241bcca4afb9229f313ad192af74}
+      \strng{authorbibnamehash}{c45e241bcca4afb9229f313ad192af74}
+      \strng{authornamehash}{c45e241bcca4afb9229f313ad192af74}
+      \strng{authorfullhash}{c45e241bcca4afb9229f313ad192af74}
+      \field{extraname}{3}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Gewalt}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.duden.de/rechtschreibung/Gewalt
+      \endverb
+      \verb{url}
+      \verb https://www.duden.de/rechtschreibung/Gewalt
+      \endverb
+    \endentry
+    \entry{Def_Form_Folge_Gewalt}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=3c32e2d8d139d354c3e6a99f213fc121}{%
+           family={{Eidgenössisches Büro für die Gleichstellung von Frau und Mann}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{un=0,uniquepart=base,hash=cac1b3902f8d03ce14fec2cbd0b9e2bd}{%
+           family={EBG},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{cac1b3902f8d03ce14fec2cbd0b9e2bd}
+      \strng{fullhash}{3c32e2d8d139d354c3e6a99f213fc121}
+      \strng{bibnamehash}{cac1b3902f8d03ce14fec2cbd0b9e2bd}
+      \strng{authorbibnamehash}{3c32e2d8d139d354c3e6a99f213fc121}
+      \strng{authornamehash}{3c32e2d8d139d354c3e6a99f213fc121}
+      \strng{authorfullhash}{3c32e2d8d139d354c3e6a99f213fc121}
+      \strng{shortauthorbibnamehash}{cac1b3902f8d03ce14fec2cbd0b9e2bd}
+      \strng{shortauthornamehash}{cac1b3902f8d03ce14fec2cbd0b9e2bd}
+      \strng{shortauthorfullhash}{cac1b3902f8d03ce14fec2cbd0b9e2bd}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{title}{Definition, Formen und Folgen häuslicher Gewalt}
+      \field{year}{2020}
+    \endentry
+    \entry{positive_aggression}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a34ab1f2aa67227b86a5ff653af37920}{%
+           family={Ellis},
+           familyi={E\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a34ab1f2aa67227b86a5ff653af37920}
+      \strng{fullhash}{a34ab1f2aa67227b86a5ff653af37920}
+      \strng{bibnamehash}{a34ab1f2aa67227b86a5ff653af37920}
+      \strng{authorbibnamehash}{a34ab1f2aa67227b86a5ff653af37920}
+      \strng{authornamehash}{a34ab1f2aa67227b86a5ff653af37920}
+      \strng{authorfullhash}{a34ab1f2aa67227b86a5ff653af37920}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Humanitas}
+      \field{title}{Healthy and unhealthy aggression}
+      \field{volume}{12}
+      \field{year}{1976}
+      \field{pages}{239\bibrangedash 254}
+      \range{pages}{16}
+    \endentry
+    \entry{impulsive_instrumental_aggro_healtline}{online}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7584b1debb2d1b1763e7dd6cefa2bdc0}{%
+           family={Gabbey},
+           familyi={G\bibinitperiod},
+           given={A.E.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=54a8913960309fa4dd40290905ab7d1e}{%
+           family={Raypole},
+           familyi={R\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=d901ede462cc658ef7c6c4d721265f5f}{%
+           family={Dr.\bibnamedelimi Juby},
+           familyi={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{b8e628c09aa147c85547eff890a336f4}
+      \strng{fullhash}{b8e628c09aa147c85547eff890a336f4}
+      \strng{bibnamehash}{b8e628c09aa147c85547eff890a336f4}
+      \strng{authorbibnamehash}{b8e628c09aa147c85547eff890a336f4}
+      \strng{authornamehash}{b8e628c09aa147c85547eff890a336f4}
+      \strng{authorfullhash}{b8e628c09aa147c85547eff890a336f4}
+      \strng{editorbibnamehash}{d901ede462cc658ef7c6c4d721265f5f}
+      \strng{editornamehash}{d901ede462cc658ef7c6c4d721265f5f}
+      \strng{editorfullhash}{d901ede462cc658ef7c6c4d721265f5f}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Aggressive Behaviou: Unterstanding Aggression and How to Treat It}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.healthline.com/health/aggressive-behavior
+      \endverb
+      \verb{url}
+      \verb https://www.healthline.com/health/aggressive-behavior
+      \endverb
+    \endentry
+    \entry{Def_haus_Gewalt}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9eca0d4c13e91e3cd77adc8d1bfeabf4}{%
+           family={Gerlach},
+           familyi={G\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=db9b193fe5d2e0063c0ed9412f969062}{%
+           family={Grassberger},
+           familyi={G\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9b491a9ea30ccfe74d01e9c6b949ccbb}{%
+           family={Türk},
+           familyi={T\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=0c295b77d90318e393b9066221ee57c2}{%
+           family={Yen},
+           familyi={Y\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Berlin Heidelberg: Springer-Verlag}%
+      }
+      \strng{namehash}{9eca0d4c13e91e3cd77adc8d1bfeabf4}
+      \strng{fullhash}{9eca0d4c13e91e3cd77adc8d1bfeabf4}
+      \strng{bibnamehash}{9eca0d4c13e91e3cd77adc8d1bfeabf4}
+      \strng{authorbibnamehash}{9eca0d4c13e91e3cd77adc8d1bfeabf4}
+      \strng{authornamehash}{9eca0d4c13e91e3cd77adc8d1bfeabf4}
+      \strng{authorfullhash}{9eca0d4c13e91e3cd77adc8d1bfeabf4}
+      \strng{editorbibnamehash}{1a75c5b4c37c8c37bff6ed08f62310e8}
+      \strng{editornamehash}{8197b9cfcfabc65d19d783339d94a07f}
+      \strng{editorfullhash}{1a75c5b4c37c8c37bff6ed08f62310e8}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{Häusliche Gewalt: Definition}
+      \field{title}{Klinisch-forensische Medizin}
+      \field{year}{2013}
+      \field{pages}{228\bibrangedash 242}
+      \range{pages}{15}
+    \endentry
+    \entry{psych_Gewalt_2}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=db1a4bc318307fd7c09ce90fff401a4d}{%
+           family={Hirigoyen},
+           familyi={H\bibinitperiod},
+           given={M.F.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=55dd95a59c18bd990bc247b5e055cdf0}{%
+           family={Gabler},
+           familyi={G\bibinitperiod},
+           given={I.\bibnamedelimi M.},
+           giveni={I\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Münschen: C.H.Beck}%
+      }
+      \strng{namehash}{db1a4bc318307fd7c09ce90fff401a4d}
+      \strng{fullhash}{db1a4bc318307fd7c09ce90fff401a4d}
+      \strng{bibnamehash}{db1a4bc318307fd7c09ce90fff401a4d}
+      \strng{authorbibnamehash}{db1a4bc318307fd7c09ce90fff401a4d}
+      \strng{authornamehash}{db1a4bc318307fd7c09ce90fff401a4d}
+      \strng{authorfullhash}{db1a4bc318307fd7c09ce90fff401a4d}
+      \strng{translatorbibnamehash}{55dd95a59c18bd990bc247b5e055cdf0}
+      \strng{translatornamehash}{55dd95a59c18bd990bc247b5e055cdf0}
+      \strng{translatorfullhash}{55dd95a59c18bd990bc247b5e055cdf0}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{Seelische Gewalt}
+      \field{subtitle}{Gewalt in Partnerschaften}
+      \field{title}{Warum tust du mir das an?}
+      \field{year}{2006}
+      \field{pages}{37}
+      \range{pages}{1}
+    \endentry
+    \entry{jack1999behind}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7ae1b4dcdb93ca5478e8765c96e7ea8b}{%
+           family={Jack},
+           familyi={J\bibinitperiod},
+           given={D.C.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Boston: Harvard University Press}%
+      }
+      \strng{namehash}{7ae1b4dcdb93ca5478e8765c96e7ea8b}
+      \strng{fullhash}{7ae1b4dcdb93ca5478e8765c96e7ea8b}
+      \strng{bibnamehash}{7ae1b4dcdb93ca5478e8765c96e7ea8b}
+      \strng{authorbibnamehash}{7ae1b4dcdb93ca5478e8765c96e7ea8b}
+      \strng{authornamehash}{7ae1b4dcdb93ca5478e8765c96e7ea8b}
+      \strng{authorfullhash}{7ae1b4dcdb93ca5478e8765c96e7ea8b}
+      \field{sortinit}{J}
+      \field{sortinithash}{c45040a764d616897e7f5b30174d7b92}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Behind the Mask}
+      \field{title}{Behind the mask}
+      \field{year}{1999}
+      \verb{doi}
+      \verb https://doi.org/10.4159/9780674038998
+      \endverb
+    \endentry
+    \entry{instrumental_dictionary}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=01ea355de23e5c447ad82d237362fd23}{%
+           family={Kent},
+           familyi={K\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{01ea355de23e5c447ad82d237362fd23}
+      \strng{fullhash}{01ea355de23e5c447ad82d237362fd23}
+      \strng{bibnamehash}{01ea355de23e5c447ad82d237362fd23}
+      \strng{authorbibnamehash}{01ea355de23e5c447ad82d237362fd23}
+      \strng{authornamehash}{01ea355de23e5c447ad82d237362fd23}
+      \strng{authorfullhash}{01ea355de23e5c447ad82d237362fd23}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Oxford Dictionary of Sports Science und Medicine}
+      \field{year}{2007}
+      \verb{urlraw}
+      \verb https://www.oxfordreference.com/view/10.1093/acref/9780198568506.001.0001/acref-9780198568506-e-3546)
+      \endverb
+      \verb{url}
+      \verb https://www.oxfordreference.com/view/10.1093/acref/9780198568506.001.0001/acref-9780198568506-e-3546)
+      \endverb
+    \endentry
+    \entry{Def_haus_Gewalt_2}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e8f1c42161f62fecda456afcb1b8cdc3}{%
+           family={Kolier},
+           familyi={K\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e8f1c42161f62fecda456afcb1b8cdc3}
+      \strng{fullhash}{e8f1c42161f62fecda456afcb1b8cdc3}
+      \strng{bibnamehash}{e8f1c42161f62fecda456afcb1b8cdc3}
+      \strng{authorbibnamehash}{e8f1c42161f62fecda456afcb1b8cdc3}
+      \strng{authornamehash}{e8f1c42161f62fecda456afcb1b8cdc3}
+      \strng{authorfullhash}{e8f1c42161f62fecda456afcb1b8cdc3}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Frauen als Opfer häuslicher Gewalt: Eine empirische Darstellung mit Bezug auf erneute Gewalt in Partnerschaften und künftige Liebesbeziehungen}
+      \field{year}{2019}
+    \endentry
+    \entry{Def_unterscheidung_Springer}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4b1e832eb95a36a274fb8093f8fb5ce2}{%
+           family={Kornadt},
+           familyi={K\bibinitperiod},
+           given={HJ.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=3acc4118247cc4cb4f22e385cce32a3b}{%
+           family={GmbH},
+           familyi={G\bibinitperiod},
+           given={Springer\bibnamedelimb Fachmedien\bibnamedelima Wiesbaden},
+           giveni={S\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {VS Verlag für Sozialwissenschaften}%
+      }
+      \strng{namehash}{4b1e832eb95a36a274fb8093f8fb5ce2}
+      \strng{fullhash}{4b1e832eb95a36a274fb8093f8fb5ce2}
+      \strng{bibnamehash}{4b1e832eb95a36a274fb8093f8fb5ce2}
+      \strng{authorbibnamehash}{4b1e832eb95a36a274fb8093f8fb5ce2}
+      \strng{authornamehash}{4b1e832eb95a36a274fb8093f8fb5ce2}
+      \strng{authorfullhash}{4b1e832eb95a36a274fb8093f8fb5ce2}
+      \strng{editorbibnamehash}{3acc4118247cc4cb4f22e385cce32a3b}
+      \strng{editornamehash}{3acc4118247cc4cb4f22e385cce32a3b}
+      \strng{editorfullhash}{3acc4118247cc4cb4f22e385cce32a3b}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{Was ist Aggression? Was ist Aggressivität? Und wie entstehen sie?}
+      \field{title}{Aggression}
+      \field{year}{2011}
+      \field{pages}{31\bibrangedash 38}
+      \range{pages}{8}
+      \verb{doi}
+      \verb https://doi.org/10.1007/978-3-531-93006-0_2
+      \endverb
+    \endentry
+    \entry{Aggro_Theorie_Buch}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cb17bc6d2b76a20da13d191efec5b148}{%
+           family={Krahé},
+           familyi={K\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=bca8c181c8e64524cd0af76699e84a7f}{%
+           family={Jonas},
+           familyi={J\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=8e46f53862d81437535e19804b4a5910}{%
+           family={Stroebe},
+           familyi={S\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=8a51ea08657b1aa7f923180f84019921}{%
+           family={Hewstone},
+           familyi={H\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Berlin Heidelberg: Springer-Verlag}%
+      }
+      \strng{namehash}{cb17bc6d2b76a20da13d191efec5b148}
+      \strng{fullhash}{cb17bc6d2b76a20da13d191efec5b148}
+      \strng{bibnamehash}{cb17bc6d2b76a20da13d191efec5b148}
+      \strng{authorbibnamehash}{cb17bc6d2b76a20da13d191efec5b148}
+      \strng{authornamehash}{cb17bc6d2b76a20da13d191efec5b148}
+      \strng{authorfullhash}{cb17bc6d2b76a20da13d191efec5b148}
+      \strng{editorbibnamehash}{241be782a3c039b3c95b07cbf28afa9f}
+      \strng{editornamehash}{99f78bdb2a1ccd2171f2bde53c91a330}
+      \strng{editorfullhash}{241be782a3c039b3c95b07cbf28afa9f}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{Aggression}
+      \field{edition}{6}
+      \field{title}{Sozialpsychologie}
+      \field{year}{2014}
+      \field{pages}{315\bibrangedash 356}
+      \range{pages}{42}
+    \endentry
+    \entry{Gewaltarten_WHO}{online}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=486d9f759293601946b79663b6eb13c9}{%
+           family={Krug},
+           familyi={K\bibinitperiod},
+           given={E.G.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6e3cad09a3f5dbc750fe38cbccd1b4d5}{%
+           family={Dahlberg},
+           familyi={D\bibinitperiod},
+           given={L.L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=18739c534b0845569f8c784a5ee5ef9b}{%
+           family={Mercy},
+           familyi={M\bibinitperiod},
+           given={J.A.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6da204ff274fa84db8193217737f5f85}{%
+           family={Zwi},
+           familyi={Z\bibinitperiod},
+           given={A.B.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9bd0370cf6e536473a41337aefe74108}{%
+           family={R.},
+           familyi={R\bibinitperiod},
+           given={Lozano},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=2d164aa8b252e4e814067af10926e1bd}{%
+           family={Organisation},
+           familyi={O\bibinitperiod},
+           given={World\bibnamedelima Health},
+           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{905b4bf904c299eb2a4a19577ad5dc78}
+      \strng{fullhash}{4936256b22c6e56edb7355ee1232a5aa}
+      \strng{bibnamehash}{4936256b22c6e56edb7355ee1232a5aa}
+      \strng{authorbibnamehash}{4936256b22c6e56edb7355ee1232a5aa}
+      \strng{authornamehash}{905b4bf904c299eb2a4a19577ad5dc78}
+      \strng{authorfullhash}{4936256b22c6e56edb7355ee1232a5aa}
+      \strng{editorbibnamehash}{2d164aa8b252e4e814067af10926e1bd}
+      \strng{editornamehash}{2d164aa8b252e4e814067af10926e1bd}
+      \strng{editorfullhash}{2d164aa8b252e4e814067af10926e1bd}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{World report on violence and health (WHO)}
+      \field{year}{2002}
+      \verb{urlraw}
+      \verb https://apps.who.int/iris/bitstream/handle/10665/42495/9241545615_eng.pdf
+      \endverb
+      \verb{url}
+      \verb https://apps.who.int/iris/bitstream/handle/10665/42495/9241545615_eng.pdf
+      \endverb
+    \endentry
+    \entry{psych_Gewalt}{inbook}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=34763190a2e93bb47256b62b03dd0a66}{%
+           family={Lamnek},
+           familyi={L\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2e07dba3457b24bc84ea0e71e7c1f920}{%
+           family={Luedtke},
+           familyi={L\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c4d288d405f09d7d117ce3273f49eaab}{%
+           family={Ottermann},
+           familyi={O\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0,
+           suffix={R.\bibnamedelimi und\bibnamedelima Vogl},
+           suffixi={R\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim V\bibinitperiod},
+           suffixun=0}}%
+      }
+      \list{publisher}{1}{%
+        {VS Verlag für Wozialwissenschaften}%
+      }
+      \strng{namehash}{ab72df3feea5506998dfb371beac522f}
+      \strng{fullhash}{55bcd9a897083e1377d28099fdb734ed}
+      \strng{bibnamehash}{55bcd9a897083e1377d28099fdb734ed}
+      \strng{authorbibnamehash}{55bcd9a897083e1377d28099fdb734ed}
+      \strng{authornamehash}{ab72df3feea5506998dfb371beac522f}
+      \strng{authorfullhash}{55bcd9a897083e1377d28099fdb734ed}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{Erscheinungsformen häuslicher Gewalt}
+      \field{edition}{3., erweiterte und überarbeitete Aufl.}
+      \field{subtitle}{Häusliche Gewalt im gesellschaftlichen Kontext}
+      \field{title}{Tatort Familie}
+      \field{year}{2012}
+      \field{pages}{115}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1007/978-3-531-93127-2
+      \endverb
+    \endentry
+    \entry{Aggression}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7bb074c37d04e2fb30a473aa12102ae1}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7bb074c37d04e2fb30a473aa12102ae1}
+      \strng{fullhash}{7bb074c37d04e2fb30a473aa12102ae1}
+      \strng{bibnamehash}{7bb074c37d04e2fb30a473aa12102ae1}
+      \strng{authorbibnamehash}{7bb074c37d04e2fb30a473aa12102ae1}
+      \strng{authornamehash}{7bb074c37d04e2fb30a473aa12102ae1}
+      \strng{authorfullhash}{7bb074c37d04e2fb30a473aa12102ae1}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{7}
+      \field{journaltitle}{Issues in Mental Health Nursing}
+      \field{title}{Concept Analysis: Aggression}
+      \field{volume}{25}
+      \field{year}{2004}
+      \field{pages}{693\bibrangedash 714}
+      \range{pages}{22}
+      \verb{doi}
+      \verb https://doi.org/10.1080/01612840490486755
+      \endverb
+    \endentry
+    \entry{instrumental_aggro}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=091f04400b4ba89346fe3e91dbe7bc61}{%
+           family={Nickerson},
+           familyi={N\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{091f04400b4ba89346fe3e91dbe7bc61}
+      \strng{fullhash}{091f04400b4ba89346fe3e91dbe7bc61}
+      \strng{bibnamehash}{091f04400b4ba89346fe3e91dbe7bc61}
+      \strng{authorbibnamehash}{091f04400b4ba89346fe3e91dbe7bc61}
+      \strng{authornamehash}{091f04400b4ba89346fe3e91dbe7bc61}
+      \strng{authorfullhash}{091f04400b4ba89346fe3e91dbe7bc61}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Instrumental Aggression: Definition und Examples}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.simplypsychology.org/instrumental-aggression.html
+      \endverb
+      \verb{url}
+      \verb https://www.simplypsychology.org/instrumental-aggression.html
+      \endverb
+    \endentry
+    \entry{physische_verbale_aggro}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6dd83aa3217726285e491d64481e882b}{%
+           family={Minnesota},
+           familyi={M\bibinitperiod},
+           given={University},
+           giveni={U\bibinitperiod},
+           givenun=0,
+           prefix={of},
+           prefixi={o\bibinitperiod}}}%
+      }
+      \strng{namehash}{6dd83aa3217726285e491d64481e882b}
+      \strng{fullhash}{6dd83aa3217726285e491d64481e882b}
+      \strng{bibnamehash}{6dd83aa3217726285e491d64481e882b}
+      \strng{authorbibnamehash}{6dd83aa3217726285e491d64481e882b}
+      \strng{authornamehash}{6dd83aa3217726285e491d64481e882b}
+      \strng{authorfullhash}{6dd83aa3217726285e491d64481e882b}
+      \field{sortinit}{o}
+      \field{sortinithash}{ff8d4eeb5101e3cf3809959b3592d942}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{10.1 Defining Aggression}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://open.lib.umn.edu/socialpsychology/chapter/10-1-defining-aggression/
+      \endverb
+      \verb{url}
+      \verb https://open.lib.umn.edu/socialpsychology/chapter/10-1-defining-aggression/
+      \endverb
+    \endentry
+    \entry{Def_Aggressivität_Spektrum}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2d44349af1a57cb92ea97ac880ad86a7}{%
+           family={Spektrum},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{2d44349af1a57cb92ea97ac880ad86a7}
+      \strng{fullhash}{2d44349af1a57cb92ea97ac880ad86a7}
+      \strng{bibnamehash}{2d44349af1a57cb92ea97ac880ad86a7}
+      \strng{authorbibnamehash}{2d44349af1a57cb92ea97ac880ad86a7}
+      \strng{authornamehash}{2d44349af1a57cb92ea97ac880ad86a7}
+      \strng{authorfullhash}{2d44349af1a57cb92ea97ac880ad86a7}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Lexikon der Psychologie: Aggressivität}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.spektrum.de/lexikon/psychologie/aggressivitaet/346
+      \endverb
+      \verb{url}
+      \verb https://www.spektrum.de/lexikon/psychologie/aggressivitaet/346
+      \endverb
+    \endentry
+    \entry{ph_G_wie_aggro}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=653cd44d7712b014eaa91e5505bdba0c}{%
+           family={Szomoru},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Münschen: Starks-Sture-Verlag}%
+      }
+      \strng{namehash}{653cd44d7712b014eaa91e5505bdba0c}
+      \strng{fullhash}{653cd44d7712b014eaa91e5505bdba0c}
+      \strng{bibnamehash}{653cd44d7712b014eaa91e5505bdba0c}
+      \strng{authorbibnamehash}{653cd44d7712b014eaa91e5505bdba0c}
+      \strng{authornamehash}{653cd44d7712b014eaa91e5505bdba0c}
+      \strng{authorfullhash}{653cd44d7712b014eaa91e5505bdba0c}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Wer einmal schlägt wird's wieder tun: Gewalt und Co-Abhängigkeit in Beziehungen}
+      \field{year}{2006}
+      \field{pages}{29}
+      \range{pages}{1}
+    \endentry
+    \entry{Übergang_psy_zu_sex_Gewalt}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e48c20cc91ec67bce889ecd3a55ea158}{%
+           family={Ueckeroth},
+           familyi={U\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Herbolzheim: Centaurus Verlag und Media}%
+      }
+      \strng{namehash}{e48c20cc91ec67bce889ecd3a55ea158}
+      \strng{fullhash}{e48c20cc91ec67bce889ecd3a55ea158}
+      \strng{bibnamehash}{e48c20cc91ec67bce889ecd3a55ea158}
+      \strng{authorbibnamehash}{e48c20cc91ec67bce889ecd3a55ea158}
+      \strng{authornamehash}{e48c20cc91ec67bce889ecd3a55ea158}
+      \strng{authorfullhash}{e48c20cc91ec67bce889ecd3a55ea158}
+      \field{sortinit}{U}
+      \field{sortinithash}{77a6935510e008adcf5b555e7b4f0711}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{Partnergewalt gegen Frauen}
+      \field{title}{Partnergewalt gegen Frauen und deren Gewaltbewältigung}
+      \field{year}{2014}
+      \field{pages}{24}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1007/978-3-86226-848-1
+      \endverb
+    \endentry
+    \entry{was_Aggression}{online}{}
+      \name{author}{1}{}{%
+        {{hash=c0adc6c1a45c2d661cb2a9c9fd07fcbf}{%
+           family={{Verwaltungs-Berufsgenossenschaft}},
+           familyi={V\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{un=0,uniquepart=base,hash=7036a4f962c7d07b5f5ce2aa6f4e3853}{%
+           family={VBG},
+           familyi={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{7036a4f962c7d07b5f5ce2aa6f4e3853}
+      \strng{fullhash}{c0adc6c1a45c2d661cb2a9c9fd07fcbf}
+      \strng{bibnamehash}{7036a4f962c7d07b5f5ce2aa6f4e3853}
+      \strng{authorbibnamehash}{c0adc6c1a45c2d661cb2a9c9fd07fcbf}
+      \strng{authornamehash}{c0adc6c1a45c2d661cb2a9c9fd07fcbf}
+      \strng{authorfullhash}{c0adc6c1a45c2d661cb2a9c9fd07fcbf}
+      \strng{shortauthorbibnamehash}{7036a4f962c7d07b5f5ce2aa6f4e3853}
+      \strng{shortauthornamehash}{7036a4f962c7d07b5f5ce2aa6f4e3853}
+      \strng{shortauthorfullhash}{7036a4f962c7d07b5f5ce2aa6f4e3853}
+      \field{sortinit}{V}
+      \field{sortinithash}{02432525618c08e2b03cac47c19764af}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{title}{Was ist Aggression?}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.vbg.de/wbt/gewaltpraevention/daten/html/402.htm
+      \endverb
+      \verb{url}
+      \verb https://www.vbg.de/wbt/gewaltpraevention/daten/html/402.htm
+      \endverb
+    \endentry
+    \entry{physische_verbale_aggro_2}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e8eb1762bab77b0b4817673690129942}{%
+           family={vioenTia},
+           familyi={v\bibinitperiod}}}%
+      }
+      \strng{namehash}{e8eb1762bab77b0b4817673690129942}
+      \strng{fullhash}{e8eb1762bab77b0b4817673690129942}
+      \strng{bibnamehash}{e8eb1762bab77b0b4817673690129942}
+      \strng{authorbibnamehash}{e8eb1762bab77b0b4817673690129942}
+      \strng{authornamehash}{e8eb1762bab77b0b4817673690129942}
+      \strng{authorfullhash}{e8eb1762bab77b0b4817673690129942}
+      \field{sortinit}{v}
+      \field{sortinithash}{02432525618c08e2b03cac47c19764af}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Definitionen: Aggression und Gewalt in der Psychologie}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.violentia-muenchen.de/unterscheidung-von-aggression-und-gewalt-in-der-psychologie/
+      \endverb
+      \verb{url}
+      \verb https://www.violentia-muenchen.de/unterscheidung-von-aggression-und-gewalt-in-der-psychologie/
+      \endverb
+    \endentry
     \entry{Friedrich_Hacker}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=67ee32e45504fd578d62ce2f3d497cf7}{%

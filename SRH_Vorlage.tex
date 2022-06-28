@@ -42,24 +42,17 @@
 % certain location next to each other
 
 % is für "Abbildung" im Verzeichnis
-\makeatletter
-\def\@chapter[#1]#2{\ifnum \c@secnumdepth >\m@ne
-                         \refstepcounter{chapter}%
-                         \typeout{\@chapapp\space\thechapter.}%
-                         \addcontentsline{toc}{chapter}%
-                                   {\protect\numberline{\thechapter}#1}%
-                    \else
-                      \addcontentsline{toc}{chapter}{#1}%
-                    \fi
-                    \chaptermark{#1}%
-                    \if@twocolumn
-                      \@topnewpage[\@makechapterhead{#2}]%
-                    \else
-                      \@makechapterhead{#2}%
-                      \@afterheading
-                    \fi}
-\makeatother
+\usepackage{tocloft}
+\renewcommand{\cfttabpresnum}{\normalfont Tabelle }
+\renewcommand{\cfttabaftersnum}{.}
+\cftsetindents{tab}{0em}{5em}
+\renewcommand{\cfttabfont}{\itshape}
 
+\renewcommand{\cftfigpresnum}{Abbildung }
+\renewcommand{\cftfigaftersnum}{.}
+\cftsetindents{fig}{0em}{6.5em}
+\renewcommand{\cftfigfont}{\itshape}
+\renewcommand{\cftfigaftersnumb}{\normalfont}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%% END VORSPANN %%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -72,8 +65,13 @@
 \input{Abstract.tex}
 \tableofcontents
 \clearpage
+\phantomsection \addtocontents{toc}{\vspace*{-1cm}}
+\phantomsection \addcontentsline{toc}{chapter}{Abbildungsverzeichnis}
 \listoffigures
+\phantomsection \addtocontents{lof}{\vspace*{-1cm}}
 \clearpage
+\phantomsection \addcontentsline{toc}{chapter}{Tabellenverzeichnis}
+\phantomsection \addtocontents{lot}{\vspace*{-1cm}}
 \listoftables
 
 

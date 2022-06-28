@@ -1,20 +1,20 @@
 [0] Config.pm:304> INFO - This is Biber 2.14 (beta)
-[0] Config.pm:307> INFO - Logfile is 'SRH_Vorlage.blg'
-[90] biber:322> INFO - === Tue Jun 28, 2022, 19:23:07
-[120] Biber.pm:415> INFO - Reading 'SRH_Vorlage.bcf'
-[205] Biber.pm:943> INFO - Found 1 citekeys in bib section 0
-[227] Biber.pm:4256> INFO - Processing section 0
-[228] Utils.pm:75> INFO - Globbing data source 'Quellen.bib'
-[230] Utils.pm:91> INFO - Globbed data source 'Quellen.bib' to Quellen.bib
-[241] Biber.pm:4455> INFO - Looking for bibtex format file 'Quellen.bib' for section 0
-[254] bibtex.pm:1653> INFO - LaTeX decoding ...
-[306] bibtex.pm:1471> INFO - Found BibTeX data source 'Quellen.bib'
-[334] Utils.pm:293> WARN - BibTeX subsystem: /tmp/biber_tmp_0o3H/Quellen.bib_25824.utf8, line 48, warning: 1 characters of junk seen at toplevel
-[334] Utils.pm:293> WARN - BibTeX subsystem: /tmp/biber_tmp_0o3H/Quellen.bib_25824.utf8, line 44, warning: undefined macro "[https://doi.org/10.1007/3-540-28507-5_5"
-[343] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[344] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[345] Biber.pm:4084> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'de-DE'
-[345] Biber.pm:4090> INFO - No sort tailoring available for locale 'de-DE'
-[352] bbl.pm:652> INFO - Writing 'SRH_Vorlage.bbl' with encoding 'UTF-8'
-[353] bbl.pm:755> INFO - Output to SRH_Vorlage.bbl
-[355] Biber.pm:128> INFO - WARNINGS: 2
+[1] Config.pm:307> INFO - Logfile is 'SRH_Vorlage.blg'
+[286] biber:322> INFO - === Tue Jun 28, 2022, 22:46:14
+[415] Biber.pm:415> INFO - Reading 'SRH_Vorlage.bcf'
+[804] Biber.pm:943> INFO - Found 34 citekeys in bib section 0
+[1549] Biber.pm:4256> INFO - Processing section 0
+[1612] Utils.pm:75> INFO - Globbing data source 'Quellen.bib'
+[1810] Utils.pm:91> INFO - Globbed data source 'Quellen.bib' to Quellen.bib
+[1932] Biber.pm:4455> INFO - Looking for bibtex format file 'Quellen.bib' for section 0
+[2075] bibtex.pm:1653> INFO - LaTeX decoding ...
+[2274] bibtex.pm:1471> INFO - Found BibTeX data source 'Quellen.bib'
+[2485] Utils.pm:293> WARN - BibTeX subsystem: /tmp/biber_tmp_GIbg/Quellen.bib_29795.utf8, line 48, warning: 1 characters of junk seen at toplevel
+[2486] Utils.pm:293> WARN - BibTeX subsystem: /tmp/biber_tmp_GIbg/Quellen.bib_29795.utf8, line 44, warning: undefined macro "[https://doi.org/10.1007/3-540-28507-5_5"
+[2552] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2552] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2552] Biber.pm:4084> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'de-DE'
+[2553] Biber.pm:4090> INFO - No sort tailoring available for locale 'de-DE'
+[2598] bbl.pm:652> INFO - Writing 'SRH_Vorlage.bbl' with encoding 'UTF-8'
+[2645] bbl.pm:755> INFO - Output to SRH_Vorlage.bbl
+[2646] Biber.pm:128> INFO - WARNINGS: 2
