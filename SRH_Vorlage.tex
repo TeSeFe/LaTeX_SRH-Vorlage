@@ -41,6 +41,25 @@
 \usepackage{subcaption}   % environment allows you to place multiple images at a 
 % certain location next to each other
 
+% is für "Abbildung" im Verzeichnis
+\makeatletter
+\def\@chapter[#1]#2{\ifnum \c@secnumdepth >\m@ne
+                         \refstepcounter{chapter}%
+                         \typeout{\@chapapp\space\thechapter.}%
+                         \addcontentsline{toc}{chapter}%
+                                   {\protect\numberline{\thechapter}#1}%
+                    \else
+                      \addcontentsline{toc}{chapter}{#1}%
+                    \fi
+                    \chaptermark{#1}%
+                    \if@twocolumn
+                      \@topnewpage[\@makechapterhead{#2}]%
+                    \else
+                      \@makechapterhead{#2}%
+                      \@afterheading
+                    \fi}
+\makeatother
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%% END VORSPANN %%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -52,14 +71,17 @@
 \input{Titelblatt.tex}
 \input{Abstract.tex}
 \tableofcontents
+\clearpage
 \listoffigures
+\clearpage
 \listoftables
 
 
-\input{Chapter1.tex}
-\input{Chapter2.tex}
-\input{Chapter3.tex}
-\input{Chapter4.tex}
+\input{1 Einleitung.tex}
+\input{2 Theorie/Theorie.tex}
+\input{3 Methode/Methoden.tex}
+\input{4 Ergebnisse/Ergebnisse.tex}
+\input{5 Diskussion/Diskussion.tex}
 
 
 \printbibliography[heading=bibintoc,title={Literaturverzeichnis}]

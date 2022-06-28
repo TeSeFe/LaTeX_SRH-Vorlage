@@ -1,47 +1,63 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
-\babel@toc {ngerman}{}\relax 
+\babel@toc {ngerman}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Abbildungsverzeichnis}{4}{section*.2}%
+\contentsline {chapter}{\numberline {1}Einleitung}{7}{chapter.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Tabellenverzeichnis}{5}{section*.4}%
+\contentsline {chapter}{\numberline {2}Theorie}{8}{chapter.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {1}Theorie}{6}{chapter.1}%
+\contentsline {section}{\numberline {2.1}Konstrukte}{8}{section.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.1}Um etwas in Anführungsstrichen zu schreiben}{6}{section.1.1}%
+\contentsline {subsection}{\numberline {2.1.1}Aggressivität und Aggression}{8}{subsection.2.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1.1}Deutsche Art}{6}{subsection.1.1.1}%
+\contentsline {subsubsection}{Arten der Aggression}{10}{subsection.2.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1.2}Englische Art}{6}{subsection.1.1.2}%
+\contentsline {subsubsection}{Aggressionstheorie}{11}{subsection.2.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}Underlined, fett oder kursiv}{6}{section.1.2}%
+\contentsline {subsection}{\numberline {2.1.2}Häusliche Gewalt}{11}{subsection.2.1.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.1}Zu kursiv schreibende Elemente}{6}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {2.1.3}Gewaltmythen}{13}{subsection.2.1.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}Methoden}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.2}Theoretische Herleitung der Hypothesen}{13}{section.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Fußnote}{7}{section.2.1}%
+\contentsline {subsection}{\numberline {2.2.1}Hypothese 1}{13}{subsection.2.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Darstellung von Begriffen und stat. Kennwerten}{7}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.2}Hypothese 2}{13}{subsection.2.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.1}Bestimmte stat. Symbole}{7}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.3}Hypothese 3}{14}{subsection.2.2.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Ergebnisse}{9}{chapter.3}%
+\contentsline {chapter}{\numberline {3}Methoden}{15}{chapter.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Tabellen}{9}{section.3.1}%
+\contentsline {section}{\numberline {3.1}Stichprobenbeschreibung}{15}{section.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Abbildungen}{10}{section.3.2}%
+\contentsline {section}{\numberline {3.2}Untersuchungsdesign}{15}{section.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Diskussion}{12}{chapter.4}%
+\contentsline {section}{\numberline {3.3}Operationalisierung der Konstrukte}{15}{section.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Zitationsbeispiele}{12}{section.4.1}%
+\contentsline {section}{\numberline {3.4}Untersuchungsdurchführung}{15}{section.3.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.1}Werk von zwei oder mehr Personen}{12}{subsection.4.1.1}%
+\contentsline {section}{\numberline {3.5}Auswertungsmethode}{16}{section.3.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.2}Blockzitat}{13}{subsection.4.1.2}%
+\contentsline {chapter}{\numberline {4}Ergebnisse}{17}{chapter.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Literaturverzeichnis}{14}{chapter*.10}%
+\contentsline {section}{\numberline {4.1}Deskriptive Ergebnisse}{17}{section.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Anhang A}{15}{appendix*.11}%
+\contentsline {section}{\numberline {4.2}Inferenzstatistische Ergebnisse}{17}{section.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Anhang B}{16}{appendix*.12}%
+\contentsline {section}{\numberline {4.3}Explorative Ergebnisse}{17}{section.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Diskussion}{18}{chapter.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Zusammenfassung der zentralen Ergebnisse}{18}{section.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}Einordnung und Diskussion der Befunde}{18}{section.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.3}Bewertung der Methode}{18}{section.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.4}Ausblick}{18}{section.5.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Literaturverzeichnis}{19}{chapter*.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Anhang A}{20}{appendix*.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Anhang B}{21}{appendix*.4}%
 \contentsfinish 

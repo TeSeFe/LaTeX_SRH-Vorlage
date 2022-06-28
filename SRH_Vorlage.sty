@@ -1,5 +1,5 @@
 %% this style package follows the DGPs 5th edition rules as well as the 
-%% SRH Hochschule Heidelberg rules and therefore produce a correctly formatted
+%% SRH Hochschule Heidelberg rules and therefore produces a correctly formatted
 %% PDF file as of 24th Aug. 2021
 
 \NeedsTeXFormat{LaTeX2e}
@@ -21,7 +21,9 @@
 %to true and once if multilingual support is available but will not issue any 
 %warnings if not (i. e., if neither babel nor polyglossia have been loaded). The 
 %short form autostyle is equivalent to autostyle=true. 
-\MakeAutoQuote{«}{»}
+%\MakeAutoQuote{«}{»}
+% Anführungsstriche einfacher schreiben
+\MakeOuterQuote{"}
 
 
 
@@ -69,7 +71,7 @@
 \pagestyle{fancyplain}          % fancyplain instead of fancy -> page number 
 % also on chapter title page
 \fancyhf{}                      % entfernt KAPITEL X. TITEL DES KAPITELS
-\fancyhead[L]{LaTeX-Vorlage für die SRH} % gewünschten Text hier einfügen
+\fancyhead[L]{Kolumnentitel: UNTERSUCHUNG VON AGGRESSIVITÄT UND GEWALTMYTHEN} % gewünschten Text hier einfügen
 \fancyfoot[R]{\thepage}         % Seitenzahl unten rechts
 \renewcommand{\headrulewidth}{0pt}
 
@@ -115,8 +117,19 @@
   \addcontentsline{toc}{chapter}{\listtablename}%
 }
 
+
+% format LoF and LoT items to appear as the items in text
+\usepackage{tocloft}  % https://ftp.rrzn.uni-hannover.de/pub/mirror/tex-archive/macros/latex/contrib/tocloft/tocloft.pdf
+\renewcommand{\cftfigpresnum}{Abbildung }
+\renewcommand{\cftfigaftersnum}{.}
+\renewcommand{\cfttabpresnum}{Tabelle }
+
+
+
 % um kenie Silbentrennung zu haben
 \tolerance=1
 \emergencystretch=\maxdimen
 \hyphenpenalty=10000
 \hbadness=9999
+
+
