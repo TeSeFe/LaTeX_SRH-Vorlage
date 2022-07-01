@@ -2397,6 +2397,26 @@
     <bcf:citekey order="48">Def_Form_Folge_Gewalt</bcf:citekey>
     <bcf:citekey order="49">Übergang_psy_zu_sex_Gewalt</bcf:citekey>
     <bcf:citekey order="50">Def_haus_Gewalt_2</bcf:citekey>
+    <bcf:citekey order="51">Def_haus_Gewalt_2</bcf:citekey>
+    <bcf:citekey order="51">Gewaltart</bcf:citekey>
+    <bcf:citekey order="51">Def_Form_Folge_Gewalt</bcf:citekey>
+    <bcf:citekey order="52">Def_haus_Gewalt_2</bcf:citekey>
+    <bcf:citekey order="53">Def_Form_Folge_Gewalt</bcf:citekey>
+    <bcf:citekey order="54">Def_Form_Folge_Gewalt</bcf:citekey>
+    <bcf:citekey order="55">Def_haus_Gewalt_2</bcf:citekey>
+    <bcf:citekey order="55">Def_Form_Folge_Gewalt</bcf:citekey>
+    <bcf:citekey order="56">Def_haus_Gewalt_2</bcf:citekey>
+    <bcf:citekey order="57">Def_Form_Folge_Gewalt</bcf:citekey>
+    <bcf:citekey order="58">Def_Form_Folge_Gewalt</bcf:citekey>
+    <bcf:citekey order="59">Def_haus_Gewalt_2</bcf:citekey>
+    <bcf:citekey order="60">Def_haus_Gewalt_2</bcf:citekey>
+    <bcf:citekey order="60">Def_Form_Folge_Gewalt</bcf:citekey>
+    <bcf:citekey order="61">physische_Gewalt_wie_aggro</bcf:citekey>
+    <bcf:citekey order="62">Übergang_psy_zu_sex_Gewalt</bcf:citekey>
+    <bcf:citekey order="63">Rad_der_Gewalt</bcf:citekey>
+    <bcf:citekey order="64">Rad_der_Gewalt</bcf:citekey>
+    <bcf:citekey order="65">Ursache_hG</bcf:citekey>
+    <bcf:citekey order="66">Rad_der_Gewalt</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

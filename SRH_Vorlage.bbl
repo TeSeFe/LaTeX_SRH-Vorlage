@@ -139,6 +139,9 @@
            giveni={L\bibinitperiod},
            givenun=0}}%
       }
+      \list{institution}{1}{%
+        {Berner Fachhochschule Soziale Arbeit}%
+      }
       \strng{namehash}{252d0cc11866bb24a0b04644100959e0}
       \strng{fullhash}{252d0cc11866bb24a0b04644100959e0}
       \strng{bibnamehash}{252d0cc11866bb24a0b04644100959e0}
@@ -153,6 +156,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Häusliche Gewalt gegen Frauen Analyse der aktuellen Unterstützungsangebote mit Handlungsempfehlungen für den Kanton Graubünden}
+      \field{type}{mathesis}
       \field{year}{2019}
     \endentry
     \entry{physische_Gewalt_wie_aggro}{inbook}{}
@@ -458,7 +462,7 @@
       \verb https://www.duden.de/rechtschreibung/Gewalt
       \endverb
     \endentry
-    \entry{Def_Form_Folge_Gewalt}{misc}{}
+    \entry{Def_Form_Folge_Gewalt}{booklet}{}
       \name{author}{1}{}{%
         {{hash=3c32e2d8d139d354c3e6a99f213fc121}{%
            family={{Eidgenössisches Büro für die Gleichstellung von Frau und Mann}},
@@ -478,14 +482,46 @@
       \strng{shortauthorbibnamehash}{cac1b3902f8d03ce14fec2cbd0b9e2bd}
       \strng{shortauthornamehash}{cac1b3902f8d03ce14fec2cbd0b9e2bd}
       \strng{shortauthorfullhash}{cac1b3902f8d03ce14fec2cbd0b9e2bd}
+      \field{extraname}{1}
       \field{sortinit}{E}
       \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
       \field{title}{Definition, Formen und Folgen häuslicher Gewalt}
+      \field{year}{2020}
+    \endentry
+    \entry{Ursache_hG}{booklet}{}
+      \name{author}{1}{}{%
+        {{hash=3c32e2d8d139d354c3e6a99f213fc121}{%
+           family={{Eidgenössisches Büro für die Gleichstellung von Frau und Mann}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{un=0,uniquepart=base,hash=cac1b3902f8d03ce14fec2cbd0b9e2bd}{%
+           family={EBG},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{cac1b3902f8d03ce14fec2cbd0b9e2bd}
+      \strng{fullhash}{3c32e2d8d139d354c3e6a99f213fc121}
+      \strng{bibnamehash}{cac1b3902f8d03ce14fec2cbd0b9e2bd}
+      \strng{authorbibnamehash}{3c32e2d8d139d354c3e6a99f213fc121}
+      \strng{authornamehash}{3c32e2d8d139d354c3e6a99f213fc121}
+      \strng{authorfullhash}{3c32e2d8d139d354c3e6a99f213fc121}
+      \strng{shortauthorbibnamehash}{cac1b3902f8d03ce14fec2cbd0b9e2bd}
+      \strng{shortauthornamehash}{cac1b3902f8d03ce14fec2cbd0b9e2bd}
+      \strng{shortauthorfullhash}{cac1b3902f8d03ce14fec2cbd0b9e2bd}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{title}{Ursachen, Risiko- und Schutzfaktoren von Gewalt in Paarbeziehungen}
       \field{year}{2020}
     \endentry
     \entry{positive_aggression}{article}{}
@@ -729,6 +765,9 @@
            giveni={S\bibinitperiod},
            givenun=0}}%
       }
+      \list{institution}{1}{%
+        {Karl-Franzens-Universität Graz Institut für Erziehungs- und Bildungswissenschaften}%
+      }
       \strng{namehash}{e8f1c42161f62fecda456afcb1b8cdc3}
       \strng{fullhash}{e8f1c42161f62fecda456afcb1b8cdc3}
       \strng{bibnamehash}{e8f1c42161f62fecda456afcb1b8cdc3}
@@ -743,6 +782,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Frauen als Opfer häuslicher Gewalt: Eine empirische Darstellung mit Bezug auf erneute Gewalt in Partnerschaften und künftige Liebesbeziehungen}
+      \field{type}{mathesis}
       \field{year}{2019}
     \endentry
     \entry{Def_unterscheidung_Springer}{inbook}{}
@@ -1208,6 +1248,42 @@
       \endverb
       \verb{url}
       \verb https://www.violentia-muenchen.de/unterscheidung-von-aggression-und-gewalt-in-der-psychologie/
+      \endverb
+    \endentry
+    \entry{Rad_der_Gewalt}{online}{}
+      \name{author}{1}{}{%
+        {{hash=a3da10fe3195f7bf67bcc8e585bbba89}{%
+           family={{Zentrale Informationsstelle Autonomer Frauenhäuser}},
+           familyi={Z\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{un=0,uniquepart=base,hash=9937c62ef8b597c2b24372e8ea6bdc3c}{%
+           family={ZIA},
+           familyi={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{9937c62ef8b597c2b24372e8ea6bdc3c}
+      \strng{fullhash}{a3da10fe3195f7bf67bcc8e585bbba89}
+      \strng{bibnamehash}{9937c62ef8b597c2b24372e8ea6bdc3c}
+      \strng{authorbibnamehash}{a3da10fe3195f7bf67bcc8e585bbba89}
+      \strng{authornamehash}{a3da10fe3195f7bf67bcc8e585bbba89}
+      \strng{authorfullhash}{a3da10fe3195f7bf67bcc8e585bbba89}
+      \strng{shortauthorbibnamehash}{9937c62ef8b597c2b24372e8ea6bdc3c}
+      \strng{shortauthornamehash}{9937c62ef8b597c2b24372e8ea6bdc3c}
+      \strng{shortauthorfullhash}{9937c62ef8b597c2b24372e8ea6bdc3c}
+      \field{sortinit}{Z}
+      \field{sortinithash}{8f7b480688e809b50b6f6577b16f3db5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{title}{Gewalt gegen Frauen}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://autonome-frauenhaeuser-zif.de/themen/#istanbul
+      \endverb
+      \verb{url}
+      \verb https://autonome-frauenhaeuser-zif.de/themen/#istanbul
       \endverb
     \endentry
     \entry{Friedrich_Hacker}{online}{}
