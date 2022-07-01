@@ -2416,7 +2416,32 @@
     <bcf:citekey order="63">Rad_der_Gewalt</bcf:citekey>
     <bcf:citekey order="64">Rad_der_Gewalt</bcf:citekey>
     <bcf:citekey order="65">Ursache_hG</bcf:citekey>
-    <bcf:citekey order="66">Rad_der_Gewalt</bcf:citekey>
+    <bcf:citekey order="66">Ursache_hG_2</bcf:citekey>
+    <bcf:citekey order="66">Ursache_hG</bcf:citekey>
+    <bcf:citekey order="66">Gewaltart</bcf:citekey>
+    <bcf:citekey order="67">Ursache_hG_2</bcf:citekey>
+    <bcf:citekey order="67">Ursache_hG</bcf:citekey>
+    <bcf:citekey order="67">Gewaltart</bcf:citekey>
+    <bcf:citekey order="68">Gewaltart</bcf:citekey>
+    <bcf:citekey order="69">Gewaltart</bcf:citekey>
+    <bcf:citekey order="70">Ursache_hG_2</bcf:citekey>
+    <bcf:citekey order="71">Ursache_hG_2</bcf:citekey>
+    <bcf:citekey order="72">Ursache_hG</bcf:citekey>
+    <bcf:citekey order="73">Ursache_hG_2</bcf:citekey>
+    <bcf:citekey order="73">Ursache_hG</bcf:citekey>
+    <bcf:citekey order="73">Gewaltart</bcf:citekey>
+    <bcf:citekey order="74">Ursache_hG_2</bcf:citekey>
+    <bcf:citekey order="74">Ursache_hG</bcf:citekey>
+    <bcf:citekey order="74">Gewaltart</bcf:citekey>
+    <bcf:citekey order="75">Ursache_hG</bcf:citekey>
+    <bcf:citekey order="75">Gewaltart</bcf:citekey>
+    <bcf:citekey order="76">Ursache_hG_2</bcf:citekey>
+    <bcf:citekey order="76">Ursache_hG</bcf:citekey>
+    <bcf:citekey order="76">Gewaltart</bcf:citekey>
+    <bcf:citekey order="77">Ursache_hG_2</bcf:citekey>
+    <bcf:citekey order="77">Ursache_hG</bcf:citekey>
+    <bcf:citekey order="78">Def_haus_Gewalt</bcf:citekey>
+    <bcf:citekey order="79">Rad_der_Gewalt</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

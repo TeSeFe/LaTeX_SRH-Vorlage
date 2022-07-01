@@ -19,6 +19,41 @@
 
 \refsection{0}
   \datalist[entry]{apa/global//global/global}
+    \entry{Ursache_hG_2}{report}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8bf303d11bcd0bdc376422b152b049d7}{%
+           family={Agger},
+           familyi={A\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5cc63c9b19ad963c0c43a9c3c10cb2bb}{%
+           family={Schär\bibnamedelima Moser},
+           familyi={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Eidgenössisches Büro fr die Gleichstellung von Frau und Mann EBG}%
+      }
+      \strng{namehash}{339ccadda420f6edc4c97ddc63bd1bcb}
+      \strng{fullhash}{339ccadda420f6edc4c97ddc63bd1bcb}
+      \strng{bibnamehash}{339ccadda420f6edc4c97ddc63bd1bcb}
+      \strng{authorbibnamehash}{339ccadda420f6edc4c97ddc63bd1bcb}
+      \strng{authornamehash}{339ccadda420f6edc4c97ddc63bd1bcb}
+      \strng{authorfullhash}{339ccadda420f6edc4c97ddc63bd1bcb}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Gewalt in Paarbeziehungen. Ursachen und in der Schweiz getroffene Massnahmen}
+      \field{type}{techreport}
+      \field{year}{2008}
+    \endentry
     \entry{impulsive_aggro}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=aabdc509ce739d0d4af4d90b5455e6cb}{%
