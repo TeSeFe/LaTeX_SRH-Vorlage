@@ -686,6 +686,41 @@
       \field{pages}{228\bibrangedash 242}
       \range{pages}{15}
     \endentry
+    \entry{psy_Folgen_hG}{report}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ffecf60bdccc0ff2898c85b5a87f2a40}{%
+           family={Gloor},
+           familyi={G\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=11d13ef04bd48d77ba220c547341794d}{%
+           family={Meier},
+           familyi={M\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Büro für die Gleichstellung von Frau und Mann der Stadt Zürich und Maternité Inselhof Triemli}%
+      }
+      \strng{namehash}{26276a0769b18ee94effd85596e90e27}
+      \strng{fullhash}{26276a0769b18ee94effd85596e90e27}
+      \strng{bibnamehash}{26276a0769b18ee94effd85596e90e27}
+      \strng{authorbibnamehash}{26276a0769b18ee94effd85596e90e27}
+      \strng{authornamehash}{26276a0769b18ee94effd85596e90e27}
+      \strng{authorfullhash}{26276a0769b18ee94effd85596e90e27}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Frauen, Gesundheit und Gewalt im sozialen Nahraum}
+      \field{type}{techreport}
+      \field{year}{2004}
+    \endentry
     \entry{psych_Gewalt_2}{inbook}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=db1a4bc318307fd7c09ce90fff401a4d}{%
@@ -754,7 +789,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Behind the Mask}
-      \field{title}{Behind the mask}
+      \field{title}{Behind the Mask}
       \field{year}{1999}
       \verb{doi}
       \verb https://doi.org/10.4159/9780674038998
@@ -916,7 +951,7 @@
       \field{pages}{315\bibrangedash 356}
       \range{pages}{42}
     \endentry
-    \entry{Gewaltarten_WHO}{online}{}
+    \entry{Gewaltarten_WHO}{report}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=486d9f759293601946b79663b6eb13c9}{%
            family={Krug},
@@ -942,29 +977,22 @@
            given={A.B.},
            giveni={A\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=9bd0370cf6e536473a41337aefe74108}{%
-           family={R.},
-           familyi={R\bibinitperiod},
-           given={Lozano},
-           giveni={L\bibinitperiod},
+        {{un=0,uniquepart=base,hash=0fceb8101a2726c8f843634ff1877b1d}{%
+           family={Lozano},
+           familyi={L\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
            givenun=0}}%
       }
-      \name{editor}{1}{}{%
-        {{hash=2d164aa8b252e4e814067af10926e1bd}{%
-           family={Organisation},
-           familyi={O\bibinitperiod},
-           given={World\bibnamedelima Health},
-           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      \list{institution}{1}{%
+        {World Health Organisation}%
       }
       \strng{namehash}{905b4bf904c299eb2a4a19577ad5dc78}
-      \strng{fullhash}{4936256b22c6e56edb7355ee1232a5aa}
-      \strng{bibnamehash}{4936256b22c6e56edb7355ee1232a5aa}
-      \strng{authorbibnamehash}{4936256b22c6e56edb7355ee1232a5aa}
+      \strng{fullhash}{8dc8da0bdc0054a460e14dc719b49cf7}
+      \strng{bibnamehash}{8dc8da0bdc0054a460e14dc719b49cf7}
+      \strng{authorbibnamehash}{8dc8da0bdc0054a460e14dc719b49cf7}
       \strng{authornamehash}{905b4bf904c299eb2a4a19577ad5dc78}
-      \strng{authorfullhash}{4936256b22c6e56edb7355ee1232a5aa}
-      \strng{editorbibnamehash}{2d164aa8b252e4e814067af10926e1bd}
-      \strng{editornamehash}{2d164aa8b252e4e814067af10926e1bd}
-      \strng{editorfullhash}{2d164aa8b252e4e814067af10926e1bd}
+      \strng{authorfullhash}{8dc8da0bdc0054a460e14dc719b49cf7}
       \field{sortinit}{K}
       \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
       \field{extradatescope}{labelyear}
@@ -972,14 +1000,9 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{World report on violence and health (WHO)}
+      \field{title}{World report on violence and health}
+      \field{type}{techreport}
       \field{year}{2002}
-      \verb{urlraw}
-      \verb https://apps.who.int/iris/bitstream/handle/10665/42495/9241545615_eng.pdf
-      \endverb
-      \verb{url}
-      \verb https://apps.who.int/iris/bitstream/handle/10665/42495/9241545615_eng.pdf
-      \endverb
     \endentry
     \entry{psych_Gewalt}{inbook}{}
       \name{author}{3}{}{%
