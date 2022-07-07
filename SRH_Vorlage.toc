@@ -27,6 +27,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {2.1.2.3}Folgen von Gewalt}{17}{subsubsection.2.1.2.3}%
 \defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.1.2.4}Istambul Konvention}{19}{subsubsection.2.1.2.4}%
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.1.3}Gewaltmythen}{19}{subsection.2.1.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.2}Aktueller Forschungsstand}{19}{section.2.2}%
@@ -35,7 +37,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2.2}Hypothese 2}{19}{subsection.2.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.3}Hypothese 3}{19}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.3}Hypothese 3}{20}{subsection.2.2.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}Methoden}{21}{chapter.3}%
 \defcounter {refsection}{0}\relax 

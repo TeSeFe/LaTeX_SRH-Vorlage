@@ -329,6 +329,32 @@
       \verb https://psychoques.com/differences-between-aggressiveness-and-violence/
       \endverb
     \endentry
+    \entry{Istambul_Konvention}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bebfb0580c453b66bd2dc3a936194644}{%
+           family={{Council of Europe}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Council of Europe}%
+      }
+      \strng{namehash}{bebfb0580c453b66bd2dc3a936194644}
+      \strng{fullhash}{bebfb0580c453b66bd2dc3a936194644}
+      \strng{bibnamehash}{bebfb0580c453b66bd2dc3a936194644}
+      \strng{authorbibnamehash}{bebfb0580c453b66bd2dc3a936194644}
+      \strng{authornamehash}{bebfb0580c453b66bd2dc3a936194644}
+      \strng{authorfullhash}{bebfb0580c453b66bd2dc3a936194644}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Übereinkommen des Europarats zur Verhütung und Bekämpfung von Gewalt gegen Frauen und häuslicher Gewalt}
+      \field{type}{techreport}
+      \field{year}{2011}
+    \endentry
     \entry{ausmaß_verbale_aggro}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b0cc8a577a7c887a481b900019b00aed}{%
