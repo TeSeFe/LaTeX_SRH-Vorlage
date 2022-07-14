@@ -87,8 +87,8 @@
         {{un=0,uniquepart=base,hash=9d813a1cb796d4e1807c74e73517553c}{%
            family={Amann},
            familyi={A\bibinitperiod},
-           given={B.H.},
-           giveni={B\bibinitperiod},
+           given={B.\bibnamedelimi H.},
+           giveni={B\bibinitperiod\bibinitdelim H\bibinitperiod},
            givenun=0}}%
       }
       \strng{namehash}{9d813a1cb796d4e1807c74e73517553c}
@@ -126,13 +126,13 @@
         {{hash=3f013acc87072083aca577c068ac0ecd}{%
            family={Geen},
            familyi={G\bibinitperiod},
-           given={R.G.},
-           giveni={R\bibinitperiod}}}%
+           given={R.\bibnamedelimi G.},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
         {{hash=adbf4db3c6b8a1112df58cafff63464f}{%
            family={Donnerstein},
            familyi={D\bibinitperiod},
-           given={E.I.},
-           giveni={E\bibinitperiod}}}%
+           given={E.\bibnamedelimi I.},
+           giveni={E\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {New York: Academic Press}%
@@ -360,8 +360,8 @@
         {{un=0,uniquepart=base,hash=b0cc8a577a7c887a481b900019b00aed}{%
            family={Craig},
            familyi={C\bibinitperiod},
-           given={W.M.},
-           giveni={W\bibinitperiod},
+           given={W.\bibnamedelimi M.},
+           giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod},
            givenun=0}}%
       }
       \strng{namehash}{b0cc8a577a7c887a481b900019b00aed}
@@ -385,7 +385,7 @@
       \range{pages}{8}
     \endentry
     \entry{Def_Aggression_1939}{inbook}{}
-      \name{author}{4}{}{%
+      \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=b3c7544229e9e37f3618c97fd8067428}{%
            family={Dollard},
            familyi={D\bibinitperiod},
@@ -395,34 +395,37 @@
         {{un=0,uniquepart=base,hash=9cb4d5901f66a7f827a5f54c14396075}{%
            family={Doob},
            familyi={D\bibinitperiod},
-           given={L.W.},
-           giveni={L\bibinitperiod},
+           given={L.\bibnamedelimi W.},
+           giveni={L\bibinitperiod\bibinitdelim W\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=b8a1340c3165dea4bb1c06f6c3e74f88}{%
            family={Miller},
            familyi={M\bibinitperiod},
-           given={N.E.},
-           giveni={N\bibinitperiod},
+           given={N.\bibnamedelimi E.},
+           giveni={N\bibinitperiod\bibinitdelim E\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=bcea7b5657190ecc0556dd91d606e7e8}{%
+        {{un=0,uniquepart=base,hash=45a2f8d0e5a16e58df3c41b195326cc3}{%
            family={Mowrer},
            familyi={M\bibinitperiod},
-           given={R.R.},
-           giveni={R\bibinitperiod},
-           givenun=0,
-           suffix={O.H.\bibnamedelimi und\bibnamedelima Sears},
-           suffixi={O\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim S\bibinitperiod},
-           suffixun=0}}%
+           given={O.\bibnamedelimi H.},
+           giveni={O\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=35c893309f2d28ccaa961ebfd661ca57}{%
+           family={Sears},
+           familyi={S\bibinitperiod},
+           given={R.\bibnamedelimi R.},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
       }
       \list{publisher}{1}{%
         {New Haven: Yale University-Press}%
       }
       \strng{namehash}{645c0c3cda25f93c861c7a9c190f2e75}
-      \strng{fullhash}{47b568db4a37bee00f03fa6901200041}
-      \strng{bibnamehash}{47b568db4a37bee00f03fa6901200041}
-      \strng{authorbibnamehash}{47b568db4a37bee00f03fa6901200041}
+      \strng{fullhash}{1eb262279aabcdd4a19c6cd96a97432a}
+      \strng{bibnamehash}{1eb262279aabcdd4a19c6cd96a97432a}
+      \strng{authorbibnamehash}{1eb262279aabcdd4a19c6cd96a97432a}
       \strng{authornamehash}{645c0c3cda25f93c861c7a9c190f2e75}
-      \strng{authorfullhash}{47b568db4a37bee00f03fa6901200041}
+      \strng{authorfullhash}{1eb262279aabcdd4a19c6cd96a97432a}
       \field{sortinit}{D}
       \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
       \field{extradatescope}{labelyear}
@@ -619,8 +622,8 @@
         {{un=0,uniquepart=base,hash=7584b1debb2d1b1763e7dd6cefa2bdc0}{%
            family={Gabbey},
            familyi={G\bibinitperiod},
-           given={A.E.},
-           giveni={A\bibinitperiod},
+           given={A.\bibnamedelimi E.},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=54a8913960309fa4dd40290905ab7d1e}{%
            family={Raypole},
@@ -752,8 +755,8 @@
         {{un=0,uniquepart=base,hash=db1a4bc318307fd7c09ce90fff401a4d}{%
            family={Hirigoyen},
            familyi={H\bibinitperiod},
-           given={M.F.},
-           giveni={M\bibinitperiod},
+           given={M.\bibnamedelimi F.},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
            givenun=0}}%
       }
       \name{translator}{1}{}{%
@@ -794,8 +797,8 @@
         {{un=0,uniquepart=base,hash=7ae1b4dcdb93ca5478e8765c96e7ea8b}{%
            family={Jack},
            familyi={J\bibinitperiod},
-           given={D.C.},
-           giveni={D\bibinitperiod},
+           given={D.\bibnamedelimi C.},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
       }
       \list{publisher}{1}{%
@@ -886,8 +889,8 @@
         {{un=0,uniquepart=base,hash=4b1e832eb95a36a274fb8093f8fb5ce2}{%
            family={Kornadt},
            familyi={K\bibinitperiod},
-           given={HJ.},
-           giveni={H\bibinitperiod},
+           given={H.\bibnamedelimi J.},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
            givenun=0}}%
       }
       \name{editor}{1}{}{%
@@ -982,26 +985,26 @@
         {{un=0,uniquepart=base,hash=486d9f759293601946b79663b6eb13c9}{%
            family={Krug},
            familyi={K\bibinitperiod},
-           given={E.G.},
-           giveni={E\bibinitperiod},
+           given={E.\bibnamedelimi G.},
+           giveni={E\bibinitperiod\bibinitdelim G\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=6e3cad09a3f5dbc750fe38cbccd1b4d5}{%
            family={Dahlberg},
            familyi={D\bibinitperiod},
-           given={L.L.},
-           giveni={L\bibinitperiod},
+           given={L.\bibnamedelimi L.},
+           giveni={L\bibinitperiod\bibinitdelim L\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=18739c534b0845569f8c784a5ee5ef9b}{%
            family={Mercy},
            familyi={M\bibinitperiod},
-           given={J.A.},
-           giveni={J\bibinitperiod},
+           given={J.\bibnamedelimi A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=6da204ff274fa84db8193217737f5f85}{%
            family={Zwi},
            familyi={Z\bibinitperiod},
-           given={A.B.},
-           giveni={A\bibinitperiod},
+           given={A.\bibnamedelimi B.},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=0fceb8101a2726c8f843634ff1877b1d}{%
            family={Lozano},
@@ -1031,7 +1034,7 @@
       \field{year}{2002}
     \endentry
     \entry{psych_Gewalt}{inbook}{}
-      \name{author}{3}{}{%
+      \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=34763190a2e93bb47256b62b03dd0a66}{%
            family={Lamnek},
            familyi={L\bibinitperiod},
@@ -1044,25 +1047,28 @@
            given={J.},
            giveni={J\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=c4d288d405f09d7d117ce3273f49eaab}{%
+        {{un=0,uniquepart=base,hash=22bf34ee4c71fa593ed0684a2fbb47d7}{%
            family={Ottermann},
            familyi={O\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b3d4a3512b5abf04150b967bc4cf838b}{%
+           family={Vogl},
+           familyi={V\bibinitperiod},
            given={S.},
            giveni={S\bibinitperiod},
-           givenun=0,
-           suffix={R.\bibnamedelimi und\bibnamedelima Vogl},
-           suffixi={R\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim V\bibinitperiod},
-           suffixun=0}}%
+           givenun=0}}%
       }
       \list{publisher}{1}{%
         {VS Verlag für Wozialwissenschaften}%
       }
       \strng{namehash}{ab72df3feea5506998dfb371beac522f}
-      \strng{fullhash}{55bcd9a897083e1377d28099fdb734ed}
-      \strng{bibnamehash}{55bcd9a897083e1377d28099fdb734ed}
-      \strng{authorbibnamehash}{55bcd9a897083e1377d28099fdb734ed}
+      \strng{fullhash}{ef2341bf5a5181233b52fa2444d14536}
+      \strng{bibnamehash}{ef2341bf5a5181233b52fa2444d14536}
+      \strng{authorbibnamehash}{ef2341bf5a5181233b52fa2444d14536}
       \strng{authornamehash}{ab72df3feea5506998dfb371beac522f}
-      \strng{authorfullhash}{55bcd9a897083e1377d28099fdb734ed}
+      \strng{authorfullhash}{ef2341bf5a5181233b52fa2444d14536}
       \field{sortinit}{L}
       \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
       \field{extradatescope}{labelyear}
@@ -1079,6 +1085,56 @@
       \range{pages}{1}
       \verb{doi}
       \verb https://doi.org/10.1007/978-3-531-93127-2
+      \endverb
+    \endentry
+    \entry{DVMAS}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=d3bc417bcea3d5a4c1daaddce49518fc}{%
+           family={Lelaurain},
+           familyi={L\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce7c29c9767d837ef3dacffe0d0d7c56}{%
+           family={Fonte},
+           familyi={F\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6a05ea5bb4fb8847035b6086e728e00e}{%
+           family={Granziani},
+           familyi={G\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=622c503d48df3e94e7758b861850a4f8}{%
+           family={Lo\bibnamedelima Monaco},
+           familyi={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{01761301fd6e5ecfd459d106a08a6d2c}
+      \strng{fullhash}{d347755cb535e0e7cad6c1c7ec896c35}
+      \strng{bibnamehash}{d347755cb535e0e7cad6c1c7ec896c35}
+      \strng{authorbibnamehash}{d347755cb535e0e7cad6c1c7ec896c35}
+      \strng{authornamehash}{01761301fd6e5ecfd459d106a08a6d2c}
+      \strng{authorfullhash}{d347755cb535e0e7cad6c1c7ec896c35}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Affilia, SAGE Publications}
+      \field{title}{French Validation of the Domestic Violence Myth Acceptance Scale (DVMAS)}
+      \field{volume}{34}
+      \field{year}{2019}
+      \field{pages}{239}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1177/0886109918806273
       \endverb
     \endentry
     \entry{Aggression}{article}{}
@@ -1112,6 +1168,38 @@
       \range{pages}{22}
       \verb{doi}
       \verb https://doi.org/10.1080/01612840490486755
+      \endverb
+    \endentry
+    \entry{victim_blaming}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e0d0534d1d205556afc9108270c48bc8}{%
+           family={Meyer},
+           familyi={M\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e0d0534d1d205556afc9108270c48bc8}
+      \strng{fullhash}{e0d0534d1d205556afc9108270c48bc8}
+      \strng{bibnamehash}{e0d0534d1d205556afc9108270c48bc8}
+      \strng{authorbibnamehash}{e0d0534d1d205556afc9108270c48bc8}
+      \strng{authornamehash}{e0d0534d1d205556afc9108270c48bc8}
+      \strng{authorfullhash}{e0d0534d1d205556afc9108270c48bc8}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Theoretical Criminology}
+      \field{title}{Still blaming the victim of intimate partner violence? Women’s narratives of victim desistance and redemption when seeking support}
+      \field{volume}{20}
+      \field{year}{2016}
+      \field{pages}{75\bibrangedash 90}
+      \range{pages}{16}
+      \verb{doi}
+      \verb https://doi.org/10.1177/1362480615585399
       \endverb
     \endentry
     \entry{instrumental_aggro}{online}{}
@@ -1178,6 +1266,117 @@
       \verb https://open.lib.umn.edu/socialpsychology/chapter/10-1-defining-aggression/
       \endverb
     \endentry
+    \entry{DVMAS_Peters}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7d6fd635c07c909c9be27ad633ff1260}{%
+           family={Peters},
+           familyi={P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7d6fd635c07c909c9be27ad633ff1260}
+      \strng{fullhash}{7d6fd635c07c909c9be27ad633ff1260}
+      \strng{bibnamehash}{7d6fd635c07c909c9be27ad633ff1260}
+      \strng{authorbibnamehash}{7d6fd635c07c909c9be27ad633ff1260}
+      \strng{authornamehash}{7d6fd635c07c909c9be27ad633ff1260}
+      \strng{authorfullhash}{7d6fd635c07c909c9be27ad633ff1260}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal auf Aggression, Maltreatment \& Trauma}
+      \field{number}{1}
+      \field{title}{Measuring myths about domestic violence: Development and initial validation of the Domestic Violence Myth Acceptance Scale}
+      \field{volume}{16}
+      \field{year}{2008}
+      \field{pages}{1\bibrangedash 21}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1080/10926770801917780
+      \endverb
+    \endentry
+    \entry{Labelingtheory_plus}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=fe955116784b7541cdee674d2bfd1285}{%
+           family={Policastro},
+           familyi={P\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ffbd7c3abcb614a9a72d92d81feea88}{%
+           family={Payne},
+           familyi={P\bibinitperiod},
+           given={B.\bibnamedelimi K.},
+           giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e69dc12f5f6e5eeed06245a03532a720}
+      \strng{fullhash}{e69dc12f5f6e5eeed06245a03532a720}
+      \strng{bibnamehash}{e69dc12f5f6e5eeed06245a03532a720}
+      \strng{authorbibnamehash}{e69dc12f5f6e5eeed06245a03532a720}
+      \strng{authornamehash}{e69dc12f5f6e5eeed06245a03532a720}
+      \strng{authorfullhash}{e69dc12f5f6e5eeed06245a03532a720}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Aggression, Maltreatment \& Trauma}
+      \field{number}{4}
+      \field{title}{The Blameworthy Victim: Domestic Violence Myths and the Criminalization of Victimhood}
+      \field{volume}{22}
+      \field{year}{2013}
+      \field{pages}{329\bibrangedash 347}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1080/10926771.2013.775985
+      \endverb
+    \endentry
+    \entry{GM_Theorien}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ecc655dd4081d6b6dc7cc05a1883b693}{%
+           family={Rollero},
+           familyi={R\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9728dba3fe65d8c76b5532db6c70bc53}{%
+           family={De\bibnamedelima Piccoli},
+           familyi={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{627d34631b626033d0555327a51898ee}
+      \strng{fullhash}{627d34631b626033d0555327a51898ee}
+      \strng{bibnamehash}{627d34631b626033d0555327a51898ee}
+      \strng{authorbibnamehash}{627d34631b626033d0555327a51898ee}
+      \strng{authornamehash}{627d34631b626033d0555327a51898ee}
+      \strng{authorfullhash}{627d34631b626033d0555327a51898ee}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Environmental Research and Public Health}
+      \field{number}{21}
+      \field{title}{Myths about Intimate Partner Violence and Moral Disengagement: An Analysis of Sociocultural Dimensions Sustaining Violence against Women}
+      \field{volume}{17}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 11}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.3390/ijerph17218139
+      \endverb
+    \endentry
     \entry{Def_Aggressivität_Spektrum}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=2d44349af1a57cb92ea97ac880ad86a7}{%
@@ -1235,6 +1434,32 @@
       \field{year}{2006}
       \field{pages}{29}
       \range{pages}{1}
+    \endentry
+    \entry{DVMAS_deutsch}{unpublished}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2f569090b4e136ba3d803a845e4cf3b1}{%
+           family={Teutsch},
+           familyi={T\bibinitperiod},
+           given={A.\bibnamedelimi C.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2f569090b4e136ba3d803a845e4cf3b1}
+      \strng{fullhash}{2f569090b4e136ba3d803a845e4cf3b1}
+      \strng{bibnamehash}{2f569090b4e136ba3d803a845e4cf3b1}
+      \strng{authorbibnamehash}{2f569090b4e136ba3d803a845e4cf3b1}
+      \strng{authornamehash}{2f569090b4e136ba3d803a845e4cf3b1}
+      \strng{authorfullhash}{2f569090b4e136ba3d803a845e4cf3b1}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Masterthesis}
+      \field{title}{Deutsche Version der Domestic Violence Myth Acceptance Scale}
+      \field{year}{2022}
     \endentry
     \entry{Übergang_psy_zu_sex_Gewalt}{inbook}{}
       \name{author}{1}{}{%
