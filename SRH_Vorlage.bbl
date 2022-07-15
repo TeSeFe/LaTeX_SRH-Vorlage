@@ -1170,6 +1170,50 @@
       \verb https://doi.org/10.1080/01612840490486755
       \endverb
     \endentry
+    \entry{Gewaltmythen}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e862b31db7b69bb49ccd15e155c7560e}{%
+           family={Martín-Fernández},
+           familyi={M\bibinithyphendelim F\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b3820dfffe3fbb9b2757199936abe20b}{%
+           family={Garcia},
+           familyi={G\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=682dda557dfd98caef69260836acdadf}{%
+           family={Lila},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{82498b47cef7ad438753eea370083f7b}
+      \strng{fullhash}{238d833a59cb6f29e9b957d4f1eecd82}
+      \strng{bibnamehash}{238d833a59cb6f29e9b957d4f1eecd82}
+      \strng{authorbibnamehash}{238d833a59cb6f29e9b957d4f1eecd82}
+      \strng{authornamehash}{82498b47cef7ad438753eea370083f7b}
+      \strng{authorfullhash}{238d833a59cb6f29e9b957d4f1eecd82}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychosocial Intervention}
+      \field{title}{Assessing victim-blaming attitudes in cases of intimate partner violence against women: Development and validation of the VB-IPVAW scale}
+      \field{volume}{27}
+      \field{year}{2018}
+      \field{pages}{133\bibrangedash 143}
+      \range{pages}{11}
+      \verb{doi}
+      \verb https://doi.org/10.5093/pi2018a18
+      \endverb
+    \endentry
     \entry{victim_blaming}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=e0d0534d1d205556afc9108270c48bc8}{%
@@ -1266,6 +1310,35 @@
       \verb https://open.lib.umn.edu/socialpsychology/chapter/10-1-defining-aggression/
       \endverb
     \endentry
+    \entry{Peters2003}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7d6fd635c07c909c9be27ad633ff1260}{%
+           family={Peters},
+           familyi={P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {The University of Maine}%
+      }
+      \strng{namehash}{7d6fd635c07c909c9be27ad633ff1260}
+      \strng{fullhash}{7d6fd635c07c909c9be27ad633ff1260}
+      \strng{bibnamehash}{7d6fd635c07c909c9be27ad633ff1260}
+      \strng{authorbibnamehash}{7d6fd635c07c909c9be27ad633ff1260}
+      \strng{authornamehash}{7d6fd635c07c909c9be27ad633ff1260}
+      \strng{authorfullhash}{7d6fd635c07c909c9be27ad633ff1260}
+      \field{extraname}{1}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The domestic violence myth acceptance scale: Development and psychometric testing of a new instrument}
+      \field{type}{phdthesis}
+      \field{year}{2003}
+    \endentry
     \entry{DVMAS_Peters}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=7d6fd635c07c909c9be27ad633ff1260}{%
@@ -1281,11 +1354,11 @@
       \strng{authorbibnamehash}{7d6fd635c07c909c9be27ad633ff1260}
       \strng{authornamehash}{7d6fd635c07c909c9be27ad633ff1260}
       \strng{authorfullhash}{7d6fd635c07c909c9be27ad633ff1260}
+      \field{extraname}{2}
       \field{sortinit}{P}
       \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal auf Aggression, Maltreatment \& Trauma}
@@ -1559,40 +1632,44 @@
       \verb https://www.violentia-muenchen.de/unterscheidung-von-aggression-und-gewalt-in-der-psychologie/
       \endverb
     \endentry
-    \entry{Rad_der_Gewalt}{online}{}
-      \name{author}{1}{}{%
-        {{hash=a3da10fe3195f7bf67bcc8e585bbba89}{%
-           family={{Zentrale Informationsstelle Autonomer Frauenhäuser}},
-           familyi={Z\bibinitperiod}}}%
+    \entry{Aggressionsfragebogen}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6b9255e2a4f36c6960f218a0eefb2395}{%
+           family={Werner},
+           familyi={W\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=189f0021869a327f190f1ab75cbffc12}{%
+           family={Collani},
+           familyi={C\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0,
+           prefix={von},
+           prefixi={v\bibinitperiod}}}%
       }
-      \name{shortauthor}{1}{}{%
-        {{un=0,uniquepart=base,hash=9937c62ef8b597c2b24372e8ea6bdc3c}{%
-           family={ZIA},
-           familyi={Z\bibinitperiod}}}%
+      \list{publisher}{1}{%
+        {ZIS - GESIS Leibniz Institute for the Social Sciences}%
       }
-      \strng{namehash}{9937c62ef8b597c2b24372e8ea6bdc3c}
-      \strng{fullhash}{a3da10fe3195f7bf67bcc8e585bbba89}
-      \strng{bibnamehash}{9937c62ef8b597c2b24372e8ea6bdc3c}
-      \strng{authorbibnamehash}{a3da10fe3195f7bf67bcc8e585bbba89}
-      \strng{authornamehash}{a3da10fe3195f7bf67bcc8e585bbba89}
-      \strng{authorfullhash}{a3da10fe3195f7bf67bcc8e585bbba89}
-      \strng{shortauthorbibnamehash}{9937c62ef8b597c2b24372e8ea6bdc3c}
-      \strng{shortauthornamehash}{9937c62ef8b597c2b24372e8ea6bdc3c}
-      \strng{shortauthorfullhash}{9937c62ef8b597c2b24372e8ea6bdc3c}
-      \field{sortinit}{Z}
-      \field{sortinithash}{8f7b480688e809b50b6f6577b16f3db5}
+      \strng{namehash}{c38b3a9f806c576a203449b324094ff5}
+      \strng{fullhash}{c38b3a9f806c576a203449b324094ff5}
+      \strng{bibnamehash}{c38b3a9f806c576a203449b324094ff5}
+      \strng{authorbibnamehash}{c38b3a9f806c576a203449b324094ff5}
+      \strng{authornamehash}{c38b3a9f806c576a203449b324094ff5}
+      \strng{authorfullhash}{c38b3a9f806c576a203449b324094ff5}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
-      \field{labelnamesource}{shortauthor}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Gewalt gegen Frauen}
-      \field{year}{2022}
-      \verb{urlraw}
-      \verb https://autonome-frauenhaeuser-zif.de/themen/#istanbul
-      \endverb
-      \verb{url}
-      \verb https://autonome-frauenhaeuser-zif.de/themen/#istanbul
+      \field{journaltitle}{Zusammenstellung sozialwissenschaftlicher Items und Skalen (ZIS)}
+      \field{title}{Deutscher Aggressionsfragebogen}
+      \field{year}{2004}
+      \verb{doi}
+      \verb 10.6102/zis52
       \endverb
     \endentry
     \entry{Friedrich_Hacker}{online}{}
