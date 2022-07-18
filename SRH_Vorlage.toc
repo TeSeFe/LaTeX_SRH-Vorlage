@@ -55,33 +55,35 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.5}Auswertungsmethode}{26}{section.3.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Ergebnisse}{27}{chapter.4}%
+\contentsline {chapter}{\numberline {4}Ergebnisse}{28}{chapter.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Deskriptive Ergebnisse}{27}{section.4.1}%
+\contentsline {section}{\numberline {4.1}Deskriptive Ergebnisse}{28}{section.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Inferenzstatistische Ergebnisse}{27}{section.4.2}%
+\contentsline {section}{\numberline {4.2}Manipulationscheck}{30}{section.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.1}Hypothese 1}{27}{subsection.4.2.1}%
+\contentsline {section}{\numberline {4.3}Inferenzstatistische Ergebnisse}{30}{section.4.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.2}Hypothese 2}{27}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.3.1}Hypothese 1}{30}{subsection.4.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.3}Hypothese 3}{27}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.3.2}Hypothese 2}{30}{subsection.4.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}Explorative Ergebnisse}{28}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.3}Hypothese 3}{30}{subsection.4.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Diskussion}{29}{chapter.5}%
+\contentsline {section}{\numberline {4.4}Explorative Ergebnisse}{30}{section.4.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}Zusammenfassung der zentralen Ergebnisse}{29}{section.5.1}%
+\contentsline {chapter}{\numberline {5}Diskussion}{31}{chapter.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}Einordnung und Diskussion der Befunde}{29}{section.5.2}%
+\contentsline {section}{\numberline {5.1}Zusammenfassung der zentralen Ergebnisse}{31}{section.5.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.3}Bewertung der Methode}{29}{section.5.3}%
+\contentsline {section}{\numberline {5.2}Einordnung und Diskussion der Befunde}{31}{section.5.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.4}Ausblick}{29}{section.5.4}%
+\contentsline {section}{\numberline {5.3}Bewertung der Methode}{31}{section.5.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Literaturverzeichnis}{30}{chapter*.7}%
+\contentsline {section}{\numberline {5.4}Ausblick}{31}{section.5.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Anhang A}{34}{appendix*.8}%
+\contentsline {chapter}{Literaturverzeichnis}{32}{chapter*.10}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Anhang B}{35}{appendix*.9}%
+\contentsline {chapter}{Anhang A}{36}{appendix*.11}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Anhang B}{37}{appendix*.12}%
 \contentsfinish 
