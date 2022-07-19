@@ -63,27 +63,27 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.3}Inferenzstatistische Ergebnisse}{30}{section.4.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.1}Hypothese 1}{30}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.1}Hypothese 1}{31}{subsection.4.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.2}Hypothese 2}{30}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.2}Hypothese 2}{31}{subsection.4.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.3}Hypothese 3}{30}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.3}Hypothese 3}{31}{subsection.4.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}Explorative Ergebnisse}{30}{section.4.4}%
+\contentsline {section}{\numberline {4.4}Explorative Ergebnisse}{32}{section.4.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Diskussion}{31}{chapter.5}%
+\contentsline {chapter}{\numberline {5}Diskussion}{33}{chapter.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}Zusammenfassung der zentralen Ergebnisse}{31}{section.5.1}%
+\contentsline {section}{\numberline {5.1}Zusammenfassung der zentralen Ergebnisse}{33}{section.5.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}Einordnung und Diskussion der Befunde}{31}{section.5.2}%
+\contentsline {section}{\numberline {5.2}Einordnung und Diskussion der Befunde}{33}{section.5.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.3}Bewertung der Methode}{31}{section.5.3}%
+\contentsline {section}{\numberline {5.3}Bewertung der Methode}{33}{section.5.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.4}Ausblick}{31}{section.5.4}%
+\contentsline {section}{\numberline {5.4}Ausblick}{33}{section.5.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Literaturverzeichnis}{32}{chapter*.10}%
+\contentsline {chapter}{Literaturverzeichnis}{34}{chapter*.11}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Anhang A}{36}{appendix*.11}%
+\contentsline {chapter}{Anhang A}{38}{appendix*.12}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Anhang B}{37}{appendix*.12}%
+\contentsline {chapter}{Anhang B}{39}{appendix*.13}%
 \contentsfinish 
