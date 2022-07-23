@@ -39,51 +39,59 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2.1}Hypothese 1}{22}{subsection.2.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.2}Hypothese 2}{22}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.2}Hypothese 2}{23}{subsection.2.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.3}Hypothese 3}{22}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.3}Hypothese 3}{23}{subsection.2.2.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Methoden}{23}{chapter.3}%
+\contentsline {chapter}{\numberline {3}Methoden}{25}{chapter.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Stichprobenbeschreibung}{23}{section.3.1}%
+\contentsline {section}{\numberline {3.1}Stichprobenbeschreibung}{25}{section.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Untersuchungsdesign}{24}{section.3.2}%
+\contentsline {section}{\numberline {3.2}Untersuchungsdesign}{26}{section.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Operationalisierung der Konstrukte}{24}{section.3.3}%
+\contentsline {section}{\numberline {3.3}Operationalisierung der Konstrukte}{26}{section.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Untersuchungsdurchführung}{25}{section.3.4}%
+\contentsline {section}{\numberline {3.4}Untersuchungsdurchführung}{28}{section.3.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.5}Auswertungsmethode}{26}{section.3.5}%
+\contentsline {section}{\numberline {3.5}Auswertungsmethode}{28}{section.3.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Ergebnisse}{28}{chapter.4}%
+\contentsline {chapter}{\numberline {4}Ergebnisse}{31}{chapter.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Deskriptive Ergebnisse}{28}{section.4.1}%
+\contentsline {section}{\numberline {4.1}Deskriptive Ergebnisse}{31}{section.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Manipulationscheck}{30}{section.4.2}%
+\contentsline {section}{\numberline {4.2}Manipulationscheck}{33}{section.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}Inferenzstatistische Ergebnisse}{30}{section.4.3}%
+\contentsline {section}{\numberline {4.3}Inferenzstatistische Ergebnisse}{35}{section.4.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.1}Hypothese 1}{31}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.1}Hypothese 1}{35}{subsection.4.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.2}Hypothese 2}{31}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.2}Hypothese 2}{35}{subsection.4.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3.3}Hypothese 3}{31}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.3}Hypothese 3}{36}{subsection.4.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}Explorative Ergebnisse}{32}{section.4.4}%
+\contentsline {section}{\numberline {4.4}Explorative Ergebnisse}{37}{section.4.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Diskussion}{33}{chapter.5}%
+\contentsline {subsection}{\numberline {4.4.1}Korrelation Aggresion-Subskalen mit DVMAS und Geschlecht}{37}{subsection.4.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}Zusammenfassung der zentralen Ergebnisse}{33}{section.5.1}%
+\contentsline {subsection}{\numberline {4.4.2}Korrelation Aggression mit kulturellem Hintergrund der Probanden}{38}{subsection.4.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}Einordnung und Diskussion der Befunde}{33}{section.5.2}%
+\contentsline {subsection}{\numberline {4.4.3}Unterscheidung Aggression mit kulturellem Hintergrund der Probanden}{38}{subsection.4.4.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.3}Bewertung der Methode}{33}{section.5.3}%
+\contentsline {subsection}{\numberline {4.4.4}Unterscheidung Aggression mit Geschlecht der Probanden}{38}{subsection.4.4.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.4}Ausblick}{33}{section.5.4}%
+\contentsline {chapter}{\numberline {5}Diskussion}{39}{chapter.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Literaturverzeichnis}{34}{chapter*.11}%
+\contentsline {section}{\numberline {5.1}Zusammenfassung der zentralen Ergebnisse}{39}{section.5.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Anhang A}{38}{appendix*.12}%
+\contentsline {section}{\numberline {5.2}Einordnung und Diskussion der Befunde}{39}{section.5.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Anhang B}{39}{appendix*.13}%
+\contentsline {section}{\numberline {5.3}Bewertung der Methode}{39}{section.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.4}Ausblick}{39}{section.5.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Literaturverzeichnis}{40}{chapter*.16}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Anhang A}{44}{appendix*.17}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Anhang B}{45}{appendix*.18}%
 \contentsfinish 

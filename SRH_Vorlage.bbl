@@ -54,7 +54,7 @@
       \field{type}{techreport}
       \field{year}{2008}
     \endentry
-    \entry{impulsive_aggro}{online}{}
+    \entry{impulsive_aggro}{booklet}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=aabdc509ce739d0d4af4d90b5455e6cb}{%
            family={AlleyDog.com},
@@ -82,7 +82,7 @@
       \verb https://www.alleydog.com/glossary/definition.php?term=Impulsive+Aggression
       \endverb
     \endentry
-    \entry{impulsive_aggro_psych_Störung}{online}{}
+    \entry{impulsive_aggro_psych_Störung}{booklet}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=9d813a1cb796d4e1807c74e73517553c}{%
            family={Amann},
@@ -158,6 +158,45 @@
       \field{year}{1983}
       \field{pages}{1\bibrangedash 40}
       \range{pages}{40}
+    \endentry
+    \entry{H2_u_3_Bhogal_2016}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c7a1c9b6325cf7118894c8797324814a}{%
+           family={Bhogal},
+           familyi={B\bibinitperiod},
+           given={M.S.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e9579ef893639da202627442eda09371}{%
+           family={Corbertt},
+           familyi={C\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{67158741eb6e63d3926263a40f48b10c}
+      \strng{fullhash}{67158741eb6e63d3926263a40f48b10c}
+      \strng{bibnamehash}{67158741eb6e63d3926263a40f48b10c}
+      \strng{authorbibnamehash}{67158741eb6e63d3926263a40f48b10c}
+      \strng{authornamehash}{67158741eb6e63d3926263a40f48b10c}
+      \strng{authorfullhash}{67158741eb6e63d3926263a40f48b10c}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychiatry, Psychology and Law}
+      \field{number}{5}
+      \field{title}{The Influence of Aggressiveness on Rape-Myth Acceptance among University Students}
+      \field{volume}{23}
+      \field{year}{2016}
+      \field{pages}{709\bibrangedash 715}
+      \range{pages}{7}
+      \verb{doi}
+      \verb doi: 10.1080/13218719.2016.1142931
+      \endverb
     \endentry
     \entry{Gewaltart}{thesis}{}
       \name{author}{2}{}{%
@@ -265,7 +304,7 @@
       \verb https://www.bmfsfj.de/bmfsfj/themen/gleichstellung/frauen-vor-gewalt-schuetzen/haeusliche-gewalt
       \endverb
     \endentry
-    \entry{Def_Aggressivität_eng1}{online}{}
+    \entry{Def_Aggressivität_eng1}{booklet}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=010897cff44070b33c7000de85a2b7df}{%
            family={Clark},
@@ -297,7 +336,7 @@
       \verb https://psychoques.com/aggressiveness/
       \endverb
     \endentry
-    \entry{Def_Aggressivität_vs_violence}{online}{}
+    \entry{Def_Aggressivität_vs_violence}{booklet}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=010897cff44070b33c7000de85a2b7df}{%
            family={Clark},
@@ -327,6 +366,39 @@
       \endverb
       \verb{url}
       \verb https://psychoques.com/differences-between-aggressiveness-and-violence/
+      \endverb
+    \endentry
+    \entry{Cohen_1992}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=90e1b93429e0013509f5a2e1f6d38806}{%
+           family={Cohen},
+           familyi={C\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{90e1b93429e0013509f5a2e1f6d38806}
+      \strng{fullhash}{90e1b93429e0013509f5a2e1f6d38806}
+      \strng{bibnamehash}{90e1b93429e0013509f5a2e1f6d38806}
+      \strng{authorbibnamehash}{90e1b93429e0013509f5a2e1f6d38806}
+      \strng{authornamehash}{90e1b93429e0013509f5a2e1f6d38806}
+      \strng{authorfullhash}{90e1b93429e0013509f5a2e1f6d38806}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Bulletin}
+      \field{number}{1}
+      \field{title}{A Power Primer}
+      \field{volume}{112}
+      \field{year}{1992}
+      \field{pages}{155\bibrangedash 159}
+      \range{pages}{5}
+      \verb{doi}
+      \verb doi: 10.1037/0033-2909.112.1.155
       \endverb
     \endentry
     \entry{Istambul_Konvention}{report}{}
@@ -439,7 +511,7 @@
       \field{pages}{1\bibrangedash 27}
       \range{pages}{27}
     \endentry
-    \entry{Def_Aggression_Duden}{online}{}
+    \entry{Def_Aggression_Duden}{booklet}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c45e241bcca4afb9229f313ad192af74}{%
            family={Duden},
@@ -468,7 +540,7 @@
       \verb https://www.duden.de/rechtschreibung/Aggression
       \endverb
     \endentry
-    \entry{Def_Aggressivität_Duden}{online}{}
+    \entry{Def_Aggressivität_Duden}{booklet}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c45e241bcca4afb9229f313ad192af74}{%
            family={Duden},
@@ -497,7 +569,7 @@
       \verb https://www.duden.de/rechtschreibung/Aggressivitaet
       \endverb
     \endentry
-    \entry{Gewalt_Duden}{online}{}
+    \entry{Gewalt_Duden}{booklet}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c45e241bcca4afb9229f313ad192af74}{%
            family={Duden},
@@ -617,7 +689,44 @@
       \field{pages}{239\bibrangedash 254}
       \range{pages}{16}
     \endentry
-    \entry{impulsive_instrumental_aggro_healtline}{online}{}
+    \entry{H3_MFUnterschied}{inbook}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8c75cb4419f404fd75c9478925b3ec7c}{%
+           family={Frost},
+           familyi={F\bibinitperiod},
+           given={W.\bibnamedelimi D.},
+           giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dbe556623a51557baf4bc227c374411b}{%
+           family={Averill},
+           familyi={A\bibinitperiod},
+           given={J.\bibnamedelimi R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Verlag New York Inc.}%
+      }
+      \strng{namehash}{750eeccac67074ad04af5a0f14a2fddf}
+      \strng{fullhash}{750eeccac67074ad04af5a0f14a2fddf}
+      \strng{bibnamehash}{750eeccac67074ad04af5a0f14a2fddf}
+      \strng{authorbibnamehash}{750eeccac67074ad04af5a0f14a2fddf}
+      \strng{authornamehash}{750eeccac67074ad04af5a0f14a2fddf}
+      \strng{authorfullhash}{750eeccac67074ad04af5a0f14a2fddf}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{Differences Betweem Men and Women in the Everyay Experience of Anger}
+      \field{title}{Anger and Aggression: An Essay on Emotion}
+      \field{year}{1982}
+      \field{pages}{281\bibrangedash 317}
+      \range{pages}{37}
+    \endentry
+    \entry{impulsive_instrumental_aggro_healtline}{booklet}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=7584b1debb2d1b1763e7dd6cefa2bdc0}{%
            family={Gabbey},
@@ -824,7 +933,36 @@
       \verb https://doi.org/10.4159/9780674038998
       \endverb
     \endentry
-    \entry{instrumental_dictionary}{online}{}
+    \entry{H1_malasia_2012}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c7185558ba8462ca884aed4af7a1ac8f}{%
+           family={Kassim},
+           familyi={K\bibinitperiod},
+           given={A.\bibnamedelimi B.\bibnamedelimi A.},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {International Islamic University}%
+      }
+      \strng{namehash}{c7185558ba8462ca884aed4af7a1ac8f}
+      \strng{fullhash}{c7185558ba8462ca884aed4af7a1ac8f}
+      \strng{bibnamehash}{c7185558ba8462ca884aed4af7a1ac8f}
+      \strng{authorbibnamehash}{c7185558ba8462ca884aed4af7a1ac8f}
+      \strng{authornamehash}{c7185558ba8462ca884aed4af7a1ac8f}
+      \strng{authorfullhash}{c7185558ba8462ca884aed4af7a1ac8f}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The relationship between exposure to domestic violence, victim blaming and aggressive behaviour among malysian adolescents}
+      \field{type}{mathesis}
+      \field{year}{2012}
+    \endentry
+    \entry{instrumental_dictionary}{booklet}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=01ea355de23e5c447ad82d237362fd23}{%
            family={Kent},
@@ -1246,7 +1384,7 @@
       \verb https://doi.org/10.1177/1362480615585399
       \endverb
     \endentry
-    \entry{instrumental_aggro}{online}{}
+    \entry{instrumental_aggro}{booklet}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=091f04400b4ba89346fe3e91dbe7bc61}{%
            family={Nickerson},
@@ -1277,7 +1415,7 @@
       \verb https://www.simplypsychology.org/instrumental-aggression.html
       \endverb
     \endentry
-    \entry{physische_verbale_aggro}{online}{}
+    \entry{physische_verbale_aggro}{booklet}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6dd83aa3217726285e491d64481e882b}{%
            family={Minnesota},
@@ -1411,6 +1549,50 @@
       \verb 10.1080/10926771.2013.775985
       \endverb
     \endentry
+    \entry{H1_moderation_2020}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=cc6df468eaefbdd07a49d14e1e40fd98}{%
+           family={Rizwan},
+           familyi={R\bibinitperiod},
+           given={U.},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ce35c0488aecdb48176e13c7c352971}{%
+           family={Aqeel},
+           familyi={A\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ca611c41a1a8d836267c4ae1b4c42709}{%
+           family={Irfan},
+           familyi={I\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d6b43ba3c6d6fb13665bbddf4804e711}{%
+           family={Rahna},
+           familyi={R\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a998c0f4a3f1ca654258fd157f159d76}
+      \strng{fullhash}{b645fed2fb953a8eec0ff9e14218b3d6}
+      \strng{bibnamehash}{b645fed2fb953a8eec0ff9e14218b3d6}
+      \strng{authorbibnamehash}{b645fed2fb953a8eec0ff9e14218b3d6}
+      \strng{authornamehash}{a998c0f4a3f1ca654258fd157f159d76}
+      \strng{authorfullhash}{b645fed2fb953a8eec0ff9e14218b3d6}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Vahria Journal of Professional Psychology}
+      \field{title}{Linking Aggression, Tolerance and Domestic Violence in Married Working Women; a Moderating Model}
+      \field{year}{2020}
+    \endentry
     \entry{GM_Theorien}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=ecc655dd4081d6b6dc7cc05a1883b693}{%
@@ -1450,7 +1632,59 @@
       \verb 10.3390/ijerph17218139
       \endverb
     \endentry
-    \entry{Def_Aggressivität_Spektrum}{online}{}
+    \entry{H1_Entwicklung}{inbook}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=227a0cf3c3dd6a8373fa6ddfc455b8ea}{%
+           family={Silbereisen},
+           familyi={S\bibinitperiod},
+           given={R.\bibnamedelimi K.},
+           giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e0427149db138cec79c33f9e0513f5a}{%
+           family={Weichold},
+           familyi={W\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=d1678c2db3a68821c42f5cf684881004}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=6c9296ac7e5ea602b75fd91db0b4f5a5}{%
+           family={Lindenberger},
+           familyi={L\bibinitperiod},
+           given={U.\bibnamedelimi (Hrsg.},
+           giveni={U\bibinitperiod\bibinitdelim (\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Weinheim: Beltz}%
+      }
+      \strng{namehash}{47f3e2eab36b6da196e478413b1fe078}
+      \strng{fullhash}{47f3e2eab36b6da196e478413b1fe078}
+      \strng{bibnamehash}{47f3e2eab36b6da196e478413b1fe078}
+      \strng{authorbibnamehash}{47f3e2eab36b6da196e478413b1fe078}
+      \strng{authornamehash}{47f3e2eab36b6da196e478413b1fe078}
+      \strng{authorfullhash}{47f3e2eab36b6da196e478413b1fe078}
+      \strng{editorbibnamehash}{4b7a7a5707cf6310eb91922164361e14}
+      \strng{editornamehash}{4b7a7a5707cf6310eb91922164361e14}
+      \strng{editorfullhash}{4b7a7a5707cf6310eb91922164361e14}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{Jugend (12-19 Jahre}
+      \field{title}{Entwicklungspsychologie}
+      \field{year}{2012}
+      \field{pages}{235\bibrangedash 258}
+      \range{pages}{24}
+    \endentry
+    \entry{Def_Aggressivität_Spektrum}{booklet}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=2d44349af1a57cb92ea97ac880ad86a7}{%
            family={Spektrum},
@@ -1568,7 +1802,7 @@
       \verb https://doi.org/10.1007/978-3-86226-848-1
       \endverb
     \endentry
-    \entry{was_Aggression}{online}{}
+    \entry{was_Aggression}{booklet}{}
       \name{author}{1}{}{%
         {{hash=c0adc6c1a45c2d661cb2a9c9fd07fcbf}{%
            family={{Verwaltungs-Berufsgenossenschaft}},
@@ -1604,7 +1838,7 @@
       \verb https://www.vbg.de/wbt/gewaltpraevention/daten/html/402.htm
       \endverb
     \endentry
-    \entry{physische_verbale_aggro_2}{online}{}
+    \entry{physische_verbale_aggro_2}{booklet}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=e8eb1762bab77b0b4817673690129942}{%
            family={vioenTia},
@@ -1672,7 +1906,7 @@
       \verb 10.6102/zis52
       \endverb
     \endentry
-    \entry{Friedrich_Hacker}{online}{}
+    \entry{Friedrich_Hacker}{booklet}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=67ee32e45504fd578d62ce2f3d497cf7}{%
            family={zitate.eu},
