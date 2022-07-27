@@ -212,12 +212,23 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.aux
 INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.aux
 OUTPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.aux
@@ -270,17 +281,10 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
 INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/ngerman-apa6.lbx
-INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Titelblatt.tex
-INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Titelblatt.tex
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
-INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Abstract.tex
-INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Abstract.tex
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.toc
-INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.toc
-INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/ngerman-apa6.lbx
+INPUT /usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
+INPUT /usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
+INPUT /usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
@@ -304,6 +308,23 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/mnsymbol/MnSymbolC6.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/mnsymbol/MnSymbolD12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/mnsymbol/MnSymbolD8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/mnsymbol/MnSymbolD6.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
+INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Titelblatt.tex
+INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Titelblatt.tex
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Abstract.tex
+INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Abstract.tex
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.toc
+INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.toc
+INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/ngerman-apa6.lbx
 OUTPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.toc
 INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.lof
 INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.lof
@@ -338,9 +359,9 @@ INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/3 Methode/Methoden
 INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/3 Methode/Methoden.tex
 INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/3 Methode/Histogramm Altersverteilung.tex
 INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/3 Methode/Histogramm Altersverteilung.tex
-INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm - Altersverteilung.png
-INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm - Altersverteilung.png
-INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm - Altersverteilung.png
+INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm Alter.jpg
+INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm Alter.jpg
+INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm Alter.jpg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/ueur.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/ueur.fd
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eurm10.tfm
@@ -350,19 +371,19 @@ INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Ergeb
 INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Ergebnisse.tex
 INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Histogramm Vignetten.tex
 INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Histogramm Vignetten.tex
-INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm - VicBlame.png
-INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm - VicBlame.png
-INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm - VicBlame.png
+INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm VicBlame.jpg
+INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm VicBlame.jpg
+INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm VicBlame.jpg
 INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Histogramm DVMAS.tex
 INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Histogramm DVMAS.tex
-INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm - DVMAS.png
-INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm - DVMAS.png
-INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm - DVMAS.png
+INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm DVMAS.jpg
+INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm DVMAS.jpg
+INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm DVMAS.jpg
 INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Histogramm AggroFB.tex
 INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Histogramm AggroFB.tex
-INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm - AggroFB.png
-INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm - AggroFB.png
-INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm - AggroFB.png
+INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm AggroFB.jpg
+INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm AggroFB.jpg
+INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm AggroFB.jpg
 INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle Manipulationscheck.tex
 INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle Manipulationscheck.tex
 INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle Kreuztabelle Geschlecht.tex
@@ -375,6 +396,12 @@ INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabel
 INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle H1 Spearman.tex
 INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle H2 Pearson.tex
 INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle H2 Pearson.tex
+INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle Moderation.tex
+INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle Moderation.tex
+INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle Haupteffekte.tex
+INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle Haupteffekte.tex
+INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle Explorativ AggroSub.tex
+INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle Explorativ AggroSub.tex
 INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/5 Diskussion/Diskussion.tex
 INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/5 Diskussion/Diskussion.tex
 INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Anhang.tex
@@ -388,9 +415,10 @@ INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.out
 INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.out
 INPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.run.xml
 OUTPUT /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.run.xml
+INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolE.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolD.enc
-INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolC.enc
 INPUT /usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolC.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb

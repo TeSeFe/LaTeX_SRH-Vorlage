@@ -1,5 +1,5 @@
 \chapter{Ergebnisse}   \label{ch_4}
-Im folgenden Kapitel werden die durchgeführten statistischen Berechnungen dargestellt. Zu Beginn werden die deskriptiven Ergebnisse beschrieben und mit den Normwerten verglichen, woraufhin die statistische Überprüfung der Manipulation folgt. Im inferenzstatistischen Unterkapitel wird mit der Prüfung der Vorraussetzung der einzelnen Test mathematisch dargestellt und abschließend werden die Ergebnisse der drei Hypothesen präsentiert. Die ausführliche Interpretation der Ergebnisse geschieht im nachkommenden Kapitel ~\ref{ch_5}.
+Im folgenden Kapitel werden die durchgeführten statistischen Berechnungen dargestellt. Zu Beginn werden die deskriptiven Ergebnisse beschrieben und mit den Normwerten verglichen, woraufhin die statistische Überprüfung der Manipulation folgt. Im inferenzstatistischen Unterkapitel wird mit der Prüfung der Vorraussetzung der einzelnen Test mathematisch dargestellt und abschließend werden die Ergebnisse der drei Hypothesen präsentiert. Die ausführliche Interpretation der Ergebnisse geschieht im nachkommenden Kapitel ~\ref{ch_5}. 
 
 \section{Deskriptive Ergebnisse}    \label{sec_4.1}
 Die Fallvignetten wießen, bei einem $Min$~=~1 und einem $Max$~=~101, einen Mittelwert von $M$~=~26.46 ($SD$~=~27.98) auf. Der Median lag bei $Mdn$~=~19. Die am häufigsten verteilten Werte liegen an den beiden Extremen bei 1.00 und 101.00 und bilden eine bimodale Verteilung. Bei einer Schiefe von 1.17 und Kurtosis von 0.53, liegt eine rechstschiefe bzw. linkssteile und steilgipflige Verteilung vor. Abbildung~\ref{Histogramm VicBlame} stellt die unimodale Verteilung der Verantwortungszuschreibung bildlich da. Die vorhandenen Ausreißer befinden sich alle unter der Ausscheidungsgrenze.
@@ -45,62 +45,55 @@ Anschließend erfolgt eine inferenzstatistische Analyse der erhobenen Daten zur 
 
 
 \subsection{Hypothese 1}    \label{subsec_4.3.1}
-Die Hypothese 1 geht von einer Korrelation des Aggressionsscores mit victim blaming aus. Diese ungerichtete Zusammenhangshypothese wurde mit der Spearman$-$Rang$-$Korrelation berechnet.
-Die in Kapitel ~\ref{sec_3.5} erwähnten Voraussetzungen für diesen Test sind, dass das Skalenniveau mindestens einer Variable ordinalskaliert ist. Die Variable des victim blaming ist in diesem Fall ordinal skaliert und somit ist diese Voraussetzung erfüllt. Auch die weitere Voraussetzung der paarweisen Beobachtung ist gegeben, da in SPSS eine Zeile die Erhebung einer Person darstellt. 
+Die Hypothese 1 geht von einer Korrelation des Aggressionsscores mit victim blaming aus. Diese ungerichtete Zusammenhangshypothese wurde mit der Pearson$-$Produkt$-$Moment$-$Korrelation berechnet.
+Obwohl die Verteilung der Variable der Verantwortungszuschreibung nicht einer Normalverteilung entspricht kann sie wegen des zentralen Grenzwertsatzes und der, mit $N$~=~864, großen Stichprobe, als metrisch eingestuft werden. Auch die in Kapitel ~\ref{sec_3.5} erwähnten weiteren Voraussetzungen des linearen Zusammenhangs und der fehlenden starken Ausreißer, sind gegeben. Nur die Voraussetzung der bivariaten Normalverteilung ist nicht gegeben.
 
-Das in Tabelle~\ref{H1_Spearman} ersichtliche Ergebnis der Spearman$-$Rang$-$Korrelation fiel nicht signifikant aus ($p$~=~n.s.). Mit dem sehr kleinen Effekt \parencite{Cohen_1992} von $r_s $~=~.05, korreliert die Aggression nur sehr gering mit der Schuldzuweiseung auf das Opfer. 
+Das in Tabelle~\ref{H1_Spearman} ersichtliche Ergebnis der Pearson$-$Produkt$-$Moment$-$Korrelation fiel nicht signifikant aus ($p$~=~n.s.). Mit dem sehr kleinen Effekt \parencite{Cohen_1992} von $r$~=~.05, korreliert die Aggression nur sehr gering mit der Schuldzuweiseung auf das Opfer. 
 \input{4 Ergebnisse/Tabelle H1 Spearman.tex}
 
 \subsection{Hypothese 2}    \label{subsec_4.3.2}
-Die Voraussetzung einer Pearson$-$Produkt$-$Moment$-$Korrelation wurden in ~\ref{sec_3.5} bereits aufgeführt. In diesem Falle sind auch alle Voraussetzungen gegeben: Aggression und die Akzeptanz von Gewaltmythen sind metrisch, die vorhandenen Ausreißer sind im akzeptablen Bereich, es liegt ein linearer Zusamenhang zwischen den Variablen vor und eine bivariate Normalverteilung ist auch gegeben.
+Die Voraussetzung einer Pearson$-$Produkt$-$Moment$-$Korrelation wurden in ~\ref{sec_3.5} bereits aufgeführt. In diesem Falle sind auch alle Voraussetzungen gegeben: Aggression und die Akzeptanz von Gewaltmythen sind metrisch, die vorhandenen Ausreißer sind im akzeptablen Bereich, es liegt ein linearer Zusamenhang zwischen den Variablen vor und eine bivariate Normalverteilung ist auch gegeben. 
 
 Die in Tabelle~\ref{H2_Pearson} ersichtliche Pearson$-$Produkt$-$Moment$-$Korrelation zeigte einen Zusammenhang von $r$~=~.38. Nach \textcite{Cohen_1992} entspricht dies einer mittelgroßen Korrelation, die bei einseitiger Testung statistisch signifikant ausfiel ($p<$ .001).
 \input{4 Ergebnisse/Tabelle H2 Pearson.tex}
 
 
 \subsection{Hypothese 3}    \label{subsec_4.3.3}
-hier Vorraussetzungsergebnisse statistisch darlegen
-%https://statistikguru.de/spss/moderation/voraussetzungen-14.html 
-Linearität
-Normalverteilung der Residuen (unwichtig, weil SP groß)
-Homoskedastizität -> Schätzfehler über alle vorhergesagten y-Werte relativ gleich (gibt Heteroskedastizität in Residuen weil $p$~=~.03 beim White Test dadurch sind die Ergebnisse der Moderation nicht mehr sinnvoll interpretierbar)
-Unabhängigkeit
+Um die vermutete Moderation des biologischen Geschelchts auf den Zusammenhang zwischen Aggressio und dem DVMAS zu testen, wurde eine Moderationsanalyse durchgeführt. Eine lineare Bezihung und eine Unabhängigkeit der Variablen sind gegeben. Durch die mit $N$~=~864 großen Stichprobe, kann von einer Normalverteilung der Residuen ausgegangen werden. Die Überprüfung der Homoskedastizität mithilfe des White$-$Tests ergab eine signifikantes Ergebnis ($p$~=~.03). Somit liegt eine Heteroskedastizität vor. Der dadurch entstandene Bias des Standardfehlers kann zu fehlerhaften Interpretationen und Schlussfolgerungen des $p-$Wertes der Moderation führen \parencite{Voraussetzung_Moderation}.
 
-Moderation: 14.31\% der Varianz des DVMAS werden durch das Modell erklärt.
-Modell erklärt tatsächlich etwas, weil p kleiner .01 ist.
-Grüne Linie: Geschlecht sorgt für höheren DVMAS-Wert bei gleichbleibender Aggression. Bei gleichbleibendem Aggressions-Score sorgt das Geschlecht für einen höheren DVMAS-Wert.
+\input{4 Ergebnisse/Tabelle Moderation.tex}
+Das Gesamtmodell war, wie in Tabelle~\ref{Moderationsanalyse} demonstriert, mit einer Varianzaufklärung von 16.34\% signifikant ($F$(3, 856)~=~50.30, $p<$ .001). Die Moderationsanalyse konnte jedoch keinen signifikanten Moderationseffekt finden, $\Delta R^{2}$~=~0.08\%, F(1, 856)~=~0.76, $p$~=~.384, 95\% CI[-0.371, 0.143]. Dennoch klärt das Modell 14.31\% der Varianz des deutschen DVMAS auf.
+%Modell: $R^{2}$~=~16.34\%, $F$(HC3)~=~50.30, $df1$~=~1, $df2$~=~856 $p<$~.001
+%W*X: $\Delta R^{2}$~=~0.08, $F$(HC3)~=~0.76, $df1$~=~1, $df2$~=~856 $p$~=~.384
 
-einen haupteffekt der signifikant ist der andere nicht, so wie die interaktion. Regressionsmodell mit 3 Prediktoren. eins hat n sig. Gewicht, der andere nicht.
+\input{4 Ergebnisse/Tabelle Haupteffekte.tex}
+Den Entfehlungen von \textcite{Moderation_SPSS} folgend, wurde der Interaktionsterm herausgenommen. Dies führte zu einem neuen Modell mit Haupteffekten, welche in Tabelle~\ref{Haupteffekte} zusammengefasst wurden. Die Beziehung zwischen Geschlecht ($B$~=~$-$.23, $p<$~.001), wie auch zwische Aggression ($B$~=~.69, $p<$~.001) und der Akzeptanz von Gewaltmythen fiel signifikant aus. 
+%Geschlecht: $B$~=~$-$.23, $(SE)B$~=~0.06, $\beta$~=~$-$.13, $t$~=~$-$4.191, $p<$~.001
+%Aggression: $B$~=~.69, $(SE)B$~=~0.06, $\beta$~=~.37, $t$~=~11.842, $p<$~.001
 
-Da die obere Grenze einen größeren Wert als 0 aufweist, ist die Interaktion nicht signifikant.
-
-Eine Moderationsanalyse wurde durchgeführt, um zu bestimmen, ob die Interaktion zwischen Alter und Freizeit die Nutzung von sozialen Medien signifikant vorhersagt. Die Ergebnisse konnten keinen Moderationseffekt von Alter auf die Beziehung zwischen Freizeit auf Social Media-Nutzung finden, $\Delta R^{2}$ = 16.47\%, F(1, 96) = 18.93, p = .241, 95\% CI[-0.047, -0.015].
 
 
 \section{Explorative Ergebnisse}    \label{sec_4.4}
-Zusätzlich zu den untersuchten Hypothesen wurden noch weitere explorative Untersuchungen getätigt. In Kapitel~\ref{subsec_4.4.1} wurde getestet, ob die Subskalen von Aggression positiv mit dem DVMAS und mit dem Geschlecht der Probanden korreliert. Des Weiteren wurde Aggression mit dem kultuerllen Hintergrund der Probanden (vgl. Kapitel~\ref{subsec_4.4.2}) korreliert. Der Deutsche Aggressionsfragebogen unterlief zwei Unterschiedtestungen. In Kapitel~\ref{subsec_4.4.3} wurde exploriert, ob sich die Aggressionsausprägung zwischen den kulturellen Hintergründen unterscheidet und in Kapitel~\ref{subsec_4.4.4} mit den biologischen Geschlechtern der Probanden.
+Zusätzlich zu den untersuchten Hypothesen wurden noch weitere explorative Untersuchungen getätigt. In Kapitel~\ref{subsec_4.4.1} wurde getestet, ob die Subskalen von Aggression positiv untereinander und mit dem DVMAS korreliert. 
 
-\subsection{Korrelation Aggresion-Subskalen mit DVMAS und Geschlecht}  \label{subsec_4.4.1}
-Für die Korrelation zwischen den vier Aggressions-Subskalen physiche Aggression, verbale Aggression, Ärger und Misstrauen und der Akzeptanz von Gewaltmythen wurde eine Pearson-Moment-Korrelation berechnet, denn alle Variablen sind metrisch skaliert. An den, in Tabelle XX, kursiv gesetzten $r-$Werte ist erkennbar, dass alle Subskalen unter sich signifikant sind und, dass sie jeweils mit dem DVMAS positiv korrelieren. 
+%Des Weiteren wurde Aggression mit dem kultuerllen Hintergrund der Probanden (vgl. Kapitel~\ref{subsec_4.4.2}) korreliert. Der Deutsche Aggressionsfragebogen unterlief zwei Unterschiedtestungen. In Kapitel~\ref{subsec_4.4.3} wurde exploriert, ob sich die Aggressionsausprägung zwischen den kulturellen Hintergründen unterscheidet und in Kapitel~\ref{subsec_4.4.4} mit den biologischen Geschlechtern der Probanden.
 
-Die Korrelation von physische Aggression mit der verbalen weist einen mittleren Effekt ($r$~=~.42, $p<$~.001) auf. Ärger und physiche Aggression zeigen eine starke Korrelieren mit $r$~=~.52 auf ($p<$~.001). Die physische Aggression korreliert mittelgradig mit Ärger und Misstrauen ($r$~=~.32 und $r$~=~.38 bei $p<$~.001).
+
+\subsection{Korrelation Aggresion-Subskalen mit DVMAS}  \label{subsec_4.4.1}
+\input{4 Ergebnisse/Tabelle Explorativ AggroSub.tex}
+Für die Korrelation zwischen den drei Aggressions-Subskalen verbale Aggression, Ärger und Misstrauen und der Akzeptanz von Gewaltmythen wurde eine Pearson-Moment-Korrelation berechnet, denn alle Variablen sind metrisch skaliert. Des Weiteren ist die Linearität zwischen den Variablen gegeben. Da die Variable der physischen Aggression zu große Ausreißer aufwies, wurde sie aus der Korrelationsrechnung ausgeschlossen. Auch eine bivariate Normalverteilung ist bei den verbliebenen Korrelation vorhanden. An den kursiv gesetzten $r-$Werte, in Tabelle~\ref{lala}, ist erkennbar, dass alle Subskalen unter sich signifikant sind und, dass sie jeweils mit dem DVMAS positiv korrelieren. 
+
 Die verbale Aggression korrelierte mittelgradig mit Ärger ($r$~=~.45, $p<$~.001) und Misstrauen ($r$~=~.30, $p<$~.001).
 Die Subskala Ärger wies eine mittelgradig Korrelation mit Misstrauen ($r$~=~.48, $p<$~.001) auf.
 
-Der DVMAS wies bei der physichen Aggression ($r$~=~.38, $p<$~.001) eine mittelgradig Korrelation auf und bei den drei weiteren Subskalen verbale Aggression ($r$~=~.27, $p<$~.001), Ärger ($r$~=~.25, $p<$~.001) und Misstrauen ($r$~=~.24, $p<$~.001) jeweils eine schwache Korrelation auf.
+Der DVMAS wies bei den drei Subskalen verbale Aggression ($r$~=~.27, $p<$~.001), Ärger ($r$~=~.25, $p<$~.001) und Misstrauen ($r$~=~.24, $p<$~.001) jeweils eine schwache Korrelation auf.
 
-Das Geschlecht zeigte eine mittelgradig negative Korrelation mit der physischen Aggression da ($r$~=~$-$.25, $p<$~.001). Mit der varbalen Aggression korreliert das Geschlecht schwach negativ ($r$~=~$-$.16, $p<$~.001). Mit den beiden Subskalen Ärger ($r$~=~.07, $p$~=~.020) und Misstrauen ($r$~=~.09, $p$~=~.006) zeigte sich jeweils eine schwache Korrelation mit dem biologischen Geschlecht der Probanden.
+%\subsection{Korrelation Aggresion-Subskalen mit Geschlecht der Probanden}   \label{subsec_4.4.2}
+%Für die Korrelation zwischen Aggression und dem biologischen Geschlecht der Probanden wurde eine Spearman$-$Rang$-$Korrelation berechnet, da beide Variablen metrisch skaliert sind. An den, in %Tabelle~\ref{}, kursiv gesetzten $r-$Werte ist erkennbar, dass Aggression und der kulturelle Hintergrund negativ korrelieren. Mit $r$~=~$-$.26 bildet diese mittelgradige negative Korrelation zwischen den beiden Variablen ein signifikantes Ergebnis ($p<$~.001).   
+% Die Variable des victim blaming ist in diesem Fall ordinal skaliert und somit ist diese Voraussetzung erfüllt. Auch die weitere Voraussetzung der paarweisen Beobachtung ist gegeben, da in SPSS eine Zeile die Erhebung einer Person darstellt. 
+%     5 Geschlecht          & 1.71 & 0.45  & $-$.16** & .07* &.09** & $-$ & $-$\\
+%Ein Test auf die Unterscheidung zwischen den Geschlechtern konnte nicht durchgeführt werden, da Heteroskedastizität vorlag und es so zu einem Fehler 1. Art kommen könnte.     so wie bei Kultur
 
-
-\subsection{Korrelation Aggression mit kulturellem Hintergrund der Probanden}   \label{subsec_4.4.2}
-Die mittelgradig negative Korrelation zwischen dem kulturellen Hintergrund der Probanden und dem Aggressionsscore zeigt mit $r$~=~$-$.26 ein signifikantes Ergebnis ($p<$~.001). Die Werte dieser Korrelation sind in Tabelle XX zusammengefasst.
-
-
-\subsection{Unterscheidung Aggression mit kulturellem Hintergrund der Probanden}   \label{subsec_4.4.3}
-Für die Untersuchung der Aggressionsausprägung bei Probanden mit arabischem Hintergrund verglichen mit denen eines anderen Hintergrundes, wurde ein t-Test für unabhängige Stichproben gerechnet. Mit $F$~=~.058 viel der Levene Test nicht signifikant aus ($p$~=~n.s.) und entspricht einer Varianzgleichheit. 
-Der Unterschied zwischen den Probanden mit arabischen Hintergründen und denen ohne war signifikant ($t$(858)~=~7.78, $p<$~.001). Die Aggression war bei den Probanden ohne arabischen Hintergrund durchschnittlich 0.77 Einhaeiten niedriger (95\%$-$CI[0.58, 0.96]).
-
-
-\subsection{Unterscheidung Aggression mit Geschlecht der Probanden}   \label{subsec_4.4.4}
-Auch die explorative Untersuchung der Differenz zwischen den biologischen Geschlechtern in Anbetracht der Aggression, wurde mithilfe des t-Tests für unabhängige Stichproben getestet. Der Levene Test fiel mit $F$~5.715 signifikant aus. Das bedeutet, dass durch die Varianzunterschiede es zu falsche Schlüsse aus dem t-Test kommen kann.
-Der Unterschied zwischen Männern und Frauen war signifikant ($t$(433.64)~=~2.18, $p$~=~.0.30). Die Aggression war bei Männern durchschnittlich 0.07 Einhaeiten niedriger (95\%$-$CI[0.01, 0.14]).
+%\subsection{Unterscheidung Aggression mit Geschlecht der Probanden}   \label{subsec_4.4.4}
+%Auch die explorative Untersuchung der Differenz zwischen den biologischen Geschlechtern in Anbetracht der Aggression, wurde mithilfe des t-Tests für unabhängige Stichproben getestet. Der Levene Test fiel mit $F$~5.72 signifikant aus.
+%Der Unterschied zwischen Männern und Frauen war signifikant ($t$(433.64)~=~2.18, $p$~=~.0.30). Die Aggression war bei Frauen durchschnittlich 0.07 Einhaeiten niedriger (95\%$-$CI[0.01, 0.14]).

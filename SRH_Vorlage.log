@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.4.18)  23 JUL 2022 11:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.4.18)  27 JUL 2022 01:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1141,93 +1141,148 @@ Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 \TX@delta=\dimen274
 \TX@cols=\count441
 \TX@ftn=\toks31
-) (/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx.sty (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-02-14 L3 programming layer (loader) 
+ (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count442
+\l__pdf_internal_box=\box62
+)) (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2020-02-14 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count443
+\g__xparse_grabber_int=\count444
+\l__xparse_m_args_int=\count445
+\l__xparse_v_nesting_int=\count446
+)
+Package: siunitx 2020/01/15 v2.7u A comprehensive (SI) units package
+ (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2020-02-14 LaTeX2e option processing using LaTeX3 keys
+)
+\l__siunitx_tmp_box=\box63
+\l__siunitx_tmp_dim=\dimen275
+\l__siunitx_tmp_int=\count447
+\l__siunitx_number_mantissa_length_int=\count448
+\l__siunitx_number_uncert_length_int=\count449
+\l__siunitx_round_int=\count450
+\l__siunitx_process_decimal_int=\count451
+\l__siunitx_process_uncertainty_int=\count452
+\l__siunitx_process_fixed_int=\count453
+\l__siunitx_process_integer_min_int=\count454
+\l__siunitx_process_precision_int=\count455
+\l__siunitx_group_min_int=\count456
+\l__siunitx_angle_marker_box=\box64
+\l__siunitx_angle_unit_box=\box65
+\l__siunitx_angle_marker_dim=\dimen276
+\l__siunitx_angle_unit_dim=\dimen277
+\l__siunitx_unit_int=\count457
+\l__siunitx_unit_denominator_int=\count458
+\l__siunitx_unit_numerator_int=\count459
+\l__siunitx_unit_prefix_int=\count460
+\l__siunitx_unit_prefix_base_int=\count461
+\l__siunitx_unit_prefix_gram_int=\count462
+\l__siunitx_number_product_int=\count463
+\c__siunitx_one_fill_skip=\skip98
+\l__siunitx_table_unit_align_skip=\skip99
+\l__siunitx_table_exponent_dim=\dimen278
+\l__siunitx_table_integer_dim=\dimen279
+\l__siunitx_table_mantissa_dim=\dimen280
+\l__siunitx_table_marker_dim=\dimen281
+\l__siunitx_table_result_dim=\dimen282
+\l__siunitx_table_uncert_dim=\dimen283
+\l__siunitx_table_fill_pre_dim=\dimen284
+\l__siunitx_table_fill_post_dim=\dimen285
+\l__siunitx_table_fill_mid_dim=\dimen286
+\l__siunitx_table_pre_box=\box66
+\l__siunitx_table_post_box=\box67
+\l__siunitx_table_mantissa_box=\box68
+\l__siunitx_table_result_box=\box69
+\l__siunitx_table_number_align_skip=\skip100
+\l__siunitx_table_text_align_skip=\skip101
+ (/usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
+Package: translator 2019-05-31 v1.12a Easy translation of strings in LaTeX
+)) (/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
-\c@subfigure=\count442
-\c@subtable=\count443
+\c@subfigure=\count464
+\c@subtable=\count465
 ) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has chapter divisions on input line 51.
-\cftparskip=\skip98
-\cftbeforetoctitleskip=\skip99
-\cftaftertoctitleskip=\skip100
-\cftbeforepartskip=\skip101
-\cftpartnumwidth=\skip102
-\cftpartindent=\skip103
-\cftbeforechapskip=\skip104
-\cftchapindent=\skip105
-\cftchapnumwidth=\skip106
-\cftbeforesecskip=\skip107
-\cftsecindent=\skip108
-\cftsecnumwidth=\skip109
-\cftbeforesubsecskip=\skip110
-\cftsubsecindent=\skip111
-\cftsubsecnumwidth=\skip112
-\cftbeforesubsubsecskip=\skip113
-\cftsubsubsecindent=\skip114
-\cftsubsubsecnumwidth=\skip115
-\cftbeforeparaskip=\skip116
-\cftparaindent=\skip117
-\cftparanumwidth=\skip118
-\cftbeforesubparaskip=\skip119
-\cftsubparaindent=\skip120
-\cftsubparanumwidth=\skip121
-\cftbeforeloftitleskip=\skip122
-\cftafterloftitleskip=\skip123
-\cftbeforefigskip=\skip124
-\cftfigindent=\skip125
-\cftfignumwidth=\skip126
-\c@lofdepth=\count444
-\c@lotdepth=\count445
-\cftbeforelottitleskip=\skip127
-\cftafterlottitleskip=\skip128
-\cftbeforetabskip=\skip129
-\cfttabindent=\skip130
-\cfttabnumwidth=\skip131
+\cftparskip=\skip102
+\cftbeforetoctitleskip=\skip103
+\cftaftertoctitleskip=\skip104
+\cftbeforepartskip=\skip105
+\cftpartnumwidth=\skip106
+\cftpartindent=\skip107
+\cftbeforechapskip=\skip108
+\cftchapindent=\skip109
+\cftchapnumwidth=\skip110
+\cftbeforesecskip=\skip111
+\cftsecindent=\skip112
+\cftsecnumwidth=\skip113
+\cftbeforesubsecskip=\skip114
+\cftsubsecindent=\skip115
+\cftsubsecnumwidth=\skip116
+\cftbeforesubsubsecskip=\skip117
+\cftsubsubsecindent=\skip118
+\cftsubsubsecnumwidth=\skip119
+\cftbeforeparaskip=\skip120
+\cftparaindent=\skip121
+\cftparanumwidth=\skip122
+\cftbeforesubparaskip=\skip123
+\cftsubparaindent=\skip124
+\cftsubparanumwidth=\skip125
+\cftbeforeloftitleskip=\skip126
+\cftafterloftitleskip=\skip127
+\cftbeforefigskip=\skip128
+\cftfigindent=\skip129
+\cftfignumwidth=\skip130
+\c@lofdepth=\count466
+\c@lotdepth=\count467
+\cftbeforelottitleskip=\skip131
+\cftafterlottitleskip=\skip132
+\cftbeforetabskip=\skip133
+\cfttabindent=\skip134
+\cfttabnumwidth=\skip135
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
- (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count446
-\l__pdf_internal_box=\box62
-) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.aux)
+ (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.aux)
 \openout1 = `SRH_Vorlage.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 63.
-LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 63.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 64.
+LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 64.
  (/usr/share/texlive/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    ... okay on input line 64.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count447
-\scratchdimen=\dimen275
-\scratchbox=\box63
-\nofMPsegments=\count448
-\nofMParguments=\count449
+\scratchcounter=\count468
+\scratchdimen=\dimen287
+\scratchbox=\box70
+\nofMPsegments=\count469
+\nofMParguments=\count470
 \everyMPshowfont=\toks32
-\MPscratchCnt=\count450
-\MPscratchDim=\dimen276
-\MPnumerator=\count451
-\makeMPintoPDFobject=\count452
+\MPscratchCnt=\count471
+\MPscratchDim=\dimen288
+\MPnumerator=\count472
+\makeMPintoPDFobject=\count473
 \everyMPtoPDFconversion=\toks33
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1235,8 +1290,8 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-\AtBeginShipoutBox=\box64
-Package hyperref Info: Link coloring ON on input line 63.
+\AtBeginShipoutBox=\box71
+Package hyperref Info: Link coloring ON on input line 64.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
@@ -1244,11 +1299,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count453
+\c@section@level=\count474
 )
-LaTeX Info: Redefining \ref on input line 63.
-LaTeX Info: Redefining \pageref on input line 63.
-LaTeX Info: Redefining \nameref on input line 63.
+LaTeX Info: Redefining \ref on input line 64.
+LaTeX Info: Redefining \pageref on input line 64.
+LaTeX Info: Redefining \nameref on input line 64.
  (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.out) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.out)
 \@outlinefile=\write4
 \openout4 = `SRH_Vorlage.out'.
@@ -1288,7 +1343,7 @@ LaTeX Info: Redefining \nameref on input line 63.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package csquotes Info: Making character " active on input line 63.
+Package csquotes Info: Making character " active on input line 64.
 Package biblatex Info: Trying to load language 'ngerman' -> 'ngerman-apa6'...
 Package biblatex Info: ... file 'ngerman-apa6.lbx' found.
 (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/ngerman-apa6.lbx
@@ -1327,18 +1382,18 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'SRH_Vorlage.bbl' found.
  (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.bbl)
-Package biblatex Info: Reference section=0 on input line 63.
-Package biblatex Info: Reference segment=0 on input line 63.
+Package biblatex Info: Reference section=0 on input line 64.
+Package biblatex Info: Reference segment=0 on input line 64.
 Package scrlayer Info: Setting magic \footheight to \baselineskip while
-(scrlayer)             \begin{document} on input line 63.
-LaTeX Info: Redefining \microtypecontext on input line 63.
+(scrlayer)             \begin{document} on input line 64.
+LaTeX Info: Redefining \microtypecontext on input line 64.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `basictext'.
-LaTeX Info: Redefining \showhyphens on input line 63.
+LaTeX Info: Redefining \showhyphens on input line 64.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1352,10 +1407,23 @@ Package: ltcaption 2018/08/26 v1.4a longtable captions (AR)
 )
 Package caption Info: threeparttable package is loaded.
 Package caption Info: End \AtBeginDocument code.
+ (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+) (/usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
+File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmss' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
  (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Titelblatt.tex [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Abstract.tex
-\c@abstractpage=\count454
+\c@abstractpage=\count475
  [2]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.toc [3])
 \tf@toc=\write5
 \openout5 = `SRH_Vorlage.toc'.
@@ -1366,7 +1434,12 @@ Package caption Info: End \AtBeginDocument code.
 
  [5
 
-] (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.lot)
+] (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.lot
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+ [][] [][][]\OT1/cmr/m/it/12 (+20) Mittelwerte, Stan-dard-ab-wei-chung und Kor-re-la-ti-on der 
+ []
+
+)
 \tf@lot=\write7
 \openout7 = `SRH_Vorlage.lot'.
 
@@ -1403,123 +1476,117 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--3
  []
 
 (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/3 Methode/Histogramm Altersverteilung.tex
-<Histogramm - Altersverteilung.png, id=593, 453.19313pt x 265.74281pt>
-File: Histogramm - Altersverteilung.png Graphic file (type png)
-<use Histogramm - Altersverteilung.png>
-Package pdftex.def Info: Histogramm - Altersverteilung.png  used on input line 3.
-(pdftex.def)             Requested size: 364.19667pt x 213.55554pt.
+<Histogramm Alter.jpg, id=596, 850.17625pt x 498.86375pt>
+File: Histogramm Alter.jpg Graphic file (type jpg)
+<use Histogramm Alter.jpg>
+Package pdftex.def Info: Histogramm Alter.jpg  used on input line 3.
+(pdftex.def)             Requested size: 364.19667pt x 213.70035pt.
 ) [25
 
- </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm - Altersverteilung.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 26--27
+ </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm Alter.jpg>] [26]
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
 []\OT1/cmr/m/n/12 (+20) Mithilfe der Fall-vi-gnet-ten zur h[]auslichen Ge-walt wur-de die
  []
 
-[26]
-LaTeX Font Info:    Trying to load font information for U+eur on input line 29.
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/ueur.fd
+LaTeX Font Info:    Trying to load font information for U+eur on input line 28.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/ueur.fd
 File: ueur.fd 2013/01/14 v3.01 Euler Roman
 ) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-eur.cfg
 File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
-) [27] [28]
-Underfull \hbox (badness 10000) in paragraph at lines 58--59
-[]\OT1/cmr/m/n/12 (+20) Zur Be-ant-wor-tung der ers-ten Hy-po-the-se (H1) wur-de ei-ne
+) [27] [28] [29]
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+[]\OT1/cmr/m/n/12 (+20) F[]ur die ers-ten bei-den Hy-po-the-sen (H1 und H2) wur-den
  []
 
-) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Ergebnisse.tex [29] [30]
+) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Ergebnisse.tex [30]
 Kapitel 4.
 (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Histogramm Vignetten.tex
-<Histogramm - VicBlame.png, id=632, 453.19313pt x 266.49562pt>
-File: Histogramm - VicBlame.png Graphic file (type png)
-<use Histogramm - VicBlame.png>
-Package pdftex.def Info: Histogramm - VicBlame.png  used on input line 3.
-(pdftex.def)             Requested size: 364.19667pt x 214.1605pt.
+<Histogramm VicBlame.jpg, id=635, 852.18375pt x 500.87125pt>
+File: Histogramm VicBlame.jpg Graphic file (type jpg)
+<use Histogramm VicBlame.jpg>
+Package pdftex.def Info: Histogramm VicBlame.jpg  used on input line 3.
+(pdftex.def)             Requested size: 364.19667pt x 214.0559pt.
 ) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Histogramm DVMAS.tex
-<Histogramm - DVMAS.png, id=634, 453.19313pt x 266.49562pt>
-File: Histogramm - DVMAS.png Graphic file (type png)
-<use Histogramm - DVMAS.png>
-Package pdftex.def Info: Histogramm - DVMAS.png  used on input line 3.
-(pdftex.def)             Requested size: 364.19667pt x 214.1605pt.
+<Histogramm DVMAS.jpg, id=637, 853.1875pt x 501.875pt>
+File: Histogramm DVMAS.jpg Graphic file (type jpg)
+<use Histogramm DVMAS.jpg>
+Package pdftex.def Info: Histogramm DVMAS.jpg  used on input line 3.
+(pdftex.def)             Requested size: 364.19667pt x 214.2398pt.
  [31
 
- </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm - VicBlame.png>]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Histogramm AggroFB.tex
-<Histogramm - AggroFB.png, id=641, 453.19313pt x 266.49562pt>
-File: Histogramm - AggroFB.png Graphic file (type png)
-<use Histogramm - AggroFB.png>
-Package pdftex.def Info: Histogramm - AggroFB.png  used on input line 3.
-(pdftex.def)             Requested size: 364.19667pt x 214.1605pt.
-) [32 </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm - DVMAS.png> </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm - AggroFB.png>] (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle Manipulationscheck.tex) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle Kreuztabelle Geschlecht.tex) [33] (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle KT SES.tex) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle KT kult.tex) [34]
+ </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm VicBlame.jpg>]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Histogramm AggroFB.tex
+<Histogramm AggroFB.jpg, id=643, 852.18375pt x 500.87125pt>
+File: Histogramm AggroFB.jpg Graphic file (type jpg)
+<use Histogramm AggroFB.jpg>
+Package pdftex.def Info: Histogramm AggroFB.jpg  used on input line 3.
+(pdftex.def)             Requested size: 364.19667pt x 214.0559pt.
+) [32 </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm DVMAS.jpg> </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm AggroFB.jpg>] (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle Manipulationscheck.tex) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle Kreuztabelle Geschlecht.tex) [33] (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle KT SES.tex) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle KT kult.tex) [34]
 Underfull \hbox (badness 10000) in paragraph at lines 48--50
 \OT1/cmr/m/n/12 (+20) bla-ming aus. Die-se un-ge-rich-te-te Zu-sam-men-hangs-hy-po-the-se wur-de mit der
  []
 
 (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle H1 Spearman.tex) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle H2 Pearson.tex [35])
-Underfull \hbox (badness 10000) in paragraph at lines 81--82
-\OT1/cmr/m/n/12 (+20) Un-ter-schied-tes-tun-gen. In Ka-pi-tel [][]4.4.3[][] wur-de ex-plo-riert, ob sich die
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+\OT1/cmr/m/n/12 (+20) Nor-mal-ver-tei-lung der Re-si-du-en aus-ge-gan-gen wer-den. Die []Uberpr[]ufung der
  []
 
-[36]
-Underfull \hbox (badness 10000) in paragraph at lines 83--83
-|[]\OT1/cmr/bx/n/14.4 Korrelation Aggresion-Subskalen mit DV-MAS und
- []
-
-[37]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/5 Diskussion/Diskussion.tex [38]
+(/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle Moderation.tex) [36] (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle Haupteffekte.tex) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle Explorativ AggroSub.tex) [37]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/5 Diskussion/Diskussion.tex [38]
 Kapitel 5.
 ) [39
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 85--85
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
 \OT1/cmr/m/n/12 (+20) (Kap. Ge-walt ge-gen Frau-en: ei-ne theo-re-ti-sche Ver-or-tung, S. 32).
  []
 
 [40
 
 ] [41]
-Underfull \hbox (badness 10000) in paragraph at lines 85--85
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
 \OT1/cmr/m/n/12 (+20) Kap. Er-schei-nungs-for-men h[]auslicher Ge-walt, S. 115).
  []
 
-[42]
-Underfull \hbox (badness 10000) in paragraph at lines 85--85
+[42] [43]
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
 \OT1/cmr/m/n/12 (+20) (Kap. Part-ner-ge-walt ge-gen Frau-en, S. 24).
  []
 
 
-Overfull \hbox (0.20253pt too wide) in paragraph at lines 85--85
+Overfull \hbox (0.20253pt too wide) in paragraph at lines 86--86
 [][]$\OT1/cmr/m/n/12 (+3) https : / / www . violentia -[] muenchen . de / unterscheidung -[] von -[] aggression -[] und -[] gewalt -[] in -[]
  []
 
-(/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Anhang.tex [43] [44
+(/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Anhang.tex [44] [45
 
-]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Ehrenwörtliche Erklärung.tex [45
+]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Ehrenwörtliche Erklärung.tex [46
 
 ])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 88.
- [46]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 88.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 89.
+ [47]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 89.
  (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 88.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 88.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 89.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 89.
 Package rerunfilecheck Info: File `SRH_Vorlage.out' has not changed.
-(rerunfilecheck)             Checksum: 9E921B5BE0977130CCF03B272112A61D;3306.
+(rerunfilecheck)             Checksum: 1CC8159F17DD1694268B5F6DF2E7B10D;2944.
 Package logreq Info: Writing requests to 'SRH_Vorlage.run.xml'.
 \openout1 = `SRH_Vorlage.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 88.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 89.
  ) 
 Here is how much of TeX's memory you used:
- 26799 strings out of 481239
- 458147 string characters out of 5920377
- 1219385 words of memory out of 5000000
- 41304 multiletter control sequences out of 15000+600000
- 547325 words of font info for 120 fonts, out of 8000000 for 9000
+ 29601 strings out of 481239
+ 538906 string characters out of 5920377
+ 1278523 words of memory out of 5000000
+ 44048 multiletter control sequences out of 15000+600000
+ 549416 words of font info for 133 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  80i,23n,131p,2372b,5508s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.pdf (46 pages, 283696 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolE.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.pdf (47 pages, 377047 bytes).
 PDF statistics:
- 845 PDF objects out of 1000 (max. 8388607)
- 772 compressed objects within 8 object streams
- 159 named destinations out of 1000 (max. 500000)
- 9605 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 863 PDF objects out of 1000 (max. 8388607)
+ 793 compressed objects within 8 object streams
+ 165 named destinations out of 1000 (max. 500000)
+ 14189 words of extra memory for PDF output out of 14400 (max. 10000000)
 

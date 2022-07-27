@@ -19,41 +19,6 @@
 
 \refsection{0}
   \datalist[entry]{apa/global//global/global}
-    \entry{Ursache_hG_2}{report}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=8bf303d11bcd0bdc376422b152b049d7}{%
-           family={Agger},
-           familyi={A\bibinitperiod},
-           given={T.},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=5cc63c9b19ad963c0c43a9c3c10cb2bb}{%
-           family={Schär\bibnamedelima Moser},
-           familyi={S\bibinitperiod\bibinitdelim M\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{institution}{1}{%
-        {Eidgenössisches Büro fr die Gleichstellung von Frau und Mann EBG}%
-      }
-      \strng{namehash}{339ccadda420f6edc4c97ddc63bd1bcb}
-      \strng{fullhash}{339ccadda420f6edc4c97ddc63bd1bcb}
-      \strng{bibnamehash}{339ccadda420f6edc4c97ddc63bd1bcb}
-      \strng{authorbibnamehash}{339ccadda420f6edc4c97ddc63bd1bcb}
-      \strng{authornamehash}{339ccadda420f6edc4c97ddc63bd1bcb}
-      \strng{authorfullhash}{339ccadda420f6edc4c97ddc63bd1bcb}
-      \field{sortinit}{A}
-      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Gewalt in Paarbeziehungen. Ursachen und in der Schweiz getroffene Massnahmen}
-      \field{type}{techreport}
-      \field{year}{2008}
-    \endentry
     \entry{impulsive_aggro}{booklet}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=aabdc509ce739d0d4af4d90b5455e6cb}{%
@@ -188,7 +153,6 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Psychiatry, Psychology and Law}
-      \field{number}{5}
       \field{title}{The Influence of Aggressiveness on Rape-Myth Acceptance among University Students}
       \field{volume}{23}
       \field{year}{2016}
@@ -233,7 +197,7 @@
       \field{type}{mathesis}
       \field{year}{2019}
     \endentry
-    \entry{physische_Gewalt_wie_aggro}{inbook}{}
+    \entry{physische_Gewalt_wie_aggro}{incollection}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=e003f8a9b0457c76d1d5c2079d4b33ca}{%
            family={Brzank},
@@ -391,7 +355,6 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Psychological Bulletin}
-      \field{number}{1}
       \field{title}{A Power Primer}
       \field{volume}{112}
       \field{year}{1992}
@@ -598,6 +561,41 @@
       \verb https://www.duden.de/rechtschreibung/Gewalt
       \endverb
     \endentry
+    \entry{Ursache_hG_2}{report}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0d04876261d1066967ff6c742f2b0c89}{%
+           family={Egger},
+           familyi={E\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5cc63c9b19ad963c0c43a9c3c10cb2bb}{%
+           family={Schär\bibnamedelima Moser},
+           familyi={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Eidgenössisches Büro fr die Gleichstellung von Frau und Mann}%
+      }
+      \strng{namehash}{261e6e99b7c9d5fadf30d1b46479533e}
+      \strng{fullhash}{261e6e99b7c9d5fadf30d1b46479533e}
+      \strng{bibnamehash}{261e6e99b7c9d5fadf30d1b46479533e}
+      \strng{authorbibnamehash}{261e6e99b7c9d5fadf30d1b46479533e}
+      \strng{authornamehash}{261e6e99b7c9d5fadf30d1b46479533e}
+      \strng{authorfullhash}{261e6e99b7c9d5fadf30d1b46479533e}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Gewalt in Paarbeziehungen. Ursachen und in der Schweiz getroffene Massnahmen}
+      \field{type}{techreport}
+      \field{year}{2008}
+    \endentry
     \entry{Def_Form_Folge_Gewalt}{booklet}{}
       \name{author}{1}{}{%
         {{hash=3c32e2d8d139d354c3e6a99f213fc121}{%
@@ -688,6 +686,54 @@
       \field{year}{1976}
       \field{pages}{239\bibrangedash 254}
       \range{pages}{16}
+    \endentry
+    \entry{H3_2020}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c0e83f288e90a3e598e06140e420e44c}{%
+           family={Fernández-Fuertes},
+           familyi={F\bibinithyphendelim F\bibinitperiod},
+           given={A.\bibnamedelimi A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=31aefd49996292c5bd5be09a0fb0fd43}{%
+           family={Fernández-Rouco},
+           familyi={F\bibinithyphendelim R\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f40cd5afd63709c20d94d4f67818d7c}{%
+           family={Lázaro-Visa},
+           familyi={L\bibinithyphendelim V\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=595a60395978c1f9191d64fa888072d5}{%
+           family={Gómez-Pérez},
+           familyi={G\bibinithyphendelim P\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cfb5dc1a1aadeb2a9ab2dc7aa9452041}
+      \strng{fullhash}{983fe048b71607a64a357872fb0881cf}
+      \strng{bibnamehash}{983fe048b71607a64a357872fb0881cf}
+      \strng{authorbibnamehash}{983fe048b71607a64a357872fb0881cf}
+      \strng{authornamehash}{cfb5dc1a1aadeb2a9ab2dc7aa9452041}
+      \strng{authorfullhash}{983fe048b71607a64a357872fb0881cf}
+      \field{sortinit}{F}
+      \field{sortinithash}{fb0c0faa89eb6abae8213bf60e6799ea}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Environmental Research and Public Health}
+      \field{number}{8744}
+      \field{title}{Myths about Sexual Aggression, Sexual Assertiveness and Sexual Violence in Adolescent Romantic Relationships}
+      \field{volume}{17}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 13}
+      \range{pages}{13}
     \endentry
     \entry{H3_MFUnterschied}{inbook}{}
       \name{author}{2}{}{%
@@ -858,6 +904,113 @@
       \field{title}{Frauen, Gesundheit und Gewalt im sozialen Nahraum}
       \field{type}{techreport}
       \field{year}{2004}
+    \endentry
+    \entry{H1_1993}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=461560d3d881a2869487485c0f876bf0}{%
+           family={Gray},
+           familyi={G\bibinitperiod},
+           given={N.B.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eca06cedc9d1f7dc90f825d8dc08722a}{%
+           family={Palileo},
+           familyi={P\bibinitperiod},
+           given={G.J.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=503df7811718d03628ed2b5c485ec53a}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={G.D.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{40b91801d3405ac84eacba1f9c19d5b9}
+      \strng{fullhash}{46a5a0e4d0fc17e427291b2a99ccaf63}
+      \strng{bibnamehash}{46a5a0e4d0fc17e427291b2a99ccaf63}
+      \strng{authorbibnamehash}{46a5a0e4d0fc17e427291b2a99ccaf63}
+      \strng{authornamehash}{40b91801d3405ac84eacba1f9c19d5b9}
+      \strng{authorfullhash}{46a5a0e4d0fc17e427291b2a99ccaf63}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sociological Spectrum}
+      \field{title}{Explaining rape victim blame: A test of attribution theory}
+      \field{volume}{13}
+      \field{year}{1993}
+      \field{pages}{377\bibrangedash 392}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1080/02732173.1993.9982040
+      \endverb
+    \endentry
+    \entry{Moderation_SPSS}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0af18bba18e8dff5e4f68cb09dceb41d}{%
+           family={Hayes},
+           familyi={H\bibinitperiod},
+           given={A.\bibnamedelimi F.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Guilford Press}%
+      }
+      \strng{namehash}{0af18bba18e8dff5e4f68cb09dceb41d}
+      \strng{fullhash}{0af18bba18e8dff5e4f68cb09dceb41d}
+      \strng{bibnamehash}{0af18bba18e8dff5e4f68cb09dceb41d}
+      \strng{authorbibnamehash}{0af18bba18e8dff5e4f68cb09dceb41d}
+      \strng{authornamehash}{0af18bba18e8dff5e4f68cb09dceb41d}
+      \strng{authorfullhash}{0af18bba18e8dff5e4f68cb09dceb41d}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{Introduction to Mediation, Moderation, and Conditional Process Analysis}
+      \field{year}{2018}
+      \field{pages}{237}
+      \range{pages}{1}
+    \endentry
+    \entry{Voraussetzung_Moderation}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ae1fb407700f5cbe7ba01acbc80d8711}{%
+           family={Hemmerich},
+           familyi={H\bibinitperiod},
+           given={Wanja\bibnamedelima A.},
+           giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ae1fb407700f5cbe7ba01acbc80d8711}
+      \strng{fullhash}{ae1fb407700f5cbe7ba01acbc80d8711}
+      \strng{bibnamehash}{ae1fb407700f5cbe7ba01acbc80d8711}
+      \strng{authorbibnamehash}{ae1fb407700f5cbe7ba01acbc80d8711}
+      \strng{authornamehash}{ae1fb407700f5cbe7ba01acbc80d8711}
+      \strng{authorfullhash}{ae1fb407700f5cbe7ba01acbc80d8711}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Homoskedastizität}
+      \field{title}{StatistikGuru}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://statistikguru.de/lexikon/homoskedastizitaet.html
+      \endverb
+      \verb{url}
+      \verb https://statistikguru.de/lexikon/homoskedastizitaet.html
+      \endverb
     \endentry
     \entry{psych_Gewalt_2}{inbook}{}
       \name{author}{1}{}{%
@@ -1539,7 +1692,6 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Aggression, Maltreatment \& Trauma}
-      \field{number}{4}
       \field{title}{The Blameworthy Victim: Domestic Violence Myths and the Criminalization of Victimhood}
       \field{volume}{22}
       \field{year}{2013}
@@ -1547,6 +1699,34 @@
       \range{pages}{19}
       \verb{doi}
       \verb 10.1080/10926771.2013.775985
+      \endverb
+    \endentry
+    \entry{H1_Poli_2022}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=46799a8429ea88556d45151775743f0c}{%
+           family={{Polizeitliche Kriminalprävention der Länder und des Bundes}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{46799a8429ea88556d45151775743f0c}
+      \strng{fullhash}{46799a8429ea88556d45151775743f0c}
+      \strng{bibnamehash}{46799a8429ea88556d45151775743f0c}
+      \strng{authorbibnamehash}{46799a8429ea88556d45151775743f0c}
+      \strng{authornamehash}{46799a8429ea88556d45151775743f0c}
+      \strng{authorfullhash}{46799a8429ea88556d45151775743f0c}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Häusliche Gewalt}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.polizei-beratung.de/opferinformationen/haeusliche-gewalt/
+      \endverb
+      \verb{url}
+      \verb https://www.polizei-beratung.de/opferinformationen/haeusliche-gewalt/
       \endverb
     \endentry
     \entry{H1_moderation_2020}{article}{}
@@ -1678,7 +1858,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{chapter}{Jugend (12-19 Jahre}
+      \field{chapter}{Jugend (12-19 Jahre)}
       \field{title}{Entwicklungspsychologie}
       \field{year}{2012}
       \field{pages}{235\bibrangedash 258}
