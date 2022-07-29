@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.4.18)  27 JUL 2022 01:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.4.18)  30 JUL 2022 00:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1468,7 +1468,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--19
 \OT1/cmr/m/n/12 (+20) Ge-sichts-aus-dr[]ucke er-fol-gen ([]Ko-lier, [][]2019[][]). Ei-ni-ge Bei-spie-le f[]ur psy-chi-sche
  []
 
-[14] [15] [16] [17] [18]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/2 Theorie/2.1.3 Gewaltmythen.tex [19] [20]) [21] (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/2 Theorie/2.2.1 Hypothese 1.tex [22]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/2 Theorie/2.2.2 Hypothese 2.tex) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/2 Theorie/2.2.3 Hypothese 3.tex [23])) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/3 Methode/Methoden.tex [24]
+[14] [15] [16] [17] [18]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/2 Theorie/2.1.3 Gewaltmythen.tex [19] [20] [21]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/2 Theorie/2.2.1 Hypothese 1.tex [22]
+LaTeX Font Info:    Trying to load font information for U+eur on input line 6.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/ueur.fd
+File: ueur.fd 2013/01/14 v3.01 Euler Roman
+) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-eur.cfg
+File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
+) [23]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/2 Theorie/2.2.2 Hypothese 2.tex [24]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/2 Theorie/2.2.3 Hypothese 3.tex [25])) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/3 Methode/Methoden.tex [26]
 Kapitel 3.
 
 Underfull \hbox (badness 10000) in paragraph at lines 2--3
@@ -1476,77 +1482,77 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--3
  []
 
 (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/3 Methode/Histogramm Altersverteilung.tex
-<Histogramm Alter.jpg, id=596, 850.17625pt x 498.86375pt>
+<Histogramm Alter.jpg, id=624, 850.17625pt x 498.86375pt>
 File: Histogramm Alter.jpg Graphic file (type jpg)
 <use Histogramm Alter.jpg>
 Package pdftex.def Info: Histogramm Alter.jpg  used on input line 3.
 (pdftex.def)             Requested size: 364.19667pt x 213.70035pt.
-) [25
+) [27
 
- </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm Alter.jpg>] [26]
-Underfull \hbox (badness 10000) in paragraph at lines 25--26
+ </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm Alter.jpg>] [28]
+Underfull \hbox (badness 10000) in paragraph at lines 25--28
 []\OT1/cmr/m/n/12 (+20) Mithilfe der Fall-vi-gnet-ten zur h[]auslichen Ge-walt wur-de die
  []
 
-LaTeX Font Info:    Trying to load font information for U+eur on input line 28.
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/ueur.fd
-File: ueur.fd 2013/01/14 v3.01 Euler Roman
-) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-eur.cfg
-File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
-) [27] [28] [29]
-Underfull \hbox (badness 10000) in paragraph at lines 55--56
-[]\OT1/cmr/m/n/12 (+20) F[]ur die ers-ten bei-den Hy-po-the-sen (H1 und H2) wur-den
+[29] [30] [31]
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+[]\OT1/cmr/m/n/12 (+20) F[]ur die zwei-te Hy-po-the-se (H2) wur-de ei-ne
  []
 
-) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Ergebnisse.tex [30]
+) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Ergebnisse.tex [32]
 Kapitel 4.
 (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Histogramm Vignetten.tex
-<Histogramm VicBlame.jpg, id=635, 852.18375pt x 500.87125pt>
+<Histogramm VicBlame.jpg, id=662, 852.18375pt x 500.87125pt>
 File: Histogramm VicBlame.jpg Graphic file (type jpg)
 <use Histogramm VicBlame.jpg>
 Package pdftex.def Info: Histogramm VicBlame.jpg  used on input line 3.
 (pdftex.def)             Requested size: 364.19667pt x 214.0559pt.
 ) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Histogramm DVMAS.tex
-<Histogramm DVMAS.jpg, id=637, 853.1875pt x 501.875pt>
+<Histogramm DVMAS.jpg, id=664, 853.1875pt x 501.875pt>
 File: Histogramm DVMAS.jpg Graphic file (type jpg)
 <use Histogramm DVMAS.jpg>
 Package pdftex.def Info: Histogramm DVMAS.jpg  used on input line 3.
 (pdftex.def)             Requested size: 364.19667pt x 214.2398pt.
- [31
+ [33
 
  </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm VicBlame.jpg>]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Histogramm AggroFB.tex
-<Histogramm AggroFB.jpg, id=643, 852.18375pt x 500.87125pt>
+<Histogramm AggroFB.jpg, id=670, 852.18375pt x 500.87125pt>
 File: Histogramm AggroFB.jpg Graphic file (type jpg)
 <use Histogramm AggroFB.jpg>
 Package pdftex.def Info: Histogramm AggroFB.jpg  used on input line 3.
 (pdftex.def)             Requested size: 364.19667pt x 214.0559pt.
-) [32 </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm DVMAS.jpg> </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm AggroFB.jpg>] (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle Manipulationscheck.tex) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle Kreuztabelle Geschlecht.tex) [33] (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle KT SES.tex) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle KT kult.tex) [34]
-Underfull \hbox (badness 10000) in paragraph at lines 48--50
+) [34 </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm DVMAS.jpg> </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm AggroFB.jpg>] (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle H1 Spearman.tex
+Underfull \hbox (badness 10000) in paragraph at lines 25--21
 \OT1/cmr/m/n/12 (+20) bla-ming aus. Die-se un-ge-rich-te-te Zu-sam-men-hangs-hy-po-the-se wur-de mit der
  []
 
-(/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle H1 Spearman.tex) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle H2 Pearson.tex [35])
-Underfull \hbox (badness 10000) in paragraph at lines 62--63
-\OT1/cmr/m/n/12 (+20) Nor-mal-ver-tei-lung der Re-si-du-en aus-ge-gan-gen wer-den. Die []Uberpr[]ufung der
- []
-
-(/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle Moderation.tex) [36] (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle Haupteffekte.tex) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle Explorativ AggroSub.tex) [37]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/5 Diskussion/Diskussion.tex [38]
+) [35] (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle H2 Pearson.tex) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle Moderation.tex) [36] (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle Haupteffekte.tex) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle Manipulationscheck.tex) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle Kreuztabelle Geschlecht.tex) [37] (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle KT SES.tex) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle KT kult.tex) [38] (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle Explorativ AggroSub.tex) [39]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/5 Diskussion/Diskussion.tex [40]
 Kapitel 5.
-) [39
+[41
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+\OT1/cmr/m/n/12 (+20) auch ei-ne Zu-sam-men-hangs-ana-ly-se der Aggression$\U/MnSymbolC/m/n/12 ^^P$\OT1/cmr/m/n/12 (+20) Subskalen mit der
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+\OT1/cmr/m/n/12 (+20) zeigt sich, dass aus-schlie^^Y-lich die phy-si-sche Ag-gres-si-on mit der
+ []
+
+[42] [43]) [44]
 Underfull \hbox (badness 10000) in paragraph at lines 86--86
 \OT1/cmr/m/n/12 (+20) (Kap. Ge-walt ge-gen Frau-en: ei-ne theo-re-ti-sche Ver-or-tung, S. 32).
  []
 
-[40
+[45
 
-] [41]
+] [46]
 Underfull \hbox (badness 10000) in paragraph at lines 86--86
 \OT1/cmr/m/n/12 (+20) Kap. Er-schei-nungs-for-men h[]auslicher Ge-walt, S. 115).
  []
 
-[42] [43]
+[47] [48]
 Underfull \hbox (badness 10000) in paragraph at lines 86--86
 \OT1/cmr/m/n/12 (+20) (Kap. Part-ner-ge-walt ge-gen Frau-en, S. 24).
  []
@@ -1556,37 +1562,37 @@ Overfull \hbox (0.20253pt too wide) in paragraph at lines 86--86
 [][]$\OT1/cmr/m/n/12 (+3) https : / / www . violentia -[] muenchen . de / unterscheidung -[] von -[] aggression -[] und -[] gewalt -[] in -[]
  []
 
-(/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Anhang.tex [44] [45
+(/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Anhang.tex [49] [50
 
-]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Ehrenwörtliche Erklärung.tex [46
+]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Ehrenwörtliche Erklärung.tex [51
 
 ])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 89.
- [47]
+ [52]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 89.
  (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 89.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 89.
 Package rerunfilecheck Info: File `SRH_Vorlage.out' has not changed.
-(rerunfilecheck)             Checksum: 1CC8159F17DD1694268B5F6DF2E7B10D;2944.
+(rerunfilecheck)             Checksum: 27ACE54D46793E82B7D4315CC7C4E612;3029.
 Package logreq Info: Writing requests to 'SRH_Vorlage.run.xml'.
 \openout1 = `SRH_Vorlage.run.xml'.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 89.
  ) 
 Here is how much of TeX's memory you used:
- 29601 strings out of 481239
- 538906 string characters out of 5920377
- 1278523 words of memory out of 5000000
- 44048 multiletter control sequences out of 15000+600000
+ 29633 strings out of 481239
+ 539635 string characters out of 5920377
+ 1281910 words of memory out of 5000000
+ 44071 multiletter control sequences out of 15000+600000
  549416 words of font info for 133 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  80i,23n,131p,2372b,5508s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolE.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.pdf (47 pages, 377047 bytes).
+Output written on /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.pdf (52 pages, 392630 bytes).
 PDF statistics:
- 863 PDF objects out of 1000 (max. 8388607)
- 793 compressed objects within 8 object streams
- 165 named destinations out of 1000 (max. 500000)
- 14189 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 906 PDF objects out of 1000 (max. 8388607)
+ 830 compressed objects within 9 object streams
+ 174 named destinations out of 1000 (max. 500000)
+ 14197 words of extra memory for PDF output out of 14400 (max. 10000000)
 

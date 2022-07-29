@@ -197,6 +197,64 @@
       \field{type}{mathesis}
       \field{year}{2019}
     \endentry
+    \entry{Vergewaltigung_Bohner_1996}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=877b62d99fbfd37cb049a9931023ca7d}{%
+           family={Bohner},
+           familyi={B\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Universität Mannheim}%
+      }
+      \strng{namehash}{877b62d99fbfd37cb049a9931023ca7d}
+      \strng{fullhash}{877b62d99fbfd37cb049a9931023ca7d}
+      \strng{bibnamehash}{877b62d99fbfd37cb049a9931023ca7d}
+      \strng{authorbibnamehash}{877b62d99fbfd37cb049a9931023ca7d}
+      \strng{authornamehash}{877b62d99fbfd37cb049a9931023ca7d}
+      \strng{authorfullhash}{877b62d99fbfd37cb049a9931023ca7d}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Vergewaltigungsmythen: Sozialpsychologische Untersuchungen über täterentlastende und opferfeindliche Überzeugungen im Bereich sexueller Gewalt}
+      \field{type}{phdthesis}
+      \field{year}{1996}
+    \endentry
+    \entry{Vergewaltigung_Boris_2004}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ec384cec3a3ace2a5b746cd461899fda}{%
+           family={Brosi},
+           familyi={B\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Ludwig-Maximilians-Universität München}%
+      }
+      \strng{namehash}{ec384cec3a3ace2a5b746cd461899fda}
+      \strng{fullhash}{ec384cec3a3ace2a5b746cd461899fda}
+      \strng{bibnamehash}{ec384cec3a3ace2a5b746cd461899fda}
+      \strng{authorbibnamehash}{ec384cec3a3ace2a5b746cd461899fda}
+      \strng{authornamehash}{ec384cec3a3ace2a5b746cd461899fda}
+      \strng{authorfullhash}{ec384cec3a3ace2a5b746cd461899fda}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Untersuchung zur Akzeptanz von Vergewaltigungsmythen in verschiedenen Bevölkerungsgruppen}
+      \field{type}{phdthesis}
+      \field{year}{2004}
+    \endentry
     \entry{physische_Gewalt_wie_aggro}{incollection}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=e003f8a9b0457c76d1d5c2079d4b33ca}{%
@@ -267,6 +325,50 @@
       \verb{url}
       \verb https://www.bmfsfj.de/bmfsfj/themen/gleichstellung/frauen-vor-gewalt-schuetzen/haeusliche-gewalt
       \endverb
+    \endentry
+    \entry{Vergewaltigung_Typen_Burt_1991}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=04a2acee87f6d6d607c720597434db7f}{%
+           family={Burt},
+           familyi={B\bibinitperiod},
+           given={M.\bibnamedelimi R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=7e7b84a2b9233c3bed5358dbd2ec8aa0}{%
+           family={Parrot},
+           familyi={P\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           suffix={A.and\bibnamedelima Bechhofer},
+           suffixi={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {New York: John Wiley}%
+        {Sons}%
+      }
+      \strng{namehash}{04a2acee87f6d6d607c720597434db7f}
+      \strng{fullhash}{04a2acee87f6d6d607c720597434db7f}
+      \strng{bibnamehash}{04a2acee87f6d6d607c720597434db7f}
+      \strng{authorbibnamehash}{04a2acee87f6d6d607c720597434db7f}
+      \strng{authornamehash}{04a2acee87f6d6d607c720597434db7f}
+      \strng{authorfullhash}{04a2acee87f6d6d607c720597434db7f}
+      \strng{editorbibnamehash}{7e7b84a2b9233c3bed5358dbd2ec8aa0}
+      \strng{editornamehash}{7e7b84a2b9233c3bed5358dbd2ec8aa0}
+      \strng{editorfullhash}{7e7b84a2b9233c3bed5358dbd2ec8aa0}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{Rape myths and acquaintance rape}
+      \field{title}{Acquaintance Rape: The Hidden Crime}
+      \field{year}{1991}
+      \field{pages}{26\bibrangedash 40}
+      \range{pages}{15}
     \endentry
     \entry{Def_Aggressivität_eng1}{booklet}{}
       \name{author}{1}{}{%

@@ -1,8 +1,9 @@
 \chapter{Ergebnisse}   \label{ch_4}
 Im folgenden Kapitel werden die durchgeführten statistischen Berechnungen dargestellt. Zu Beginn werden die deskriptiven Ergebnisse beschrieben und mit den Normwerten verglichen, woraufhin die statistische Überprüfung der Manipulation folgt. Im inferenzstatistischen Unterkapitel wird mit der Prüfung der Vorraussetzung der einzelnen Test mathematisch dargestellt und abschließend werden die Ergebnisse der drei Hypothesen präsentiert. Die ausführliche Interpretation der Ergebnisse geschieht im nachkommenden Kapitel ~\ref{ch_5}. 
+Wie zuvor erklärt, musste der Datensatz verdoppelt werden, um eine Berechnung mit den Daten gewährleisten zu können. Aus diesem Grund wird in diesem und den nachfolgenden Kapiteln von einer Stichprobengröße von $N_{neu}$~=~864 ausgegangen.
 
 \section{Deskriptive Ergebnisse}    \label{sec_4.1}
-Die Fallvignetten wießen, bei einem $Min$~=~1 und einem $Max$~=~101, einen Mittelwert von $M$~=~26.46 ($SD$~=~27.98) auf. Der Median lag bei $Mdn$~=~19. Die am häufigsten verteilten Werte liegen an den beiden Extremen bei 1.00 und 101.00 und bilden eine bimodale Verteilung. Bei einer Schiefe von 1.17 und Kurtosis von 0.53, liegt eine rechstschiefe bzw. linkssteile und steilgipflige Verteilung vor. Abbildung~\ref{Histogramm VicBlame} stellt die unimodale Verteilung der Verantwortungszuschreibung bildlich da. Die vorhandenen Ausreißer befinden sich alle unter der Ausscheidungsgrenze.
+Die Fallvignetten wießen, bei einem $Min$~=~1 und einem $Max$~=~101, einen Mittelwert von $M$~=~26.46 ($SD$~=~27.98) auf. Der Median lag bei $Mdn$~=~19. Die am häufigsten verteilten Werte liegen an den beiden Extremen bei 1.00 und 101.00 und bilden eine bimodale Verteilung. Bei einer Schiefe von 1.17 und Kurtosis von 0.53, liegt eine rechstschiefe beziehungsweise. linkssteile und steilgipflige Verteilung vor. Abbildung~\ref{Histogramm VicBlame} stellt die unimodale Verteilung der Verantwortungszuschreibung bildlich da. Die vorhandenen Ausreißer befinden sich alle unter der Ausscheidungsgrenze.
 % Modus: 1.00 und 101.00
 \input{4 Ergebnisse/Histogramm Vignetten.tex}
 
@@ -16,9 +17,40 @@ Beim Deutschen Aggressionsfragebogen wurde ein Mittelwert von $M$~=~1.88 ($SD$~=
 % Modus: 1.59, 1.62, 2.52, 2.55
 
 
-\section{Manipulationscheck}    \label{sec_4.2}
+\section{Inferenzstatistische Ergebnisse}    \label{sec_4.2}
+Anschließend erfolgt eine inferenzstatistische Analyse der erhobenen Daten zur Fesstellung der Korrelationen zwischen den in Kapitel~\ref{ch_2} näher gebrachten Konstrukte Aggression, Akzeptanz der Gewaltmythen und die Verantwortungszuschreibung. 
+
+
+\subsection{Hypothese 1}    \label{subsec_4.2.1}
+Die Hypothese 1 geht von einer Korrelation des Aggressionsscores mit victim blaming aus. Diese ungerichtete Zusammenhangshypothese wurde mit der Spearman$-$Rang$-$Korrelation berechnet. Die in Kapitel ~\ref{sec_3.5} erwähnten Voraussetzungen der Ordinalität beider Variablen wie auch die paarweise Beobachtungen sind gegeben. Eine gepaarte Beobachtung entspricht einer gemessenen Variable pro Spalte bei SPSS.
+\input{4 Ergebnisse/Tabelle H1 Spearman.tex}
+
+Das in Tabelle~\ref{H1_Spearman} ersichtliche Ergebnis der Spearman$-$Rang$-$Korrelation fiel nicht signifikant aus ($p$~=~n.s.). Mit dem sehr kleinen Effekt \parencite{Cohen_1992} von $r_{s}$~=~.18, korreliert die Aggression nur sehr gering mit der Schuldzuweiseung auf das Opfer.
+
+\subsection{Hypothese 2}    \label{subsec_4.2.2}
+Die Voraussetzung einer Pearson$-$Produkt$-$Moment$-$Korrelation wurden in ~\ref{sec_3.5} bereits aufgeführt. In diesem Falle sind auch alle Voraussetzungen gegeben: Aggression und die Akzeptanz von Gewaltmythen sind metrisch, die vorhandenen Ausreißer sind im akzeptablen Bereich, es liegt ein linearer Zusamenhang zwischen den Variablen vor und eine bivariate Normalverteilung ist auch gegeben, da der Bootstrap$-$Konfidenzintervall (.308 $-$ .442) die Null nicht einbezieht.
+
+Die in Tabelle~\ref{H2_Pearson} ersichtliche Pearson$-$Produkt$-$Moment$-$Korrelation zeigte einen Zusammenhang von $r$~=~.38. Nach \textcite{Cohen_1992} entspricht dies einer mittelgroßen Korrelation, die bei einseitiger Testung statistisch signifikant ausfiel ($p<$ .001).
+\input{4 Ergebnisse/Tabelle H2 Pearson.tex}
+
+
+\subsection{Hypothese 3}    \label{subsec_4.2.3}
+Um die vermutete Moderation des biologischen Geschelchts auf den Zusammenhang zwischen Aggressio und dem DVMAS zu testen, wurde eine Moderationsanalyse durchgeführt. Die Variablen weisen eine lineare Beziehung und eine Unabhängigkeit, durch die nicht verbundene Erhebung der einzelnen Variablen, auf. Durch die mit $N_{neu}$~=~864 großen Stichprobe, kann von einer Normalverteilung der Residuen ausgegangen werden. Die Überprüfung der Homoskedastizität mithilfe des White$-$Tests ergab eine signifikantes Ergebnis ($p$~=~.03). Somit liegt eine Heteroskedastizität vor. 
+
+\input{4 Ergebnisse/Tabelle Moderation.tex}
+Das Gesamtmodell war, wie in Tabelle~\ref{Moderationsanalyse} demonstriert, mit einer Varianzaufklärung von 16.34\% signifikant ($F$(3, 856)~=~50.30, $p<$ .001). Die Moderationsanalyse konnte jedoch keinen signifikanten Moderationseffekt finden, $\Delta R^{2}$~=~0.12\%, F(1, 860)~=~1.12, $p$~=~.290, 95\% CI[-0.39, 0.12]. Dennoch klärt das Modell 16.34\% der Varianz des deutschen DVMAS auf.
+%Modell: $R^{2}$~=~16.34\%, $F$(HC3)~=~50.30, $df1$~=~1, $df2$~=~856 $p<$~.001
+%W*X: $\Delta R^{2}$~=~0.08, $F$(HC3)~=~0.76, $df1$~=~1, $df2$~=~856 $p$~=~.384
+
+\input{4 Ergebnisse/Tabelle Haupteffekte.tex}
+Den Entfehlungen von \textcite{Moderation_SPSS} folgend, wurde der Interaktionsterm herausgenommen. Dies führte zu einem neuen Modell mit Haupteffekten, welche in Tabelle~\ref{Haupteffekte} zusammengefasst wurden. Die Beziehung zwischen Geschlecht ($B$~=~$-$.23, $p<$~.001), wie auch zwische Aggression ($B$~=~.69, $p<$~.001) und der Akzeptanz von Gewaltmythen fiel signifikant aus. 
+%Geschlecht: $B$~=~$-$.23, $(SE)B$~=~0.06, $\beta$~=~$-$.13, $t$~=~$-$4.191, $p<$~.001
+%Aggression: $B$~=~.69, $(SE)B$~=~0.06, $\beta$~=~.37, $t$~=~11.842, $p<$~.001
+
+
+\section{Manipulationscheck}    \label{sec_4.3}
 Nachfolgend werden die Ergebnisse der vier Manipulationschecks in der folgenden Reihenfolge aufgeführt: Gewaltart, Geschlecht des Opfers, soziökonomischer Status der betroffenen Person und abschließend der Kulturelle Hintergrund.
-Wie zuvor erklärt, musste der Datensatz verdoppelt werden, um eine berechnung mit den Daten gewährleisten zu können. Aus diesem Grund wird in diesem und den nachfolgenden Kapiteln von einer Stichprobengröße von $N_{neu}$~=~864 ausgegangen.
+
 
 \input{4 Ergebnisse/Tabelle Manipulationscheck.tex}
 \input{4 Ergebnisse/Tabelle Kreuztabelle Geschlecht.tex}
@@ -36,41 +68,7 @@ In Tabelle~\ref{KT_SES} sind die Werte dieser Manipulationsprüfung nochmals zus
 Die höchste Rate an Richtigkeit gab es bei dem Manipulationscheck des kulturellen Status. Hier gaben 422 (97.70\%) Personen bzw. 423 (97.90\%) die richtige Antwort. Auch dieser Chi$^2$-Test ist mit einem Wert von 789.68 signifikant ($p<$.001). 
 In Tabelle~\ref{KT_kult} sind die Werte dieser Manipulationsprüfung nochmals zusammengefasst.
 
-
-
-
-
-\section{Inferenzstatistische Ergebnisse}    \label{sec_4.3}
-Anschließend erfolgt eine inferenzstatistische Analyse der erhobenen Daten zur Fesstellung der Korrelationen zwischen den in Kapitel~\ref{ch_2} näher gebrachten Konstrukte Aggression, Akzeptanz der Gewaltmythen und die Verantwortungszuschreibung. 
-
-
-\subsection{Hypothese 1}    \label{subsec_4.3.1}
-Die Hypothese 1 geht von einer Korrelation des Aggressionsscores mit victim blaming aus. Diese ungerichtete Zusammenhangshypothese wurde mit der Pearson$-$Produkt$-$Moment$-$Korrelation berechnet.
-Obwohl die Verteilung der Variable der Verantwortungszuschreibung nicht einer Normalverteilung entspricht kann sie wegen des zentralen Grenzwertsatzes und der, mit $N$~=~864, großen Stichprobe, als metrisch eingestuft werden. Auch die in Kapitel ~\ref{sec_3.5} erwähnten weiteren Voraussetzungen des linearen Zusammenhangs und der fehlenden starken Ausreißer, sind gegeben. Nur die Voraussetzung der bivariaten Normalverteilung ist nicht gegeben.
-
-Das in Tabelle~\ref{H1_Spearman} ersichtliche Ergebnis der Pearson$-$Produkt$-$Moment$-$Korrelation fiel nicht signifikant aus ($p$~=~n.s.). Mit dem sehr kleinen Effekt \parencite{Cohen_1992} von $r$~=~.05, korreliert die Aggression nur sehr gering mit der Schuldzuweiseung auf das Opfer. 
-\input{4 Ergebnisse/Tabelle H1 Spearman.tex}
-
-\subsection{Hypothese 2}    \label{subsec_4.3.2}
-Die Voraussetzung einer Pearson$-$Produkt$-$Moment$-$Korrelation wurden in ~\ref{sec_3.5} bereits aufgeführt. In diesem Falle sind auch alle Voraussetzungen gegeben: Aggression und die Akzeptanz von Gewaltmythen sind metrisch, die vorhandenen Ausreißer sind im akzeptablen Bereich, es liegt ein linearer Zusamenhang zwischen den Variablen vor und eine bivariate Normalverteilung ist auch gegeben. 
-
-Die in Tabelle~\ref{H2_Pearson} ersichtliche Pearson$-$Produkt$-$Moment$-$Korrelation zeigte einen Zusammenhang von $r$~=~.38. Nach \textcite{Cohen_1992} entspricht dies einer mittelgroßen Korrelation, die bei einseitiger Testung statistisch signifikant ausfiel ($p<$ .001).
-\input{4 Ergebnisse/Tabelle H2 Pearson.tex}
-
-
-\subsection{Hypothese 3}    \label{subsec_4.3.3}
-Um die vermutete Moderation des biologischen Geschelchts auf den Zusammenhang zwischen Aggressio und dem DVMAS zu testen, wurde eine Moderationsanalyse durchgeführt. Eine lineare Bezihung und eine Unabhängigkeit der Variablen sind gegeben. Durch die mit $N$~=~864 großen Stichprobe, kann von einer Normalverteilung der Residuen ausgegangen werden. Die Überprüfung der Homoskedastizität mithilfe des White$-$Tests ergab eine signifikantes Ergebnis ($p$~=~.03). Somit liegt eine Heteroskedastizität vor. Der dadurch entstandene Bias des Standardfehlers kann zu fehlerhaften Interpretationen und Schlussfolgerungen des $p-$Wertes der Moderation führen \parencite{Voraussetzung_Moderation}.
-
-\input{4 Ergebnisse/Tabelle Moderation.tex}
-Das Gesamtmodell war, wie in Tabelle~\ref{Moderationsanalyse} demonstriert, mit einer Varianzaufklärung von 16.34\% signifikant ($F$(3, 856)~=~50.30, $p<$ .001). Die Moderationsanalyse konnte jedoch keinen signifikanten Moderationseffekt finden, $\Delta R^{2}$~=~0.08\%, F(1, 856)~=~0.76, $p$~=~.384, 95\% CI[-0.371, 0.143]. Dennoch klärt das Modell 14.31\% der Varianz des deutschen DVMAS auf.
-%Modell: $R^{2}$~=~16.34\%, $F$(HC3)~=~50.30, $df1$~=~1, $df2$~=~856 $p<$~.001
-%W*X: $\Delta R^{2}$~=~0.08, $F$(HC3)~=~0.76, $df1$~=~1, $df2$~=~856 $p$~=~.384
-
-\input{4 Ergebnisse/Tabelle Haupteffekte.tex}
-Den Entfehlungen von \textcite{Moderation_SPSS} folgend, wurde der Interaktionsterm herausgenommen. Dies führte zu einem neuen Modell mit Haupteffekten, welche in Tabelle~\ref{Haupteffekte} zusammengefasst wurden. Die Beziehung zwischen Geschlecht ($B$~=~$-$.23, $p<$~.001), wie auch zwische Aggression ($B$~=~.69, $p<$~.001) und der Akzeptanz von Gewaltmythen fiel signifikant aus. 
-%Geschlecht: $B$~=~$-$.23, $(SE)B$~=~0.06, $\beta$~=~$-$.13, $t$~=~$-$4.191, $p<$~.001
-%Aggression: $B$~=~.69, $(SE)B$~=~0.06, $\beta$~=~.37, $t$~=~11.842, $p<$~.001
-
+Bei der Kontrollfrage gaben zwei Personen an, nicht sinnvolle Angaben hinterlegt zu haben. Da es statistisch keinen unterschied gibt, ob sie ausgeschlossen werden oder nicht, verblieben sie im Datensatz.
 
 
 \section{Explorative Ergebnisse}    \label{sec_4.4}
@@ -81,7 +79,7 @@ Zusätzlich zu den untersuchten Hypothesen wurden noch weitere explorative Unter
 
 \subsection{Korrelation Aggresion-Subskalen mit DVMAS}  \label{subsec_4.4.1}
 \input{4 Ergebnisse/Tabelle Explorativ AggroSub.tex}
-Für die Korrelation zwischen den drei Aggressions-Subskalen verbale Aggression, Ärger und Misstrauen und der Akzeptanz von Gewaltmythen wurde eine Pearson-Moment-Korrelation berechnet, denn alle Variablen sind metrisch skaliert. Des Weiteren ist die Linearität zwischen den Variablen gegeben. Da die Variable der physischen Aggression zu große Ausreißer aufwies, wurde sie aus der Korrelationsrechnung ausgeschlossen. Auch eine bivariate Normalverteilung ist bei den verbliebenen Korrelation vorhanden. An den kursiv gesetzten $r-$Werte, in Tabelle~\ref{lala}, ist erkennbar, dass alle Subskalen unter sich signifikant sind und, dass sie jeweils mit dem DVMAS positiv korrelieren. 
+Für die Korrelation zwischen den drei Aggressions-Subskalen verbale Aggression, Ärger und Misstrauen und der Akzeptanz von Gewaltmythen wurde eine Pearson$-$Produkt$-$Moment$-$Korrelation berechnet, denn alle Variablen sind metrisch skaliert. Des Weiteren ist die Linearität zwischen den Variablen gegeben. Da die Variable der physischen Aggression zu große Ausreißer aufwies, wurde sie aus der Korrelationsrechnung ausgeschlossen. Auch eine bivariate Normalverteilung ist bei den verbliebenen Korrelation vorhanden und lauten wie folgt: verbale Aggression$-$Ärger CI [0.39, 0.51], verbale Aggression$-$Misstrauen CI [0.23, 0.36], verbale Aggression$-$DVMAS CI [0.20, 0.34], Ärger$-$DVMAS CI [0.18, 0.31], Misstrauen$-$DVMAS CI [0.18, 0.29], Misstrauen$-$Ärger CI [0.41, 0.53]. An den kursiv gesetzten $r-$Werte, in Tabelle~\ref{lala}, ist erkennbar, dass alle Subskalen unter sich signifikant sind und, dass sie jeweils mit dem DVMAS positiv korrelieren. 
 
 Die verbale Aggression korrelierte mittelgradig mit Ärger ($r$~=~.45, $p<$~.001) und Misstrauen ($r$~=~.30, $p<$~.001).
 Die Subskala Ärger wies eine mittelgradig Korrelation mit Misstrauen ($r$~=~.48, $p<$~.001) auf.
