@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.4.18)  31 JUL 2022 01:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.4.18)  31 JUL 2022 01:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1506,13 +1506,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--61
 ) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Ergebnisse.tex [32]
 Kapitel 4.
 (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Histogramm Vignetten.tex
-<Histogramm VicBlame.jpg, id=677, 852.18375pt x 500.87125pt>
+<Histogramm VicBlame.jpg, id=678, 852.18375pt x 500.87125pt>
 File: Histogramm VicBlame.jpg Graphic file (type jpg)
 <use Histogramm VicBlame.jpg>
 Package pdftex.def Info: Histogramm VicBlame.jpg  used on input line 3.
 (pdftex.def)             Requested size: 364.19667pt x 214.0559pt.
 ) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Histogramm DVMAS.tex
-<Histogramm DVMAS.jpg, id=679, 853.1875pt x 501.875pt>
+<Histogramm DVMAS.jpg, id=680, 853.1875pt x 501.875pt>
 File: Histogramm DVMAS.jpg Graphic file (type jpg)
 <use Histogramm DVMAS.jpg>
 Package pdftex.def Info: Histogramm DVMAS.jpg  used on input line 3.
@@ -1520,7 +1520,7 @@ Package pdftex.def Info: Histogramm DVMAS.jpg  used on input line 3.
  [33
 
  </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm VicBlame.jpg>]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Histogramm AggroFB.tex
-<Histogramm AggroFB.jpg, id=685, 852.18375pt x 500.87125pt>
+<Histogramm AggroFB.jpg, id=686, 852.18375pt x 500.87125pt>
 File: Histogramm AggroFB.jpg Graphic file (type jpg)
 <use Histogramm AggroFB.jpg>
 Package pdftex.def Info: Histogramm AggroFB.jpg  used on input line 3.
@@ -1578,7 +1578,7 @@ Overfull \hbox (0.20253pt too wide) in paragraph at lines 86--86
 
 (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Anhang.tex [51]
 Anhang A.
-<Boxplot AggroFB.jpg, id=866, 852.18375pt x 500.87125pt>
+<Boxplot AggroFB.jpg, id=867, 852.18375pt x 500.87125pt>
 File: Boxplot AggroFB.jpg Graphic file (type jpg)
 <use Boxplot AggroFB.jpg>
 Package pdftex.def Info: Boxplot AggroFB.jpg  used on input line 9.
@@ -1587,7 +1587,7 @@ Package pdftex.def Info: Boxplot AggroFB.jpg  used on input line 9.
 
  </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Boxplot AggroFB.jpg>]
 Anhang B.
-<Boxplot DVMAS.jpg, id=872, 851.18pt x 499.8675pt>
+<Boxplot DVMAS.jpg, id=873, 851.18pt x 499.8675pt>
 File: Boxplot DVMAS.jpg Graphic file (type jpg)
 <use Boxplot DVMAS.jpg>
 Package pdftex.def Info: Boxplot DVMAS.jpg  used on input line 24.
@@ -1596,7 +1596,7 @@ Package pdftex.def Info: Boxplot DVMAS.jpg  used on input line 24.
 
  </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Boxplot DVMAS.jpg>]
 Anhang C.
-<Linearität AggroFB-DVMAS.jpg, id=878, 853.1875pt x 501.875pt>
+<Linearität AggroFB-DVMAS.jpg, id=879, 853.1875pt x 501.875pt>
 File: Linearität AggroFB-DVMAS.jpg Graphic file (type jpg)
 <use Linearität AggroFB-DVMAS.jpg>
 Package pdftex.def Info: Linearität AggroFB-DVMAS.jpg  used on input line 39.
@@ -1619,7 +1619,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--48
 |[]\OT1/cmr/bx/n/17.28 Boxplot Aggression$\U/MnSymbolC/m/n/18 ^^P$\OT1/cmr/bx/n/17.28 Subskala phy-si-sche
  []
 
-<Boxplot ph_aggro.jpg, id=884, 853.1875pt x 501.875pt>
+<Boxplot ph_aggro.jpg, id=885, 853.1875pt x 501.875pt>
 File: Boxplot ph_aggro.jpg Graphic file (type jpg)
 <use Boxplot ph_aggro.jpg>
 Package pdftex.def Info: Boxplot ph_aggro.jpg  used on input line 54.
@@ -1645,7 +1645,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 63.
 
-<Seite 1.png, id=891, 599.23875pt x 581.17125pt>
+<Seite 1.png, id=892, 599.23875pt x 581.17125pt>
 File: Seite 1.png Graphic file (type png)
 <use Seite 1.png>
 Package pdftex.def Info: Seite 1.png  used on input line 69.
@@ -1653,80 +1653,80 @@ Package pdftex.def Info: Seite 1.png  used on input line 69.
 [56
 
  </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 1.png>]
-<Seite 2.png, id=899, 590.95781pt x 414.04688pt>
+<Seite 2.png, id=900, 590.95781pt x 414.04688pt>
 File: Seite 2.png Graphic file (type png)
 <use Seite 2.png>
 Package pdftex.def Info: Seite 2.png  used on input line 76.
 (pdftex.def)             Requested size: 455.24411pt x 318.96869pt.
-<Seite 3.png, id=900, 591.71063pt x 295.85532pt>
+<Seite 3.png, id=901, 591.71063pt x 295.85532pt>
 File: Seite 3.png Graphic file (type png)
 <use Seite 3.png>
 Package pdftex.def Info: Seite 3.png  used on input line 82.
 (pdftex.def)             Requested size: 455.24411pt x 227.62871pt.
  [57 </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 2.png> </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 3.png>]
-<Seite 4.png, id=909, 594.72188pt x 325.215pt>
+<Seite 4.png, id=910, 594.72188pt x 325.215pt>
 File: Seite 4.png Graphic file (type png)
 <use Seite 4.png>
 Package pdftex.def Info: Seite 4.png  used on input line 89.
 (pdftex.def)             Requested size: 455.24411pt x 248.94249pt.
-<Seite 4 mit Infobox.png, id=910, 594.72188pt x 328.22626pt>
+<Seite 4 mit Infobox.png, id=911, 594.72188pt x 328.22626pt>
 File: Seite 4 mit Infobox.png Graphic file (type png)
 <use Seite 4 mit Infobox.png>
 Package pdftex.def Info: Seite 4 mit Infobox.png  used on input line 95.
 (pdftex.def)             Requested size: 455.24411pt x 251.24751pt.
  [58 </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 4.png> </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 4 mit Infobox.png>]
-<Seite 5.png, id=919, 600.74437pt x 338.76563pt>
+<Seite 5.png, id=920, 600.74437pt x 338.76563pt>
 File: Seite 5.png Graphic file (type png)
 <use Seite 5.png>
 Package pdftex.def Info: Seite 5.png  used on input line 102.
 (pdftex.def)             Requested size: 455.24411pt x 256.72536pt.
-<Seite 6.png, id=920, 595.47469pt x 331.2375pt>
+<Seite 6.png, id=921, 595.47469pt x 331.2375pt>
 File: Seite 6.png Graphic file (type png)
 <use Seite 6.png>
 Package pdftex.def Info: Seite 6.png  used on input line 108.
 (pdftex.def)             Requested size: 455.24411pt x 253.23412pt.
  [59 </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 5.png> </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 6.png>]
-<Seite 7.png, id=929, 529.98pt x 700.86844pt>
+<Seite 7.png, id=930, 529.98pt x 700.86844pt>
 File: Seite 7.png Graphic file (type png)
 <use Seite 7.png>
 Package pdftex.def Info: Seite 7.png  used on input line 115.
 (pdftex.def)             Requested size: 455.24411pt x 602.03998pt.
  [60 </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 7.png>]
-<Seite 8_1.png, id=937, 350.81062pt x 352.31625pt>
+<Seite 8_1.png, id=938, 350.81062pt x 352.31625pt>
 File: Seite 8_1.png Graphic file (type png)
 <use Seite 8_1.png>
 Package pdftex.def Info: Seite 8_1.png  used on input line 122.
 (pdftex.def)             Requested size: 455.24411pt x 457.23157pt.
  [61 </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 8_1.png>]
-<Seite 8_2.png, id=946, 347.04657pt x 292.84406pt>
+<Seite 8_2.png, id=947, 347.04657pt x 292.84406pt>
 File: Seite 8_2.png Graphic file (type png)
 <use Seite 8_2.png>
 Package pdftex.def Info: Seite 8_2.png  used on input line 129.
 (pdftex.def)             Requested size: 455.24411pt x 384.15579pt.
  [62 </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 8_2.png>]
-<Seite 9_1.png, id=954, 416.30531pt x 310.91156pt>
+<Seite 9_1.png, id=955, 416.30531pt x 310.91156pt>
 File: Seite 9_1.png Graphic file (type png)
 <use Seite 9_1.png>
 Package pdftex.def Info: Seite 9_1.png  used on input line 136.
 (pdftex.def)             Requested size: 455.24411pt x 340.01122pt.
  [63 </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 9_1.png>]
-<Seite 9_2.png, id=961, 418.56375pt x 330.48468pt>
+<Seite 9_2.png, id=962, 418.56375pt x 330.48468pt>
 File: Seite 9_2.png Graphic file (type png)
 <use Seite 9_2.png>
 Package pdftex.def Info: Seite 9_2.png  used on input line 143.
 (pdftex.def)             Requested size: 455.24411pt x 359.44456pt.
-<Seite 10.png, id=962, 590.205pt x 316.18124pt>
+<Seite 10.png, id=963, 590.205pt x 316.18124pt>
 File: Seite 10.png Graphic file (type png)
 <use Seite 10.png>
 Package pdftex.def Info: Seite 10.png  used on input line 149.
 (pdftex.def)             Requested size: 455.24411pt x 243.88486pt.
  [64 </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 9_2.png> </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 10.png>]
-<Seite 11.png, id=971, 591.71063pt x 414.04688pt>
+<Seite 11.png, id=972, 591.71063pt x 414.04688pt>
 File: Seite 11.png Graphic file (type png)
 <use Seite 11.png>
 Package pdftex.def Info: Seite 11.png  used on input line 156.
 (pdftex.def)             Requested size: 455.24411pt x 318.56436pt.
-<Seite 12.png, id=972, 591.71063pt x 232.61906pt>
+<Seite 12.png, id=973, 591.71063pt x 232.61906pt>
 File: Seite 12.png Graphic file (type png)
 <use Seite 12.png>
 Package pdftex.def Info: Seite 12.png  used on input line 162.
@@ -1754,10 +1754,10 @@ Here is how much of TeX's memory you used:
  1143 hyphenation exceptions out of 8191
  80i,23n,131p,2372b,5508s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolE.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.pdf (66 pages, 778265 bytes).
+Output written on /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.pdf (66 pages, 778367 bytes).
 PDF statistics:
- 1069 PDF objects out of 1200 (max. 8388607)
- 944 compressed objects within 10 object streams
+ 1070 PDF objects out of 1200 (max. 8388607)
+ 945 compressed objects within 10 object streams
  210 named destinations out of 1000 (max. 500000)
  21484 words of extra memory for PDF output out of 24883 (max. 10000000)
 
