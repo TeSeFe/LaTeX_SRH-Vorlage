@@ -2024,32 +2024,6 @@
       \field{pages}{29}
       \range{pages}{1}
     \endentry
-    \entry{DVMAS_deutsch}{unpublished}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=2f569090b4e136ba3d803a845e4cf3b1}{%
-           family={Teutsch},
-           familyi={T\bibinitperiod},
-           given={A.\bibnamedelimi C.},
-           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{2f569090b4e136ba3d803a845e4cf3b1}
-      \strng{fullhash}{2f569090b4e136ba3d803a845e4cf3b1}
-      \strng{bibnamehash}{2f569090b4e136ba3d803a845e4cf3b1}
-      \strng{authorbibnamehash}{2f569090b4e136ba3d803a845e4cf3b1}
-      \strng{authornamehash}{2f569090b4e136ba3d803a845e4cf3b1}
-      \strng{authorfullhash}{2f569090b4e136ba3d803a845e4cf3b1}
-      \field{sortinit}{T}
-      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Masterthesis}
-      \field{title}{Deutsche Version der Domestic Violence Myth Acceptance Scale}
-      \field{year}{2022}
-    \endentry
     \entry{Übergang_psy_zu_sex_Gewalt}{inbook}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=e48c20cc91ec67bce889ecd3a55ea158}{%
