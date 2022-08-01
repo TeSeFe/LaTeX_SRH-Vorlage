@@ -2588,8 +2588,11 @@
     <bcf:citekey order="196">Aggressionsfragebogen</bcf:citekey>
     <bcf:citekey order="197">Peters2003</bcf:citekey>
     <bcf:citekey order="198">Peters2003</bcf:citekey>
-    <bcf:citekey order="199">Aggressionsfragebogen</bcf:citekey>
-    <bcf:citekey order="200">Aggressionsfragebogen</bcf:citekey>
+    <bcf:citekey order="199">H1_Entwicklung</bcf:citekey>
+    <bcf:citekey order="200">Peters2003</bcf:citekey>
+    <bcf:citekey order="201">Peters2003</bcf:citekey>
+    <bcf:citekey order="202">Aggressionsfragebogen</bcf:citekey>
+    <bcf:citekey order="203">Aggressionsfragebogen</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

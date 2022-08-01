@@ -36,16 +36,16 @@
 \contentsline {subsection}{\numberline {4.2.3}Hypothese 3}{36}{subsection.4.2.3}%
 \contentsline {section}{\numberline {4.3}Manipulationscheck}{37}{section.4.3}%
 \contentsline {section}{\numberline {4.4}Explorative Ergebnisse}{39}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}Korrelation Aggresion-Subskalen mit DVMAS}{39}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.1}Korrelation Aggresion-Subskalen mit DVMAS und Victim Blaming}{39}{subsection.4.4.1}%
 \contentsline {chapter}{\numberline {5}Diskussion}{41}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Zusammenfassung der zentralen Ergebnisse}{41}{section.5.1}%
 \contentsline {section}{\numberline {5.2}Einordnung und Diskussion der Befunde}{43}{section.5.2}%
 \contentsline {section}{\numberline {5.3}Bewertung der Methode}{45}{section.5.3}%
 \contentsline {section}{\numberline {5.4}Ausblick}{46}{section.5.4}%
-\contentsline {chapter}{Literaturverzeichnis}{47}{chapter*.19}%
-\contentsline {chapter}{Anhang \numberline {A}Boxplot Deutscher Aggressionsfragebogen}{52}{appendix.1.A}%
-\contentsline {chapter}{Anhang \numberline {B}Boxplot DVMAS}{53}{appendix.1.B}%
-\contentsline {chapter}{Anhang \numberline {C}Linearität Deutscher Aggressionsfragebogen und DVMAS}{54}{appendix.1.C}%
-\contentsline {chapter}{Anhang \numberline {D}Boxplot Aggression$-$Subskala physische Aggression}{55}{appendix.1.D}%
-\contentsline {chapter}{Anhang \numberline {E}Online$-$Fragebogen}{56}{appendix.1.E}%
+\contentsline {chapter}{Literaturverzeichnis}{48}{chapter*.19}%
+\contentsline {chapter}{Anhang A}{53}{appendix*.20}%
+\contentsline {chapter}{Anhang B}{54}{appendix*.22}%
+\contentsline {chapter}{Anhang C}{55}{appendix*.24}%
+\contentsline {chapter}{Anhang D}{56}{appendix*.26}%
+\contentsline {chapter}{Anhang E}{57}{appendix*.28}%
 \contentsfinish 
