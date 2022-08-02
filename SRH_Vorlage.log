@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.4.18)  1 AUG 2022 17:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.4.18)  2 AUG 2022 22:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1447,28 +1447,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--16
 
 ]
 Kapitel 1.
-) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/2 Theorie/Theorie.tex
-Underfull \hbox (badness 10000) in paragraph at lines 21--1
-\OT1/cmr/m/n/12 (+20) hin-ge-wie-sen, dass die aus-schlie^^Y-li-che Ver-wen-dung der m[]annlichen Form
- []
+) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/2 Theorie/Theorie.tex [7
 
-[7
-
-]
+] [8]
 Kapitel 2.
 (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/2 Theorie/2.1.1 Aggressivität.tex
 Underfull \hbox (badness 10000) in paragraph at lines 4--6
 \OT1/cmr/m/n/12 (+20) Kor-nadt, [][]2011[][][]; Spek-trum, [][]2022[][]). Ag-gres-si-vit[]at ent-spricht dem-zu-fol-ge ei-ner
  []
 
-[8
+[9
 
-] [9] [10] [11]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/2 Theorie/2.1.2 Häusliche Gewalt.tex [12] [13]
-Underfull \hbox (badness 10000) in paragraph at lines 18--19
+] [10] [11] [12]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/2 Theorie/2.1.2 Häusliche Gewalt.tex [13] [14]
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
 \OT1/cmr/m/n/12 (+20) Ge-sichts-aus-dr[]ucke er-fol-gen ([]Ko-lier, [][]2019[][]). Ei-ni-ge Bei-spie-le f[]ur psy-chi-sche
  []
 
-[14] [15] [16] [17] [18]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/2 Theorie/2.1.3 Gewaltmythen.tex [19] [20] [21]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/2 Theorie/2.2.1 Hypothese 1.tex [22]
+[15] [16] [17]
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+\OT1/cmr/m/n/12 (+20) ge-ge-be-nen Pro-ble-ma-ti-ken, wie bei-spiels-wei-se Herz-kreis-lauf-be-schwer-den oder
+ []
+
+[18] [19]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/2 Theorie/2.1.3 Gewaltmythen.tex [20] [21]
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+\OT1/cmr/m/n/12 (+20) gro^^Yen Teil der Bev[]olkerung ba-sie-rend auf g[]angigen My-then []uber
+ []
+
+[22]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/2 Theorie/2.2.1 Hypothese 1.tex [23]
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
 \OT1/cmr/m/n/12 (+20) Ge-walt-my-then f[]uhrt. Sie kam zur Er-kennt-nis, dass nicht nur die
  []
@@ -1478,7 +1483,7 @@ LaTeX Font Info:    Trying to load font information for U+eur on input line 6.
 File: ueur.fd 2013/01/14 v3.01 Euler Roman
 ) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-eur.cfg
 File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
-) [23]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/2 Theorie/2.2.2 Hypothese 2.tex [24]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/2 Theorie/2.2.3 Hypothese 3.tex [25])) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/3 Methode/Methoden.tex [26]
+) [24]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/2 Theorie/2.2.2 Hypothese 2.tex) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/2 Theorie/2.2.3 Hypothese 3.tex [25] [26])) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/3 Methode/Methoden.tex [27]
 Kapitel 3.
 
 Underfull \hbox (badness 10000) in paragraph at lines 2--3
@@ -1486,58 +1491,58 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--3
  []
 
 (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/3 Methode/Histogramm Altersverteilung.tex
-<Histogramm Alter.jpg, id=645, 850.17625pt x 498.86375pt>
+<Histogramm Alter.jpg, id=660, 850.17625pt x 498.86375pt>
 File: Histogramm Alter.jpg Graphic file (type jpg)
 <use Histogramm Alter.jpg>
 Package pdftex.def Info: Histogramm Alter.jpg  used on input line 3.
 (pdftex.def)             Requested size: 364.19667pt x 213.70035pt.
-) [27
+) [28
 
- </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm Alter.jpg>] [28]
+ </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm Alter.jpg>] [29]
 Underfull \hbox (badness 10000) in paragraph at lines 25--28
 []\OT1/cmr/m/n/12 (+20) Mithilfe der Fall-vi-gnet-ten zur h[]auslichen Ge-walt wur-de die
  []
 
-[29] [30] [31]
-Underfull \hbox (badness 10000) in paragraph at lines 60--61
+[30] [31] [32]
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
 []\OT1/cmr/m/n/12 (+20) F[]ur die zwei-te Hy-po-the-se (H2) wur-de ei-ne
  []
 
-) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Ergebnisse.tex [32]
+) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Ergebnisse.tex [33] [34]
 Kapitel 4.
 (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Histogramm Vignetten.tex
-<Histogramm VicBlame.jpg, id=685, 852.18375pt x 500.87125pt>
+<Histogramm VicBlame.jpg, id=708, 852.18375pt x 500.87125pt>
 File: Histogramm VicBlame.jpg Graphic file (type jpg)
 <use Histogramm VicBlame.jpg>
 Package pdftex.def Info: Histogramm VicBlame.jpg  used on input line 3.
 (pdftex.def)             Requested size: 364.19667pt x 214.0559pt.
 ) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Histogramm DVMAS.tex
-<Histogramm DVMAS.jpg, id=687, 853.1875pt x 501.875pt>
+<Histogramm DVMAS.jpg, id=710, 853.1875pt x 501.875pt>
 File: Histogramm DVMAS.jpg Graphic file (type jpg)
 <use Histogramm DVMAS.jpg>
 Package pdftex.def Info: Histogramm DVMAS.jpg  used on input line 3.
 (pdftex.def)             Requested size: 364.19667pt x 214.2398pt.
- [33
+ [35
 
  </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm VicBlame.jpg>]) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Histogramm AggroFB.tex
-<Histogramm AggroFB.jpg, id=693, 852.18375pt x 500.87125pt>
+<Histogramm AggroFB.jpg, id=716, 852.18375pt x 500.87125pt>
 File: Histogramm AggroFB.jpg Graphic file (type jpg)
 <use Histogramm AggroFB.jpg>
 Package pdftex.def Info: Histogramm AggroFB.jpg  used on input line 3.
 (pdftex.def)             Requested size: 364.19667pt x 214.0559pt.
-) [34 </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm DVMAS.jpg> </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm AggroFB.jpg>] (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle H1 Spearman.tex
+) [36 </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm DVMAS.jpg> </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Histogramm AggroFB.jpg>] (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle H1 Spearman.tex
 Underfull \hbox (badness 10000) in paragraph at lines 25--22
 \OT1/cmr/m/n/12 (+20) Bla-ming aus. Die-se un-ge-rich-te-te Zu-sam-men-hangs-hy-po-the-se wur-de mit der
  []
 
-) [35] (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle H2 Pearson.tex)
+) [37] (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle H2 Pearson.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 39--40
 \OT1/cmr/m/n/12 (+20) Nor-mal-ver-tei-lung der Re-si-du-en aus-ge-gan-gen wer-den. Die []Uberpr[]ufung der
  []
 
-(/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle Moderation.tex) [36] (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle Haupteffekte.tex) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle Manipulationscheck.tex) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle Kreuztabelle Geschlecht.tex) [37] (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle KT SES.tex) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle KT kult.tex) [38] [39] (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle Explorativ AggroSub.tex)) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/5 Diskussion/Diskussion.tex [40]
+(/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle Moderation.tex) [38] (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle Haupteffekte.tex) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle Manipulationscheck.tex) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle Kreuztabelle Geschlecht.tex) [39] (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle KT SES.tex) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle KT kult.tex) [40] [41] (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/4 Ergebnisse/Tabelle Explorativ AggroSub.tex)) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/5 Diskussion/Diskussion.tex [42]
 Kapitel 5.
-[41
+[43
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 27--28
@@ -1549,34 +1554,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--28
 \OT1/cmr/m/n/12 (+20) zeigt sich, dass aus-schlie^^Y-lich die phy-si-sche Ag-gres-si-on mit der
  []
 
-[42] [43]
+[44] [45]
 Underfull \hbox (badness 10000) in paragraph at lines 50--52
 \OT1/cmr/m/n/12 (+20) kor-re-liert aus-schlie^^Y-lich die phy-si-sche Ag-gres-si-on po-si-tiv mit der
  []
 
-[44]
+[46]
 Underfull \hbox (badness 10000) in paragraph at lines 60--62
 \OT1/cmr/m/n/12 (+20) Fall-vi-gnet-ten for-der-ten die Be-ur-tei-lung ei-nes sen-si-blen The-mas und die
  []
 
-[45]
+[47]
 Underfull \hbox (badness 10000) in paragraph at lines 69--70
 \OT1/cmr/m/n/12 (+20) ge-won-ne-nen Er-kennt-nis-se ge-nannt. Des Wei-te-ren wird auf einen wei-te-ren
  []
 
-[46]) [47]
+[48]) [49]
 Underfull \hbox (badness 10000) in paragraph at lines 86--86
 \OT1/cmr/m/n/12 (+20) (Kap. Ge-walt ge-gen Frau-en: ei-ne theo-re-ti-sche Ver-or-tung, S. 32).
  []
 
-[48
+[50
 
-] [49]
+] [51]
 Underfull \hbox (badness 10000) in paragraph at lines 86--86
 \OT1/cmr/m/n/12 (+20) Kap. Er-schei-nungs-for-men h[]auslicher Ge-walt, S. 115).
  []
 
-[50] [51]
+[52] [53]
 Underfull \hbox (badness 10000) in paragraph at lines 86--86
 \OT1/cmr/m/n/12 (+20) (Kap. Part-ner-ge-walt ge-gen Frau-en, S. 24).
  []
@@ -1586,48 +1591,48 @@ Overfull \hbox (0.20253pt too wide) in paragraph at lines 86--86
 [][]$\OT1/cmr/m/n/12 (+3) https : / / www . violentia -[] muenchen . de / unterscheidung -[] von -[] aggression -[] und -[] gewalt -[] in -[]
  []
 
-(/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Anhang.tex [52]
-<Boxplot AggroFB.jpg, id=883, 852.18375pt x 500.87125pt>
+(/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Anhang.tex [54]
+<Boxplot AggroFB.jpg, id=905, 852.18375pt x 500.87125pt>
 File: Boxplot AggroFB.jpg Graphic file (type jpg)
 <use Boxplot AggroFB.jpg>
 Package pdftex.def Info: Boxplot AggroFB.jpg  used on input line 10.
 (pdftex.def)             Requested size: 455.24411pt x 267.5775pt.
- [53
+ [55
 
  </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Boxplot AggroFB.jpg>]
-<Boxplot DVMAS.jpg, id=889, 851.18pt x 499.8675pt>
+<Boxplot DVMAS.jpg, id=912, 851.18pt x 499.8675pt>
 File: Boxplot DVMAS.jpg Graphic file (type jpg)
 <use Boxplot DVMAS.jpg>
 Package pdftex.def Info: Boxplot DVMAS.jpg  used on input line 27.
 (pdftex.def)             Requested size: 455.24411pt x 267.354pt.
- [54
+ [56
 
  </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Boxplot DVMAS.jpg>]
-<Linearität AggroFB-DVMAS.jpg, id=895, 853.1875pt x 501.875pt>
+<Linearität AggroFB-DVMAS.jpg, id=918, 853.1875pt x 501.875pt>
 File: Linearität AggroFB-DVMAS.jpg Graphic file (type jpg)
 <use Linearität AggroFB-DVMAS.jpg>
 Package pdftex.def Info: Linearität AggroFB-DVMAS.jpg  used on input line 43.
 (pdftex.def)             Requested size: 455.24411pt x 267.79976pt.
- [55
+ [57
 
  </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Linearität AggroFB-DVMAS.jpg>]
-<Linearität H3.jpg, id=902, 853.1875pt x 501.875pt>
+<Linearität H3.jpg, id=924, 853.1875pt x 501.875pt>
 File: Linearität H3.jpg Graphic file (type jpg)
 <use Linearität H3.jpg>
 Package pdftex.def Info: Linearität H3.jpg  used on input line 59.
 (pdftex.def)             Requested size: 455.24411pt x 267.79976pt.
- [56
+ [58
 
  </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Linearität H3.jpg>]
-<Boxplot ph_aggro.jpg, id=908, 853.1875pt x 501.875pt>
+<Boxplot ph_aggro.jpg, id=930, 853.1875pt x 501.875pt>
 File: Boxplot ph_aggro.jpg Graphic file (type jpg)
 <use Boxplot ph_aggro.jpg>
 Package pdftex.def Info: Boxplot ph_aggro.jpg  used on input line 75.
 (pdftex.def)             Requested size: 455.24411pt x 267.79976pt.
- [57
+ [59
 
  </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Boxplot ph_aggro.jpg>]
-<Seite 1.png, id=914, 599.23875pt x 581.17125pt>
+<Seite 1.png, id=936, 599.23875pt x 581.17125pt>
 File: Seite 1.png Graphic file (type png)
 <use Seite 1.png>
 Package pdftex.def Info: Seite 1.png  used on input line 92.
@@ -1637,10 +1642,10 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 92--93
  [][] 
  []
 
-[58
+[60
 
  </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 1.png>]
-<Seite 2.png, id=922, 590.95781pt x 414.04688pt>
+<Seite 2.png, id=944, 590.95781pt x 414.04688pt>
 File: Seite 2.png Graphic file (type png)
 <use Seite 2.png>
 Package pdftex.def Info: Seite 2.png  used on input line 99.
@@ -1650,7 +1655,7 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 99--100
  [][] 
  []
 
-<Seite 3.png, id=923, 591.71063pt x 295.85532pt>
+<Seite 3.png, id=945, 591.71063pt x 295.85532pt>
 File: Seite 3.png Graphic file (type png)
 <use Seite 3.png>
 Package pdftex.def Info: Seite 3.png  used on input line 105.
@@ -1660,8 +1665,8 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 105--106
  [][] 
  []
 
-[59 </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 2.png> </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 3.png>]
-<Seite 4.png, id=932, 594.72188pt x 325.215pt>
+[61 </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 2.png> </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 3.png>]
+<Seite 4.png, id=955, 594.72188pt x 325.215pt>
 File: Seite 4.png Graphic file (type png)
 <use Seite 4.png>
 Package pdftex.def Info: Seite 4.png  used on input line 112.
@@ -1671,7 +1676,7 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 112--113
  [][] 
  []
 
-<Seite 4 mit Infobox.png, id=933, 594.72188pt x 328.22626pt>
+<Seite 4 mit Infobox.png, id=956, 594.72188pt x 328.22626pt>
 File: Seite 4 mit Infobox.png Graphic file (type png)
 <use Seite 4 mit Infobox.png>
 Package pdftex.def Info: Seite 4 mit Infobox.png  used on input line 118.
@@ -1681,8 +1686,8 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 118--119
  [][] 
  []
 
-[60 </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 4.png> </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 4 mit Infobox.png>]
-<Seite 5.png, id=942, 600.74437pt x 338.76563pt>
+[62 </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 4.png> </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 4 mit Infobox.png>]
+<Seite 5.png, id=966, 600.74437pt x 338.76563pt>
 File: Seite 5.png Graphic file (type png)
 <use Seite 5.png>
 Package pdftex.def Info: Seite 5.png  used on input line 125.
@@ -1692,7 +1697,7 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 125--126
  [][] 
  []
 
-<Seite 6.png, id=943, 595.47469pt x 331.2375pt>
+<Seite 6.png, id=967, 595.47469pt x 331.2375pt>
 File: Seite 6.png Graphic file (type png)
 <use Seite 6.png>
 Package pdftex.def Info: Seite 6.png  used on input line 131.
@@ -1702,8 +1707,8 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 131--132
  [][] 
  []
 
-[61 </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 5.png> </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 6.png>]
-<Seite 7.png, id=953, 529.98pt x 700.86844pt>
+[63 </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 5.png> </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 6.png>]
+<Seite 7.png, id=976, 529.98pt x 700.86844pt>
 File: Seite 7.png Graphic file (type png)
 <use Seite 7.png>
 Package pdftex.def Info: Seite 7.png  used on input line 138.
@@ -1713,8 +1718,8 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 138--139
  [][] 
  []
 
-[62 </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 7.png>]
-<Seite 8_1.png, id=961, 353.82187pt x 356.0803pt>
+[64 </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 7.png>]
+<Seite 8_1.png, id=984, 353.82187pt x 356.0803pt>
 File: Seite 8_1.png Graphic file (type png)
 <use Seite 8_1.png>
 Package pdftex.def Info: Seite 8_1.png  used on input line 145.
@@ -1724,8 +1729,8 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 145--146
  [][] 
  []
 
-[63 </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 8_1.png>]
-<Seite 8_2.png, id=969, 347.04657pt x 292.84406pt>
+[65 </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 8_1.png>]
+<Seite 8_2.png, id=992, 347.04657pt x 292.84406pt>
 File: Seite 8_2.png Graphic file (type png)
 <use Seite 8_2.png>
 Package pdftex.def Info: Seite 8_2.png  used on input line 152.
@@ -1735,8 +1740,8 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 152--153
  [][] 
  []
 
-[64 </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 8_2.png>]
-<Seite 9_1.png, id=978, 417.81094pt x 315.42844pt>
+[66 </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 8_2.png>]
+<Seite 9_1.png, id=1000, 417.81094pt x 315.42844pt>
 File: Seite 9_1.png Graphic file (type png)
 <use Seite 9_1.png>
 Package pdftex.def Info: Seite 9_1.png  used on input line 159.
@@ -1746,8 +1751,8 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 159--160
  [][] 
  []
 
-[65 </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 9_1.png>]
-<Seite 9_2.png, id=985, 418.56375pt x 330.48468pt>
+[67 </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 9_1.png>]
+<Seite 9_2.png, id=1008, 418.56375pt x 330.48468pt>
 File: Seite 9_2.png Graphic file (type png)
 <use Seite 9_2.png>
 Package pdftex.def Info: Seite 9_2.png  used on input line 166.
@@ -1757,7 +1762,7 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 166--167
  [][] 
  []
 
-<Seite 10.png, id=986, 590.205pt x 316.18124pt>
+<Seite 10.png, id=1009, 590.205pt x 316.18124pt>
 File: Seite 10.png Graphic file (type png)
 <use Seite 10.png>
 Package pdftex.def Info: Seite 10.png  used on input line 172.
@@ -1767,8 +1772,8 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 172--173
  [][] 
  []
 
-[66 </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 9_2.png> </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 10.png>]
-<Seite 11.png, id=995, 591.71063pt x 414.04688pt>
+[68 </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 9_2.png> </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 10.png>]
+<Seite 11.png, id=1018, 591.71063pt x 414.04688pt>
 File: Seite 11.png Graphic file (type png)
 <use Seite 11.png>
 Package pdftex.def Info: Seite 11.png  used on input line 179.
@@ -1778,7 +1783,7 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 179--180
  [][] 
  []
 
-<Seite 12.png, id=996, 591.71063pt x 232.61906pt>
+<Seite 12.png, id=1019, 591.71063pt x 232.61906pt>
 File: Seite 12.png Graphic file (type png)
 <use Seite 12.png>
 Package pdftex.def Info: Seite 12.png  used on input line 185.
@@ -1788,9 +1793,9 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 185--186
  [][] 
  []
 
-) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Ehrenwörtliche Erklärung.tex [67 </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 11.png> </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 12.png>])
+) (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Ehrenwörtliche Erklärung.tex [69 </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 11.png> </mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/Seite 12.png>])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 90.
- [68]
+ [70]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 90.
  (/mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 90.
@@ -1803,18 +1808,18 @@ Package logreq Info: Writing requests to 'SRH_Vorlage.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 90.
  ) 
 Here is how much of TeX's memory you used:
- 29824 strings out of 481239
- 542279 string characters out of 5920377
- 1282170 words of memory out of 5000000
- 44198 multiletter control sequences out of 15000+600000
- 549634 words of font info for 135 fonts, out of 8000000 for 9000
+ 29835 strings out of 481239
+ 542376 string characters out of 5920377
+ 1282196 words of memory out of 5000000
+ 44202 multiletter control sequences out of 15000+600000
+ 549307 words of font info for 132 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 80i,23n,131p,2386b,5508s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolE.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.pdf (68 pages, 842106 bytes).
+ 80i,23n,131p,2326b,5508s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolE.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb>
+Output written on /mnt/c/Users/tesei/OneDrive/uni/LaTeX/LaTeX_SRH-Vorlage/SRH_Vorlage.pdf (70 pages, 854666 bytes).
 PDF statistics:
- 1094 PDF objects out of 1200 (max. 8388607)
- 966 compressed objects within 10 object streams
- 213 named destinations out of 1000 (max. 500000)
+ 1121 PDF objects out of 1200 (max. 8388607)
+ 991 compressed objects within 10 object streams
+ 226 named destinations out of 1000 (max. 500000)
  14329 words of extra memory for PDF output out of 14400 (max. 10000000)
 

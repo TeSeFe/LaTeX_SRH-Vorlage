@@ -4,49 +4,49 @@
 \contentsline {chapter}{Abbildungsverzeichnis}{5}{section*.2}%
 \contentsline {chapter}{Tabellenverzeichnis}{6}{section*.4}%
 \contentsline {chapter}{\numberline {1}Einleitung}{7}{chapter.1}%
-\contentsline {chapter}{\numberline {2}Theorie}{8}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Konstrukte}{8}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}Aggressivität und Aggression}{8}{subsection.2.1.1}%
-\contentsline {subsubsection}{\numberline {2.1.1.1}Aggressionsarten}{10}{subsubsection.2.1.1.1}%
-\contentsline {subsubsection}{\numberline {2.1.1.2}Aggressionstheorie}{11}{subsubsection.2.1.1.2}%
-\contentsline {subsection}{\numberline {2.1.2}Häusliche Gewalt}{12}{subsection.2.1.2}%
-\contentsline {subsubsection}{\numberline {2.1.2.1}Gewaltarten}{13}{subsubsection.2.1.2.1}%
-\contentsline {subsubsection}{\numberline {2.1.2.2}Ursachen und Aufrechterhaltung von Gewalt}{15}{subsubsection.2.1.2.2}%
-\contentsline {subsubsection}{\numberline {2.1.2.3}Folgen von Gewalt}{17}{subsubsection.2.1.2.3}%
-\contentsline {subsubsection}{\numberline {2.1.2.4}Istambul Konvention}{19}{subsubsection.2.1.2.4}%
-\contentsline {subsection}{\numberline {2.1.3}Gewaltmythen}{19}{subsection.2.1.3}%
-\contentsline {subsubsection}{\numberline {2.1.3.1}Vergewaltigungsmythen}{20}{subsubsection.2.1.3.1}%
-\contentsline {subsubsection}{\numberline {2.1.3.2}Victim Blaming}{20}{subsubsection.2.1.3.2}%
-\contentsline {subsubsection}{\numberline {2.1.3.3}Theorien zur Erklärung von Victim Blaming}{21}{subsubsection.2.1.3.3}%
-\contentsline {section}{\numberline {2.2}Aktueller Forschungsstand}{22}{section.2.2}%
+\contentsline {chapter}{\numberline {2}Theorie}{9}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Konstrukte}{9}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Aggressivität und Aggression}{9}{subsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.1.1}Aggressionsarten}{11}{subsubsection.2.1.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.1.2}Aggressionstheorie}{12}{subsubsection.2.1.1.2}%
+\contentsline {subsection}{\numberline {2.1.2}Häusliche Gewalt}{13}{subsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.2.1}Gewaltarten}{14}{subsubsection.2.1.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.2.2}Ursachen und Aufrechterhaltung von Gewalt}{16}{subsubsection.2.1.2.2}%
+\contentsline {subsubsection}{\numberline {2.1.2.3}Folgen von Gewalt}{18}{subsubsection.2.1.2.3}%
+\contentsline {subsubsection}{\numberline {2.1.2.4}Istambul Konvention}{20}{subsubsection.2.1.2.4}%
+\contentsline {subsection}{\numberline {2.1.3}Gewaltmythen}{20}{subsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.3.1}Vergewaltigungsmythen}{21}{subsubsection.2.1.3.1}%
+\contentsline {subsubsection}{\numberline {2.1.3.2}Victim Blaming}{21}{subsubsection.2.1.3.2}%
+\contentsline {subsubsection}{\numberline {2.1.3.3}Theorien zur Erklärung von Victim Blaming}{22}{subsubsection.2.1.3.3}%
+\contentsline {section}{\numberline {2.2}Aktueller Forschungsstand}{23}{section.2.2}%
 \contentsline {subsection}{\numberline {2.2.1}Hypothese 1}{23}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}Hypothese 2}{24}{subsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.2.3}Hypothese 3}{25}{subsection.2.2.3}%
-\contentsline {chapter}{\numberline {3}Methoden}{27}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Stichprobenbeschreibung}{27}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Untersuchungsdesign}{28}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Operationalisierung der Konstrukte}{28}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Untersuchungsdurchführung}{30}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Auswertungsmethode}{31}{section.3.5}%
-\contentsline {chapter}{\numberline {4}Ergebnisse}{33}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Deskriptive Ergebnisse}{33}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Inferenzstatistische Ergebnisse}{35}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Hypothese 1}{35}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Hypothese 2}{36}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}Hypothese 3}{36}{subsection.4.2.3}%
-\contentsline {section}{\numberline {4.3}Manipulationscheck}{37}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Explorative Ergebnisse}{39}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}Korrelation Aggresion-Subskalen mit DVMAS und Victim Blaming}{39}{subsection.4.4.1}%
-\contentsline {chapter}{\numberline {5}Diskussion}{41}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Zusammenfassung der zentralen Ergebnisse}{41}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Einordnung und Diskussion der Befunde}{43}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Bewertung der Methode}{45}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Ausblick}{46}{section.5.4}%
-\contentsline {chapter}{Literaturverzeichnis}{48}{chapter*.19}%
-\contentsline {chapter}{Anhang A}{53}{appendix*.20}%
-\contentsline {chapter}{Anhang B}{54}{appendix*.22}%
-\contentsline {chapter}{Anhang C}{55}{appendix*.24}%
-\contentsline {chapter}{Anhang D}{56}{appendix*.26}%
-\contentsline {chapter}{Anhang E}{57}{appendix*.28}%
-\contentsline {chapter}{Anhang F}{58}{appendix*.30}%
+\contentsline {subsection}{\numberline {2.2.2}Hypothese 2}{25}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Hypothese 3}{26}{subsection.2.2.3}%
+\contentsline {chapter}{\numberline {3}Methoden}{28}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Stichprobenbeschreibung}{28}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Untersuchungsdesign}{29}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Operationalisierung der Konstrukte}{29}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Untersuchungsdurchführung}{31}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Auswertungsmethode}{32}{section.3.5}%
+\contentsline {chapter}{\numberline {4}Ergebnisse}{35}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Deskriptive Ergebnisse}{35}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Inferenzstatistische Ergebnisse}{37}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Hypothese 1}{37}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Hypothese 2}{38}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Hypothese 3}{38}{subsection.4.2.3}%
+\contentsline {section}{\numberline {4.3}Manipulationscheck}{39}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Explorative Ergebnisse}{41}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Korrelation Aggresion-Subskalen mit DVMAS und Victim Blaming}{41}{subsection.4.4.1}%
+\contentsline {chapter}{\numberline {5}Diskussion}{43}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Zusammenfassung der zentralen Ergebnisse}{43}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Einordnung und Diskussion der Befunde}{45}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Bewertung der Methode}{47}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Ausblick}{48}{section.5.4}%
+\contentsline {chapter}{Literaturverzeichnis}{50}{chapter*.19}%
+\contentsline {chapter}{Anhang A}{55}{appendix*.20}%
+\contentsline {chapter}{Anhang B}{56}{appendix*.22}%
+\contentsline {chapter}{Anhang C}{57}{appendix*.24}%
+\contentsline {chapter}{Anhang D}{58}{appendix*.26}%
+\contentsline {chapter}{Anhang E}{59}{appendix*.28}%
+\contentsline {chapter}{Anhang F}{60}{appendix*.30}%
 \contentsfinish 
