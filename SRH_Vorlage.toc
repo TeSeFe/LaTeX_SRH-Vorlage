@@ -30,23 +30,22 @@
 \contentsline {section}{\numberline {3.5}Auswertungsmethode}{32}{section.3.5}%
 \contentsline {chapter}{\numberline {4}Ergebnisse}{35}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Deskriptive Ergebnisse}{35}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Inferenzstatistische Ergebnisse}{37}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Hypothese 1}{37}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Hypothese 2}{38}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}Hypothese 3}{38}{subsection.4.2.3}%
-\contentsline {section}{\numberline {4.3}Manipulationscheck}{39}{section.4.3}%
+\contentsline {section}{\numberline {4.2}Manipulationscheck}{37}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Inferenzstatistische Ergebnisse}{39}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Hypothese 1}{39}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Hypothese 2}{40}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Hypothese 3}{40}{subsection.4.3.3}%
 \contentsline {section}{\numberline {4.4}Explorative Ergebnisse}{41}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}Korrelation Aggresion-Subskalen mit DVMAS und Victim Blaming}{41}{subsection.4.4.1}%
-\contentsline {chapter}{\numberline {5}Diskussion}{43}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Zusammenfassung der zentralen Ergebnisse}{43}{section.5.1}%
+\contentsline {chapter}{\numberline {5}Diskussion}{44}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Zusammenfassung der zentralen Ergebnisse}{44}{section.5.1}%
 \contentsline {section}{\numberline {5.2}Einordnung und Diskussion der Befunde}{45}{section.5.2}%
 \contentsline {section}{\numberline {5.3}Bewertung der Methode}{47}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Ausblick}{48}{section.5.4}%
-\contentsline {chapter}{Literaturverzeichnis}{50}{chapter*.19}%
-\contentsline {chapter}{Anhang A}{55}{appendix*.20}%
-\contentsline {chapter}{Anhang B}{56}{appendix*.22}%
-\contentsline {chapter}{Anhang C}{57}{appendix*.24}%
-\contentsline {chapter}{Anhang D}{58}{appendix*.26}%
-\contentsline {chapter}{Anhang E}{59}{appendix*.28}%
-\contentsline {chapter}{Anhang F}{60}{appendix*.30}%
+\contentsline {section}{\numberline {5.4}Ausblick}{49}{section.5.4}%
+\contentsline {chapter}{Literaturverzeichnis}{51}{chapter*.19}%
+\contentsline {chapter}{Anhang A}{56}{appendix*.20}%
+\contentsline {chapter}{Anhang B}{57}{appendix*.22}%
+\contentsline {chapter}{Anhang C}{58}{appendix*.24}%
+\contentsline {chapter}{Anhang D}{59}{appendix*.26}%
+\contentsline {chapter}{Anhang E}{60}{appendix*.28}%
+\contentsline {chapter}{Anhang F}{61}{appendix*.30}%
 \contentsfinish 
