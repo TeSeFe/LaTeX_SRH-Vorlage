@@ -1,49 +1,51 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% bei allen booklet-Quellen wirds nicht kursiv gemacht
+Quellen ausm Internet: als booklet, howpublished = {Verfügbar unter: \url {link}}
+Thesen: als booklet, note = {(Unveröffentlichte M/BThese)},
+Kapitel aus Buch: als incollection, chapter=title & title=booktitle, geht nicht mit doi
 
 % Einleitung: Zitat
 @booklet{Friedrich_Hacker,
   author      = {zitate.eu},
   year        = {2022},
   title       = {Zitate von Prof.Dr. Friedrich Hacker},
-  url         = {https://www.zitate.eu/autor/prof-dr-friedrich-hacker-zitate/171727},
+  howpublished = {Verfügbar unter: \url{https://www.zitate.eu/autor/prof-dr-friedrich-hacker-zitate/171727}}
 }
 
 % einleitung: häusliche Gewalt
-@MISC{häusliche_Gewalt,
+@booklet{häusliche_Gewalt,
   author      = {{Bundesministerium für Familien, Senioren, Frauen und Jugend}},
   shortauthor = {BMFSFJ},
   title       = {Formen der Gewalt erkennen},
   year        = {2021},
-  url         = {https://www.bmfsfj.de/bmfsfj/themen/gleichstellung/frauen-vor-gewalt-schuetzen/haeusliche-gewalt},
+  howpublished = {Verfügbar unter: \url{https://www.bmfsfj.de/bmfsfj/themen/gleichstellung/frauen-vor-gewalt-schuetzen/haeusliche-gewalt}}
 }
 
 % Theorie Aggresivität  Seite 9: https://archive.org/details/frustrationaggre00doll/page/8/mode/2up?q=aggression
-@inbook{Def_Aggression_1939,
+
+@incollection{Def_Aggression_1939,
   author         = {Dollard, J. and Doob, L. W. and Miller, N. E. and Mowrer, O. H. and Sears, R. R.},
-  chapter        = {Definitions},
-  pages          = {1-27},
   publisher      = {New Haven: Yale University-Press},
-  title          = {Frustration and Aggression},
-  year           = {1939}
+  booktitle          = {Frustration and Aggression},
+  title 	      = {Definitions},
+  year           = {1939},
+  pages           = {S. 1-27},
 }
 
-@inbook{Def_unterscheidung_Springer,
+@incollection{Def_unterscheidung_Springer,
   author         = {Kornadt, H. J.},
-  chapter        = {Was ist Aggression? Was ist Aggressivität? Und wie entstehen sie?},
-  editor         = {Springer Fachmedien Wiesbaden GmbH},
-  pages          = {31--38},
-  publisher      = {VS Verlag für Sozialwissenschaften},
-  title          = {Aggression},
+  title        = {Was ist Aggression? Was ist Aggressivität? Und wie entstehen sie?},
+  pages          = {31-38},
+  publisher      = {{VS Verlag für Sozialwissenschaften}},
+  booktitle          = {Aggression},
   year           = {2011},
-  doi            = {https://doi.org/10.1007/978-3-531-93006-0_2}
 }
+  doi            = {https://doi.org/10.1007/978-3-531-93006-0_2}
 
 @booklet{Def_Aggression_Duden,
   author        = {Duden},
   title         = {Aggression},
   year          = {2022},
-  url           = {https://www.duden.de/rechtschreibung/Aggression}
+  howpublished = {Verfügbar unter: \url{https://www.duden.de/rechtschreibung/Aggression}} 
 }
 
 @booklet{was_Aggression,
@@ -51,8 +53,8 @@
   shortauthor     = {VBG},
   title           = {Was ist Aggression?},
   year            = {2022},
-  url             = {https://www.vbg.de/wbt/gewaltpraevention/daten/html/402.htm}
-}
+  howpublished = {Verfügbar unter: \url {https://www.vbg.de/wbt/gewaltpraevention/daten/html/402.htm}}
+  }
 
 @article{positive_aggression,
   author          = {Ellis, A.},
@@ -70,7 +72,7 @@
   title           = {Concept Analysis: Aggression},
   volume          = {25},
   year            = {2004},
-  pages           = {693--714},
+  pages           = {693-714},
   doi             = {https://doi.org/10.1080/01612840490486755},
 }
 
@@ -78,28 +80,28 @@
   author        = {Duden},
   title         = {Aggressivität},
   year          = {2022},
-  url           = {https://www.duden.de/rechtschreibung/Aggressivitaet}
+  howpublished = {Verfügbar unter: \url{https://www.duden.de/rechtschreibung/Aggressivitaet}}
 }
 
 @booklet{Def_Aggressivität_Spektrum,
   author        = {Spektrum},
   title         = {Lexikon der Psychologie: Aggressivität},
   year          = {2022},
-  url           = {https://www.spektrum.de/lexikon/psychologie/aggressivitaet/346}
+  howpublished = {Verfügbar unter: \url{https://www.spektrum.de/lexikon/psychologie/aggressivitaet/346}}
 }
 
 @booklet{Def_Aggressivität_eng1,
   author        = {Alexa Clark},
   title         = {Aggressiveness},
   year          = {2021},
-  url           = {https://psychoques.com/aggressiveness/}
+  howpublished = {Verfügbar unter: \url{https://psychoques.com/aggressiveness/}}
 }
 
 @booklet{Def_Aggressivität_vs_violence,
   author        = {Alexa Clark},
   title         = {Differences between aggressiveness and violence},
   year          = {2021},
-  url           = {https://psychoques.com/differences-between-aggressiveness-and-violence/}
+  howpublished = {Verfügbar unter: \url{https://psychoques.com/differences-between-aggressiveness-and-violence/}}
 }
 
 @techreport{Gewaltarten_WHO,
@@ -109,12 +111,12 @@
   year        = {2002}
 }
 
-@inbook{H3_MFUnterschied,
+@incollection{H3_MFUnterschied,
   author         = {Frost, W. D. and Averill, J. R.},
-  chapter        = {Differences Betweem Men and Women in the Everyay Experience of Anger},
+  title        = {Differences Betweem Men and Women in the Everyay Experience of Anger},
   pages          = {281-317},
-  publisher      = {Springer Verlag New York Inc.},
-  title          = {Anger and Aggression: An Essay on Emotion},
+  publisher      = {New York: Springer Verlag},
+  booktitle          = {Anger and Aggression: An Essay on Emotion},
   year           = {1982}
 }
 
@@ -124,8 +126,8 @@
   booktitle      = {Behind the Mask},
   year           = {1999},
   publisher      = {Boston: Harvard University Press},
-  doi            = {https://doi.org/10.4159/9780674038998},
 }
+  doi            = {https://doi.org/10.4159/9780674038998},
 
 @article{Aggressionsfragebogen,
   author        = {Werner, R. and von Collani, G.},
@@ -133,28 +135,29 @@
   journal       = {Zusammenstellung sozialwissenschaftlicher Items und Skalen (ZIS)},
   publisher     = {ZIS - GESIS Leibniz Institute for the Social Sciences},
   year          = {2004},
-  doi           = {10.6102/zis52},
+  doi           = {https://doi.org/10.6102/zis52},
 }
 
 @booklet{Gewalt_Duden,
   author        = {Duden},
   title         = {Gewalt},
   year          = {2022},
-  url           = {https://www.duden.de/rechtschreibung/Gewalt}
+  howpublished = {Verfügbar unter: \url{https://www.duden.de/rechtschreibung/Gewalt}}
 }
 
 @booklet{impulsive_aggro_psych_Störung,
   author        = {Amann, B. H.},
   title         = {A Clinician's Guide to Impulsive Aggression},
   year          = {2022},
-  url           = {https://www.additudemag.com/impulsive-aggression-clinicians-guide/},
+  howpublished = {Verfügbar unter: \url {https://www.additudemag.com/impulsive-aggression-clinicians-guide/}}
 }
 
-@misc{impulsive_aggro,
+@booklet{impulsive_aggro,
   author        = {AlleyDog.com},
   title         = {Impulsive Aggression},
   year          = {2022},
-  url           = {https://www.alleydog.com/glossary/definition.php?term=Impulsive+Aggression},
+  howpublished = {Verfügbar unter: \url {https://www.alleydog.com/glossary/definition.php?term=Impulsive+Aggression}}
+  
 }
 
 @booklet{impulsive_instrumental_aggro_healtline,
@@ -162,35 +165,35 @@
   editor        = {Dr. Juby, B.},
   title         = {Aggressive Behaviou: Unterstanding Aggression and How to Treat It},
   year          = {2022},
-  url           = {https://www.healthline.com/health/aggressive-behavior},
+  howpublished = {Verfügbar unter: \url{https://www.healthline.com/health/aggressive-behavior}}
 }
 
 @booklet{instrumental_aggro,
   author         = {Nickerson, C.},
   title          = {Instrumental Aggression: Definition und Examples},
   year           = {2022},
-  url            = {https://www.simplypsychology.org/instrumental-aggression.html},
+  howpublished = {Verfügbar unter: \url{https://www.simplypsychology.org/instrumental-aggression.html}},
 }
 
 @booklet{instrumental_dictionary,
   author         = {Kent, M.},
   title          = {The Oxford Dictionary of Sports Science und Medicine},
   year           = {2007},
-  url            = {https://www.oxfordreference.com/view/10.1093/acref/9780198568506.001.0001/acref-9780198568506-e-3546)},
+  howpublished = {Verfügbar unter: \url{https://www.oxfordreference.com/view/10.1093/acref/9780198568506.001.0001/acref-9780198568506-e-3546}}
 }
 
 @booklet{physische_verbale_aggro,
   author        = {University of Minnesota},
   title         = {10.1 Defining Aggression},
   year          = {2022},
-  url           = {https://open.lib.umn.edu/socialpsychology/chapter/10-1-defining-aggression/},
+  howpublished = {Verfügbar unter: \url{https://open.lib.umn.edu/socialpsychology/chapter/10-1-defining-aggression/}}
 }
 
 @booklet{physische_verbale_aggro_2,
   author        = {vioenTia},
   title         = {Definitionen: Aggression und Gewalt in der Psychologie},
   year          = {2022},
-  url           = {https://www.violentia-muenchen.de/unterscheidung-von-aggression-und-gewalt-in-der-psychologie/},
+  howpublished = {Verfügbar unter: \url{https://www.violentia-muenchen.de/unterscheidung-von-aggression-und-gewalt-in-der-psychologie/}}
 }
 
 @article{ausmaß_verbale_aggro,
@@ -202,23 +205,23 @@
   year            = {1998},
 }
 
-@inbook{Aggro_Theorie,
+@incollection{Aggro_Theorie,
   author         = {Bandura, A.},
-  chapter        = {Psychological mechanisms of aggression.},
+  title        = {Psychological mechanisms of aggression.},
   editor         = {Geen, R. G. and Donnerstein, E. I.},
-  pages          = {1--40},
+  pages          = {1-40},
   publisher      = {New York: Academic Press},
-  title          = {Aggression: Theoretical and empirical reviews},
+  booktitle          = {Aggression: Theoretical and empirical reviews},
   year           = {1983}
 }
 
-@inbook{Aggro_Theorie_Buch,
+@incollection{Aggro_Theorie_Buch,
   author         = {Krahé, B.},
-  chapter        = {Aggression},
+  title          = {Aggression},
   editor         = {Jonas, K. and Stroebe, W. and Hewstone, M.},
-  pages          = {315--356},
+  pages          = {315-356},
   publisher      = {Berlin Heidelberg: Springer-Verlag},
-  title          = {Sozialpsychologie},
+  booktitle      = {Sozialpsychologie},
   year           = {2014},
   edition        = {6},
 }
@@ -234,21 +237,22 @@
   doi            = {https://doi.org/10.1007/978-3-531-18756-3},
 }
 
-@inbook{Def_haus_Gewalt,
+@incollection{Def_haus_Gewalt,
   author         = {Gerlach, K.},
-  chapter        = {Häusliche Gewalt: Definition},
+  title          = {Häusliche Gewalt: Definition},
   editor         = {Grassberger, M. and Türk, E. and Yen, K.},
   pages          = {228-242},
   publisher      = {Berlin Heidelberg: Springer-Verlag},
-  title          = {Klinisch-forensische Medizin},
+  booktitle      = {Klinisch-forensische Medizin},
   year           = {2013}
 }
 
-@mastersthesis{Def_haus_Gewalt_2,
-  author  = {Kolier, S.},
-  school  = {Karl-Franzens-Universität Graz Institut für Erziehungs- und Bildungswissenschaften},
-  title   = {Frauen als Opfer häuslicher Gewalt: Eine empirische Darstellung mit Bezug auf erneute Gewalt in Partnerschaften und künftige Liebesbeziehungen},
-  year    = {2019}
+@booklet{Def_haus_Gewalt_2,
+  author       = {Kolier, S.},
+  title        = {Frauen als Opfer häuslicher Gewalt: Eine empirische Darstellung mit Bezug auf erneute Gewalt in Partnerschaften und künftige Liebesbeziehungen},
+  publisher    = {Karl-Franzens-Universität Graz},
+  year         = {2019},
+  note    = {(Unveröffentlichte Masterarbeit)},
 }
 
 @booklet{Def_Form_Folge_Gewalt,
@@ -258,61 +262,60 @@
   year         = {2020},
 }
 
-@inbook{ph_G_wie_aggro,
+@incollection{ph_G_wie_aggro,
   author         = {Szomoru, S.},
   pages          = {29},
   publisher      = {Münschen: Starks-Sture-Verlag},
-  title          = {Wer einmal schlägt wird's wieder tun: Gewalt und Co-Abhängigkeit in Beziehungen},
+  booktitle          = {Wer einmal schlägt wird's wieder tun: Gewalt und Co-Abhängigkeit in Beziehungen},
   year           = {2006}
 }
 
-% keine masterarbeit sondern bachelor --> ändern
-@mastersthesis{Gewaltart,
+@booklet{Gewaltart,
   author        = {Blumenthal, S. and Simonett, L.},
-  school        = {Berner Fachhochschule Soziale Arbeit},
+  publisher     = {Berner Fachhochschule},
   title         = {Häusliche Gewalt gegen Frauen Analyse der aktuellen Unterstützungsangebote mit Handlungsempfehlungen für den Kanton Graubünden},
   year          = {2019},
+  note           = {(Unveröffentlichte Bachelorarbeit)}
 }
 
-@inbook{psych_Gewalt,
+@incollection{psych_Gewalt,
   author         = {Lamnek, S. and Luedtke, J. and Ottermann, R. and Vogl, S.},
-  chapter        = {Erscheinungsformen häuslicher Gewalt},
+  title        = {Erscheinungsformen häuslicher Gewalt},
   pages          = {115},
   publisher      = {VS Verlag für Wozialwissenschaften},
-  title          = {Tatort Familie},
-  subtitle       = {Häusliche Gewalt im gesellschaftlichen Kontext},
+  booktitle          = {Tatort Familie},
+  booksubtitle       = {Häusliche Gewalt im gesellschaftlichen Kontext},
   edition        = {3., erweiterte und überarbeitete Aufl.},
-  year           = {2012},
-  doi            = {https://doi.org/10.1007/978-3-531-93127-2},
+  year           = {2012}
 }
+  doi            = {https://doi.org/10.1007/978-3-531-93127-2},
 
-@inbook{psych_Gewalt_2,
+@incollection{psych_Gewalt_2,
   author         = {Hirigoyen, M. F.},
-  translator     = {Gabler, I. M.},
-  chapter        = {Seelische Gewalt},
+  title          = {Seelische Gewalt},
   pages          = {37},
   publisher      = {Münschen: C.H.Beck},
-  title          = {Warum tust du mir das an?},
-  subtitle       = {Gewalt in Partnerschaften},
+  booktitle          = {Warum tust du mir das an?},
+  booksubtitle       = {Gewalt in Partnerschaften},
   year           = {2006}
 }
 
-@inbook{Übergang_psy_zu_sex_Gewalt,
+@incollection{Übergang_psy_zu_sex_Gewalt,
   author         = {Ueckeroth, L.},
-  chapter        = {Partnergewalt gegen Frauen},
+  title          = {Partnergewalt gegen Frauen},
   pages          = {24},
   publisher      = {Herbolzheim: Centaurus Verlag und Media},
-  title          = {Partnergewalt gegen Frauen und deren Gewaltbewältigung},
+  booktitle      = {Partnergewalt gegen Frauen und deren Gewaltbewältigung},
   year           = {2014},
-  doi            = {https://doi.org/10.1007/978-3-86226-848-1},
 }
+  doi            = {https://doi.org/10.1007/978-3-86226-848-1},
 
 @booklet{Rad_der_Gewalt,
   author        = {{Zentrale Informationsstelle Autonomer Frauenhäuser}},
   shortauthor   = {ZIA},
   title         = {Gewalt gegen Frauen},
   year          = {2022},
-  url           = {https://autonome-frauenhaeuser-zif.de/themen/#istanbul},
+  howpublished = {Verfügbar unter: \url{https://autonome-frauenhaeuser-zif.de/themen/#istanbul}}
 }
 
 @techreport{Ursache_hG_2,
@@ -350,7 +353,7 @@
   volume          = {22},
   year            = {2013},
   pages           = {329-347},
-  doi             = {10.1080/10926771.2013.775985},
+  doi             = {https://doi.org/10.1080/10926771.2013.775985},
 }
 
 @article{GM_Theorien,
@@ -361,7 +364,7 @@
   volume          = {17},
   pages           = {1-11},
   year            = {2020},
-  doi             = {10.3390/ijerph17218139},
+  doi             = {https://doi.org/10.3390/ijerph17218139},
 }
 
 @article{DVMAS,
@@ -371,7 +374,7 @@
   volume          = {34},
   year            = {2019},
   pages           = {239},
-  doi             = {10.1177/0886109918806273},
+  doi             = {https://doi.org/10.1177/0886109918806273},
 }
 
 @article{DVMAS_Peters,
@@ -382,14 +385,7 @@
   volume          = {16},
   year            = {2008},
   pages           = {1-21},
-  doi             = {10.1080/10926770801917780},
-}
-
-@unpublished{DVMAS_deutsch,
-  author = {Teutsch, A. C.},
-  note   = {Masterthesis},
-  title  = {Deutsche Version der Domestic Violence Myth Acceptance Scale},
-  year   = {2022}
+  doi             = {https://doi.org/10.1080/10926770801917780},
 }
 
 @article{victim_blaming,
@@ -412,11 +408,12 @@
   doi             = {https://doi.org/10.5093/pi2018a18},
 }
 
-@phdthesis{Peters2003,
+@booklet{Peters2003,
   author      = {Peters, J.},
-  school      = {The University of Maine},
+  publisher      = {University of Maine},
   title       = {The domestic violence myth acceptance scale: Development and psychometric testing of a new instrument},
-  year        = {2003}
+  year        = {2003},
+  note        = {(Unveröffentlichte Dissertation)}
 }
 
 @article{H2_u_3_Bhogal_2016,
@@ -425,7 +422,7 @@
   title           = {The Influence of Aggressiveness on Rape-Myth Acceptance among University Students},
   volume          = {23},
   year            = {2016},
-  doi             = {doi: 10.1080/13218719.2016.1142931},
+  doi             = {https://doi.org/10.1080/13218719.2016.1142931},
   pages           = {709-715},
 }
 
@@ -443,21 +440,22 @@
   volume          = {13},
   year            = {1993},
   pages           = {377-392},
-  doi             = {10.1080/02732173.1993.9982040},
+  doi             = {https://doi.org/10.1080/02732173.1993.9982040},
 }
 
-@misc{H1_Poli_2022,
+@booklet{H1_Poli_2022,
   title        = {Häusliche Gewalt},
   year         = {2022},
-  url          = {https://www.polizei-beratung.de/opferinformationen/haeusliche-gewalt/},
+  howpublished = {Verfügbar unter: \url{https://www.polizei-beratung.de/opferinformationen/haeusliche-gewalt/}},
   AUTHOR       = {{Polizeitliche Kriminalprävention der Länder und des Bundes}},
 }
 
-@mastersthesis{H1_malasia_2012,
+@booklet{H1_malasia_2012,
   author  = {Kassim, A. B. A.},
-  school  = {International Islamic University},
+  publisher  = {International Islamic University},
   title   = {The relationship between exposure to domestic violence, victim blaming and aggressive behaviour among malysian adolescents},
-  year    = {2012}
+  year    = {2012},
+  note         = {Unveröffentlichte Masterarbeit},
 }
 
 @article{Cohen_1992,
@@ -467,7 +465,7 @@
   volume          = {112},
   year            = {1992},
   pages           = {155-159},
-  doi             = {doi: 10.1037/0033-2909.112.1.155},
+  doi             = {https://doi.org/10.1037/0033-2909.112.1.155},
 }
 
 @article{H1_moderation_2020,
@@ -477,13 +475,13 @@
   year            = {2020},
 }
 
-@inbook{H1_Entwicklung,
+@incollection{H1_Entwicklung,
   author         = {Silbereisen, R. K. and Weichold, K.},
-  chapter        = {Jugend (12-19 Jahre)},
-  editor         = {Schneider, W. and Lindenberger, U. (Hrsg.},
+  title          = {Jugend (12-19 Jahre)},
+  editor         = {Schneider, W. and Lindenberger, U.},
   pages          = {235-258},
   publisher      = {Weinheim: Beltz},
-  title          = {Entwicklungspsychologie},
+  booktitle          = {Entwicklungspsychologie},
   year           = {2012}
 }
 
@@ -497,11 +495,11 @@
   year            = {2020}
 }
 
-@misc{Voraussetzung_Moderation,
+@booklet{Voraussetzung_Moderation,
     title    = {StatistikGuru},
     subtitle = {Homoskedastizität},
     year     = {2016},
-    url      = {https://statistikguru.de/lexikon/homoskedastizitaet.html},
+  howpublished = {Verfügbar unter: \url{https://statistikguru.de/lexikon/homoskedastizitaet.html}},
     author   = {Hemmerich, Wanja A.}
 }
 
@@ -514,26 +512,28 @@
   year           = {2018}
 }
 
-@phdthesis{Vergewaltigung_Boris_2004,
-  author      = {Brosi, N.},
-  school      = {Ludwig-Maximilians-Universität München},
-  title       = {Untersuchung zur Akzeptanz von Vergewaltigungsmythen in verschiedenen Bevölkerungsgruppen},
-  year        = {2004}
+@booklet{Vergewaltigung_Boris_2004,
+  author = {Brosi, N.},
+  note   = {(Unveröffentlichte Dissertation)},
+  title  = {Untersuchung zur Akzeptanz von Vergewaltigungsmythen in verschiedenen Bevölkerungsgruppen},
+  year   = {2004},
+  publisher = {Ludwig-Maximilian-Universität München}
 }
 
-@phdthesis{Vergewaltigung_Bohner_1996,
-  author      = {Bohner, G.},
-  school      = {Universität Mannheim},
-  title       = {Vergewaltigungsmythen: Sozialpsychologische Untersuchungen über täterentlastende und opferfeindliche Überzeugungen im Bereich sexueller Gewalt},
-  year        = {1996}
+@booklet{Vergewaltigung_Bohner_1996,
+  author = {Bohner, G.},
+  note   = {(Unveröffentlichte Dissertation)},
+  title  = {Vergewaltigungsmythen: Sozialpsychologische Untersuchungen über täterentlastende und opferfeindliche Überzeugungen im Bereich sexueller Gewalt},
+  year   = {1996},
+  publisher = {Universität Mannheim}
 }
 
-@inbook{Vergewaltigung_Typen_Burt_1991,
+@incollection{Vergewaltigung_Typen_Burt_1991,
   author         = {Burt, M. R.},
-  chapter        = {Rape myths and acquaintance rape},
-  editor         = {Parrot, A.and Bechhofer, L.},
+  title          = {Rape myths and acquaintance rape},
+  editor         = {Parrot, A. and Bechhofer, L.},
   pages          = {26-40},
   publisher      = {New York: John Wiley and Sons},
-  title          = {Acquaintance Rape: The Hidden Crime},
+  booktitle          = {Acquaintance Rape: The Hidden Crime},
   year           = {1991}
 }

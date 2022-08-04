@@ -19,7 +19,7 @@
 
 \refsection{0}
   \datalist[entry]{apa/global//global/global}
-    \entry{impulsive_aggro}{misc}{}
+    \entry{impulsive_aggro}{booklet}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=aabdc509ce739d0d4af4d90b5455e6cb}{%
            family={AlleyDog.com},
@@ -38,14 +38,9 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{Verfügbar unter: \url {https://www.alleydog.com/glossary/definition.php?term=Impulsive+Aggression}}
       \field{title}{Impulsive Aggression}
       \field{year}{2022}
-      \verb{urlraw}
-      \verb https://www.alleydog.com/glossary/definition.php?term=Impulsive+Aggression
-      \endverb
-      \verb{url}
-      \verb https://www.alleydog.com/glossary/definition.php?term=Impulsive+Aggression
-      \endverb
     \endentry
     \entry{impulsive_aggro_psych_Störung}{booklet}{}
       \name{author}{1}{}{%
@@ -69,16 +64,11 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{Verfügbar unter: \url {https://www.additudemag.com/impulsive-aggression-clinicians-guide/}}
       \field{title}{A Clinician's Guide to Impulsive Aggression}
       \field{year}{2022}
-      \verb{urlraw}
-      \verb https://www.additudemag.com/impulsive-aggression-clinicians-guide/
-      \endverb
-      \verb{url}
-      \verb https://www.additudemag.com/impulsive-aggression-clinicians-guide/
-      \endverb
     \endentry
-    \entry{Aggro_Theorie}{inbook}{}
+    \entry{Aggro_Theorie}{incollection}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=51aaa9f3f4f078711dd189cfc7b8dff3}{%
            family={Bandura},
@@ -118,8 +108,8 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{chapter}{Psychological mechanisms of aggression.}
-      \field{title}{Aggression: Theoretical and empirical reviews}
+      \field{booktitle}{Aggression: Theoretical and empirical reviews}
+      \field{title}{Psychological mechanisms of aggression.}
       \field{year}{1983}
       \field{pages}{1\bibrangedash 40}
       \range{pages}{40}
@@ -159,10 +149,10 @@
       \field{pages}{709\bibrangedash 715}
       \range{pages}{7}
       \verb{doi}
-      \verb doi: 10.1080/13218719.2016.1142931
+      \verb https://doi.org/10.1080/13218719.2016.1142931
       \endverb
     \endentry
-    \entry{Gewaltart}{thesis}{}
+    \entry{Gewaltart}{booklet}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=606250bb5e8eb33a6cd3f7b4663e4013}{%
            family={Blumenthal},
@@ -177,8 +167,8 @@
            giveni={L\bibinitperiod},
            givenun=0}}%
       }
-      \list{institution}{1}{%
-        {Berner Fachhochschule Soziale Arbeit}%
+      \list{publisher}{1}{%
+        {Berner Fachhochschule}%
       }
       \strng{namehash}{252d0cc11866bb24a0b04644100959e0}
       \strng{fullhash}{252d0cc11866bb24a0b04644100959e0}
@@ -193,11 +183,11 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{note}{(Unveröffentlichte Bachelorarbeit)}
       \field{title}{Häusliche Gewalt gegen Frauen Analyse der aktuellen Unterstützungsangebote mit Handlungsempfehlungen für den Kanton Graubünden}
-      \field{type}{mathesis}
       \field{year}{2019}
     \endentry
-    \entry{Vergewaltigung_Bohner_1996}{thesis}{}
+    \entry{Vergewaltigung_Bohner_1996}{booklet}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=877b62d99fbfd37cb049a9931023ca7d}{%
            family={Bohner},
@@ -206,7 +196,7 @@
            giveni={G\bibinitperiod},
            givenun=0}}%
       }
-      \list{institution}{1}{%
+      \list{publisher}{1}{%
         {Universität Mannheim}%
       }
       \strng{namehash}{877b62d99fbfd37cb049a9931023ca7d}
@@ -222,11 +212,11 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{note}{(Unveröffentlichte Dissertation)}
       \field{title}{Vergewaltigungsmythen: Sozialpsychologische Untersuchungen über täterentlastende und opferfeindliche Überzeugungen im Bereich sexueller Gewalt}
-      \field{type}{phdthesis}
       \field{year}{1996}
     \endentry
-    \entry{Vergewaltigung_Boris_2004}{thesis}{}
+    \entry{Vergewaltigung_Boris_2004}{booklet}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ec384cec3a3ace2a5b746cd461899fda}{%
            family={Brosi},
@@ -235,8 +225,8 @@
            giveni={N\bibinitperiod},
            givenun=0}}%
       }
-      \list{institution}{1}{%
-        {Ludwig-Maximilians-Universität München}%
+      \list{publisher}{1}{%
+        {Ludwig-Maximilian-Universität München}%
       }
       \strng{namehash}{ec384cec3a3ace2a5b746cd461899fda}
       \strng{fullhash}{ec384cec3a3ace2a5b746cd461899fda}
@@ -251,8 +241,8 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{note}{(Unveröffentlichte Dissertation)}
       \field{title}{Untersuchung zur Akzeptanz von Vergewaltigungsmythen in verschiedenen Bevölkerungsgruppen}
-      \field{type}{phdthesis}
       \field{year}{2004}
     \endentry
     \entry{physische_Gewalt_wie_aggro}{incollection}{}
@@ -290,7 +280,7 @@
       \verb https://doi.org/10.1007/978-3-531-18756-3
       \endverb
     \endentry
-    \entry{häusliche_Gewalt}{misc}{}
+    \entry{häusliche_Gewalt}{booklet}{}
       \name{author}{1}{}{%
         {{hash=73f138de8d4c5f055f47b8ba40d2afd8}{%
            family={{Bundesministerium für Familien, Senioren, Frauen und Jugend}},
@@ -317,16 +307,11 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
+      \field{howpublished}{Verfügbar unter: \url{https://www.bmfsfj.de/bmfsfj/themen/gleichstellung/frauen-vor-gewalt-schuetzen/haeusliche-gewalt}}
       \field{title}{Formen der Gewalt erkennen}
       \field{year}{2021}
-      \verb{urlraw}
-      \verb https://www.bmfsfj.de/bmfsfj/themen/gleichstellung/frauen-vor-gewalt-schuetzen/haeusliche-gewalt
-      \endverb
-      \verb{url}
-      \verb https://www.bmfsfj.de/bmfsfj/themen/gleichstellung/frauen-vor-gewalt-schuetzen/haeusliche-gewalt
-      \endverb
     \endentry
-    \entry{Vergewaltigung_Typen_Burt_1991}{inbook}{}
+    \entry{Vergewaltigung_Typen_Burt_1991}{incollection}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=04a2acee87f6d6d607c720597434db7f}{%
            family={Burt},
@@ -335,14 +320,17 @@
            giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
            givenun=0}}%
       }
-      \name{editor}{1}{}{%
-        {{hash=7e7b84a2b9233c3bed5358dbd2ec8aa0}{%
+      \name{editor}{2}{}{%
+        {{hash=e5b8f030aa11360180f61f526aa34275}{%
            family={Parrot},
            familyi={P\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=bc8d193e44b9cbd465a8097c5a1a8e10}{%
+           family={Bechhofer},
+           familyi={B\bibinitperiod},
            given={L.},
-           giveni={L\bibinitperiod},
-           suffix={A.and\bibnamedelima Bechhofer},
-           suffixi={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+           giveni={L\bibinitperiod}}}%
       }
       \list{publisher}{2}{%
         {New York: John Wiley}%
@@ -354,9 +342,9 @@
       \strng{authorbibnamehash}{04a2acee87f6d6d607c720597434db7f}
       \strng{authornamehash}{04a2acee87f6d6d607c720597434db7f}
       \strng{authorfullhash}{04a2acee87f6d6d607c720597434db7f}
-      \strng{editorbibnamehash}{7e7b84a2b9233c3bed5358dbd2ec8aa0}
-      \strng{editornamehash}{7e7b84a2b9233c3bed5358dbd2ec8aa0}
-      \strng{editorfullhash}{7e7b84a2b9233c3bed5358dbd2ec8aa0}
+      \strng{editorbibnamehash}{22e1bc1335e0fb68f2df1ec583b00c71}
+      \strng{editornamehash}{22e1bc1335e0fb68f2df1ec583b00c71}
+      \strng{editorfullhash}{22e1bc1335e0fb68f2df1ec583b00c71}
       \field{sortinit}{B}
       \field{sortinithash}{8de16967003c7207dae369d874f1456e}
       \field{extradatescope}{labelyear}
@@ -364,8 +352,8 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{chapter}{Rape myths and acquaintance rape}
-      \field{title}{Acquaintance Rape: The Hidden Crime}
+      \field{booktitle}{Acquaintance Rape: The Hidden Crime}
+      \field{title}{Rape myths and acquaintance rape}
       \field{year}{1991}
       \field{pages}{26\bibrangedash 40}
       \range{pages}{15}
@@ -393,14 +381,9 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{Verfügbar unter: \url{https://psychoques.com/aggressiveness/}}
       \field{title}{Aggressiveness}
       \field{year}{2021}
-      \verb{urlraw}
-      \verb https://psychoques.com/aggressiveness/
-      \endverb
-      \verb{url}
-      \verb https://psychoques.com/aggressiveness/
-      \endverb
     \endentry
     \entry{Def_Aggressivität_vs_violence}{booklet}{}
       \name{author}{1}{}{%
@@ -425,14 +408,9 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{Verfügbar unter: \url{https://psychoques.com/differences-between-aggressiveness-and-violence/}}
       \field{title}{Differences between aggressiveness and violence}
       \field{year}{2021}
-      \verb{urlraw}
-      \verb https://psychoques.com/differences-between-aggressiveness-and-violence/
-      \endverb
-      \verb{url}
-      \verb https://psychoques.com/differences-between-aggressiveness-and-violence/
-      \endverb
     \endentry
     \entry{Cohen_1992}{article}{}
       \name{author}{1}{}{%
@@ -463,7 +441,7 @@
       \field{pages}{155\bibrangedash 159}
       \range{pages}{5}
       \verb{doi}
-      \verb doi: 10.1037/0033-2909.112.1.155
+      \verb https://doi.org/10.1037/0033-2909.112.1.155
       \endverb
     \endentry
     \entry{Istambul_Konvention}{report}{}
@@ -521,7 +499,7 @@
       \field{pages}{123\bibrangedash 130}
       \range{pages}{8}
     \endentry
-    \entry{Def_Aggression_1939}{inbook}{}
+    \entry{Def_Aggression_1939}{incollection}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=b3c7544229e9e37f3618c97fd8067428}{%
            family={Dollard},
@@ -570,11 +548,11 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{chapter}{Definitions}
-      \field{title}{Frustration and Aggression}
+      \field{booktitle}{Frustration and Aggression}
+      \field{title}{Definitions}
       \field{year}{1939}
-      \field{pages}{1\bibrangedash 27}
-      \range{pages}{27}
+      \field{pages}{S. 1\bibrangedash 27}
+      \range{pages}{-1}
     \endentry
     \entry{Def_Aggression_Duden}{booklet}{}
       \name{author}{1}{}{%
@@ -596,14 +574,9 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{Verfügbar unter: \url{https://www.duden.de/rechtschreibung/Aggression}}
       \field{title}{Aggression}
       \field{year}{2022}
-      \verb{urlraw}
-      \verb https://www.duden.de/rechtschreibung/Aggression
-      \endverb
-      \verb{url}
-      \verb https://www.duden.de/rechtschreibung/Aggression
-      \endverb
     \endentry
     \entry{Def_Aggressivität_Duden}{booklet}{}
       \name{author}{1}{}{%
@@ -625,14 +598,9 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{Verfügbar unter: \url{https://www.duden.de/rechtschreibung/Aggressivitaet}}
       \field{title}{Aggressivität}
       \field{year}{2022}
-      \verb{urlraw}
-      \verb https://www.duden.de/rechtschreibung/Aggressivitaet
-      \endverb
-      \verb{url}
-      \verb https://www.duden.de/rechtschreibung/Aggressivitaet
-      \endverb
     \endentry
     \entry{Gewalt_Duden}{booklet}{}
       \name{author}{1}{}{%
@@ -654,14 +622,9 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{Verfügbar unter: \url{https://www.duden.de/rechtschreibung/Gewalt}}
       \field{title}{Gewalt}
       \field{year}{2022}
-      \verb{urlraw}
-      \verb https://www.duden.de/rechtschreibung/Gewalt
-      \endverb
-      \verb{url}
-      \verb https://www.duden.de/rechtschreibung/Gewalt
-      \endverb
     \endentry
     \entry{Ursache_hG_2}{report}{}
       \name{author}{2}{}{%
@@ -837,7 +800,7 @@
       \field{pages}{1\bibrangedash 13}
       \range{pages}{13}
     \endentry
-    \entry{H3_MFUnterschied}{inbook}{}
+    \entry{H3_MFUnterschied}{incollection}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=8c75cb4419f404fd75c9478925b3ec7c}{%
            family={Frost},
@@ -853,7 +816,7 @@
            givenun=0}}%
       }
       \list{publisher}{1}{%
-        {Springer Verlag New York Inc.}%
+        {New York: Springer Verlag}%
       }
       \strng{namehash}{750eeccac67074ad04af5a0f14a2fddf}
       \strng{fullhash}{750eeccac67074ad04af5a0f14a2fddf}
@@ -868,8 +831,8 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{chapter}{Differences Betweem Men and Women in the Everyay Experience of Anger}
-      \field{title}{Anger and Aggression: An Essay on Emotion}
+      \field{booktitle}{Anger and Aggression: An Essay on Emotion}
+      \field{title}{Differences Betweem Men and Women in the Everyay Experience of Anger}
       \field{year}{1982}
       \field{pages}{281\bibrangedash 317}
       \range{pages}{37}
@@ -912,16 +875,11 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{Verfügbar unter: \url{https://www.healthline.com/health/aggressive-behavior}}
       \field{title}{Aggressive Behaviou: Unterstanding Aggression and How to Treat It}
       \field{year}{2022}
-      \verb{urlraw}
-      \verb https://www.healthline.com/health/aggressive-behavior
-      \endverb
-      \verb{url}
-      \verb https://www.healthline.com/health/aggressive-behavior
-      \endverb
     \endentry
-    \entry{Def_haus_Gewalt}{inbook}{}
+    \entry{Def_haus_Gewalt}{incollection}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=9eca0d4c13e91e3cd77adc8d1bfeabf4}{%
            family={Gerlach},
@@ -966,8 +924,8 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{chapter}{Häusliche Gewalt: Definition}
-      \field{title}{Klinisch-forensische Medizin}
+      \field{booktitle}{Klinisch-forensische Medizin}
+      \field{title}{Häusliche Gewalt: Definition}
       \field{year}{2013}
       \field{pages}{228\bibrangedash 242}
       \range{pages}{15}
@@ -1048,7 +1006,7 @@
       \field{pages}{377\bibrangedash 392}
       \range{pages}{16}
       \verb{doi}
-      \verb 10.1080/02732173.1993.9982040
+      \verb https://doi.org/10.1080/02732173.1993.9982040
       \endverb
     \endentry
     \entry{Moderation_SPSS}{book}{}
@@ -1082,7 +1040,7 @@
       \field{pages}{237}
       \range{pages}{1}
     \endentry
-    \entry{Voraussetzung_Moderation}{misc}{}
+    \entry{Voraussetzung_Moderation}{booklet}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ae1fb407700f5cbe7ba01acbc80d8711}{%
            family={Hemmerich},
@@ -1104,17 +1062,12 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{Verfügbar unter: \url{https://statistikguru.de/lexikon/homoskedastizitaet.html}}
       \field{subtitle}{Homoskedastizität}
       \field{title}{StatistikGuru}
       \field{year}{2016}
-      \verb{urlraw}
-      \verb https://statistikguru.de/lexikon/homoskedastizitaet.html
-      \endverb
-      \verb{url}
-      \verb https://statistikguru.de/lexikon/homoskedastizitaet.html
-      \endverb
     \endentry
-    \entry{psych_Gewalt_2}{inbook}{}
+    \entry{psych_Gewalt_2}{incollection}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=db1a4bc318307fd7c09ce90fff401a4d}{%
            family={Hirigoyen},
@@ -1122,13 +1075,6 @@
            given={M.\bibnamedelimi F.},
            giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod},
            givenun=0}}%
-      }
-      \name{translator}{1}{}{%
-        {{hash=55dd95a59c18bd990bc247b5e055cdf0}{%
-           family={Gabler},
-           familyi={G\bibinitperiod},
-           given={I.\bibnamedelimi M.},
-           giveni={I\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Münschen: C.H.Beck}%
@@ -1139,9 +1085,6 @@
       \strng{authorbibnamehash}{db1a4bc318307fd7c09ce90fff401a4d}
       \strng{authornamehash}{db1a4bc318307fd7c09ce90fff401a4d}
       \strng{authorfullhash}{db1a4bc318307fd7c09ce90fff401a4d}
-      \strng{translatorbibnamehash}{55dd95a59c18bd990bc247b5e055cdf0}
-      \strng{translatornamehash}{55dd95a59c18bd990bc247b5e055cdf0}
-      \strng{translatorfullhash}{55dd95a59c18bd990bc247b5e055cdf0}
       \field{sortinit}{H}
       \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
       \field{extradatescope}{labelyear}
@@ -1149,9 +1092,9 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{chapter}{Seelische Gewalt}
-      \field{subtitle}{Gewalt in Partnerschaften}
-      \field{title}{Warum tust du mir das an?}
+      \field{booksubtitle}{Gewalt in Partnerschaften}
+      \field{booktitle}{Warum tust du mir das an?}
+      \field{title}{Seelische Gewalt}
       \field{year}{2006}
       \field{pages}{37}
       \range{pages}{1}
@@ -1184,11 +1127,8 @@
       \field{booktitle}{Behind the Mask}
       \field{title}{Behind the Mask}
       \field{year}{1999}
-      \verb{doi}
-      \verb https://doi.org/10.4159/9780674038998
-      \endverb
     \endentry
-    \entry{H1_malasia_2012}{thesis}{}
+    \entry{H1_malasia_2012}{booklet}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c7185558ba8462ca884aed4af7a1ac8f}{%
            family={Kassim},
@@ -1197,7 +1137,7 @@
            giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim A\bibinitperiod},
            givenun=0}}%
       }
-      \list{institution}{1}{%
+      \list{publisher}{1}{%
         {International Islamic University}%
       }
       \strng{namehash}{c7185558ba8462ca884aed4af7a1ac8f}
@@ -1213,8 +1153,8 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{note}{Unveröffentlichte Masterarbeit}
       \field{title}{The relationship between exposure to domestic violence, victim blaming and aggressive behaviour among malysian adolescents}
-      \field{type}{mathesis}
       \field{year}{2012}
     \endentry
     \entry{instrumental_dictionary}{booklet}{}
@@ -1239,16 +1179,11 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{Verfügbar unter: \url{https://www.oxfordreference.com/view/10.1093/acref/9780198568506.001.0001/acref-9780198568506-e-3546}}
       \field{title}{The Oxford Dictionary of Sports Science und Medicine}
       \field{year}{2007}
-      \verb{urlraw}
-      \verb https://www.oxfordreference.com/view/10.1093/acref/9780198568506.001.0001/acref-9780198568506-e-3546)
-      \endverb
-      \verb{url}
-      \verb https://www.oxfordreference.com/view/10.1093/acref/9780198568506.001.0001/acref-9780198568506-e-3546)
-      \endverb
     \endentry
-    \entry{Def_haus_Gewalt_2}{thesis}{}
+    \entry{Def_haus_Gewalt_2}{booklet}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=e8f1c42161f62fecda456afcb1b8cdc3}{%
            family={Kolier},
@@ -1257,8 +1192,8 @@
            giveni={S\bibinitperiod},
            givenun=0}}%
       }
-      \list{institution}{1}{%
-        {Karl-Franzens-Universität Graz Institut für Erziehungs- und Bildungswissenschaften}%
+      \list{publisher}{1}{%
+        {Karl-Franzens-Universität Graz}%
       }
       \strng{namehash}{e8f1c42161f62fecda456afcb1b8cdc3}
       \strng{fullhash}{e8f1c42161f62fecda456afcb1b8cdc3}
@@ -1273,11 +1208,11 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{note}{(Unveröffentlichte Masterarbeit)}
       \field{title}{Frauen als Opfer häuslicher Gewalt: Eine empirische Darstellung mit Bezug auf erneute Gewalt in Partnerschaften und künftige Liebesbeziehungen}
-      \field{type}{mathesis}
       \field{year}{2019}
     \endentry
-    \entry{Def_unterscheidung_Springer}{inbook}{}
+    \entry{Def_unterscheidung_Springer}{incollection}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=4b1e832eb95a36a274fb8093f8fb5ce2}{%
            family={Kornadt},
@@ -1285,13 +1220,6 @@
            given={H.\bibnamedelimi J.},
            giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
            givenun=0}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=3acc4118247cc4cb4f22e385cce32a3b}{%
-           family={GmbH},
-           familyi={G\bibinitperiod},
-           given={Springer\bibnamedelimb Fachmedien\bibnamedelima Wiesbaden},
-           giveni={S\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {VS Verlag für Sozialwissenschaften}%
@@ -1302,9 +1230,6 @@
       \strng{authorbibnamehash}{4b1e832eb95a36a274fb8093f8fb5ce2}
       \strng{authornamehash}{4b1e832eb95a36a274fb8093f8fb5ce2}
       \strng{authorfullhash}{4b1e832eb95a36a274fb8093f8fb5ce2}
-      \strng{editorbibnamehash}{3acc4118247cc4cb4f22e385cce32a3b}
-      \strng{editornamehash}{3acc4118247cc4cb4f22e385cce32a3b}
-      \strng{editorfullhash}{3acc4118247cc4cb4f22e385cce32a3b}
       \field{sortinit}{K}
       \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
       \field{extradatescope}{labelyear}
@@ -1312,16 +1237,13 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{chapter}{Was ist Aggression? Was ist Aggressivität? Und wie entstehen sie?}
-      \field{title}{Aggression}
+      \field{booktitle}{Aggression}
+      \field{title}{Was ist Aggression? Was ist Aggressivität? Und wie entstehen sie?}
       \field{year}{2011}
       \field{pages}{31\bibrangedash 38}
       \range{pages}{8}
-      \verb{doi}
-      \verb https://doi.org/10.1007/978-3-531-93006-0_2
-      \endverb
     \endentry
-    \entry{Aggro_Theorie_Buch}{inbook}{}
+    \entry{Aggro_Theorie_Buch}{incollection}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=cb17bc6d2b76a20da13d191efec5b148}{%
            family={Krahé},
@@ -1366,9 +1288,9 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{chapter}{Aggression}
+      \field{booktitle}{Sozialpsychologie}
       \field{edition}{6}
-      \field{title}{Sozialpsychologie}
+      \field{title}{Aggression}
       \field{year}{2014}
       \field{pages}{315\bibrangedash 356}
       \range{pages}{42}
@@ -1426,7 +1348,7 @@
       \field{type}{techreport}
       \field{year}{2002}
     \endentry
-    \entry{psych_Gewalt}{inbook}{}
+    \entry{psych_Gewalt}{incollection}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=34763190a2e93bb47256b62b03dd0a66}{%
            family={Lamnek},
@@ -1469,16 +1391,13 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{chapter}{Erscheinungsformen häuslicher Gewalt}
+      \field{booksubtitle}{Häusliche Gewalt im gesellschaftlichen Kontext}
+      \field{booktitle}{Tatort Familie}
       \field{edition}{3., erweiterte und überarbeitete Aufl.}
-      \field{subtitle}{Häusliche Gewalt im gesellschaftlichen Kontext}
-      \field{title}{Tatort Familie}
+      \field{title}{Erscheinungsformen häuslicher Gewalt}
       \field{year}{2012}
       \field{pages}{115}
       \range{pages}{1}
-      \verb{doi}
-      \verb https://doi.org/10.1007/978-3-531-93127-2
-      \endverb
     \endentry
     \entry{DVMAS}{article}{}
       \name{author}{4}{}{%
@@ -1527,7 +1446,7 @@
       \field{pages}{239}
       \range{pages}{1}
       \verb{doi}
-      \verb 10.1177/0886109918806273
+      \verb https://doi.org/10.1177/0886109918806273
       \endverb
     \endentry
     \entry{Aggression}{article}{}
@@ -1661,14 +1580,9 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{Verfügbar unter: \url{https://www.simplypsychology.org/instrumental-aggression.html}}
       \field{title}{Instrumental Aggression: Definition und Examples}
       \field{year}{2022}
-      \verb{urlraw}
-      \verb https://www.simplypsychology.org/instrumental-aggression.html
-      \endverb
-      \verb{url}
-      \verb https://www.simplypsychology.org/instrumental-aggression.html
-      \endverb
     \endentry
     \entry{physische_verbale_aggro}{booklet}{}
       \name{author}{1}{}{%
@@ -1694,16 +1608,11 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{Verfügbar unter: \url{https://open.lib.umn.edu/socialpsychology/chapter/10-1-defining-aggression/}}
       \field{title}{10.1 Defining Aggression}
       \field{year}{2022}
-      \verb{urlraw}
-      \verb https://open.lib.umn.edu/socialpsychology/chapter/10-1-defining-aggression/
-      \endverb
-      \verb{url}
-      \verb https://open.lib.umn.edu/socialpsychology/chapter/10-1-defining-aggression/
-      \endverb
     \endentry
-    \entry{Peters2003}{thesis}{}
+    \entry{Peters2003}{booklet}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=7d6fd635c07c909c9be27ad633ff1260}{%
            family={Peters},
@@ -1712,8 +1621,8 @@
            giveni={J\bibinitperiod},
            givenun=0}}%
       }
-      \list{institution}{1}{%
-        {The University of Maine}%
+      \list{publisher}{1}{%
+        {University of Maine}%
       }
       \strng{namehash}{7d6fd635c07c909c9be27ad633ff1260}
       \strng{fullhash}{7d6fd635c07c909c9be27ad633ff1260}
@@ -1728,8 +1637,8 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{note}{(Unveröffentlichte Dissertation)}
       \field{title}{The domestic violence myth acceptance scale: Development and psychometric testing of a new instrument}
-      \field{type}{phdthesis}
       \field{year}{2003}
     \endentry
     \entry{DVMAS_Peters}{article}{}
@@ -1762,7 +1671,7 @@
       \field{pages}{1\bibrangedash 21}
       \range{pages}{21}
       \verb{doi}
-      \verb 10.1080/10926770801917780
+      \verb https://doi.org/10.1080/10926770801917780
       \endverb
     \endentry
     \entry{Labelingtheory_plus}{article}{}
@@ -1800,10 +1709,10 @@
       \field{pages}{329\bibrangedash 347}
       \range{pages}{19}
       \verb{doi}
-      \verb 10.1080/10926771.2013.775985
+      \verb https://doi.org/10.1080/10926771.2013.775985
       \endverb
     \endentry
-    \entry{H1_Poli_2022}{misc}{}
+    \entry{H1_Poli_2022}{booklet}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=46799a8429ea88556d45151775743f0c}{%
            family={{Polizeitliche Kriminalprävention der Länder und des Bundes}},
@@ -1822,14 +1731,9 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{Verfügbar unter: \url{https://www.polizei-beratung.de/opferinformationen/haeusliche-gewalt/}}
       \field{title}{Häusliche Gewalt}
       \field{year}{2022}
-      \verb{urlraw}
-      \verb https://www.polizei-beratung.de/opferinformationen/haeusliche-gewalt/
-      \endverb
-      \verb{url}
-      \verb https://www.polizei-beratung.de/opferinformationen/haeusliche-gewalt/
-      \endverb
     \endentry
     \entry{H1_moderation_2020}{article}{}
       \name{author}{4}{}{%
@@ -1911,10 +1815,10 @@
       \field{pages}{1\bibrangedash 11}
       \range{pages}{11}
       \verb{doi}
-      \verb 10.3390/ijerph17218139
+      \verb https://doi.org/10.3390/ijerph17218139
       \endverb
     \endentry
-    \entry{H1_Entwicklung}{inbook}{}
+    \entry{H1_Entwicklung}{incollection}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=227a0cf3c3dd6a8373fa6ddfc455b8ea}{%
            family={Silbereisen},
@@ -1935,11 +1839,11 @@
            familyi={S\bibinitperiod},
            given={W.},
            giveni={W\bibinitperiod}}}%
-        {{hash=6c9296ac7e5ea602b75fd91db0b4f5a5}{%
+        {{hash=ffb1c55e868e7fb0e02e6b3c99f8441a}{%
            family={Lindenberger},
            familyi={L\bibinitperiod},
-           given={U.\bibnamedelimi (Hrsg.},
-           giveni={U\bibinitperiod\bibinitdelim (\bibinitperiod}}}%
+           given={U.},
+           giveni={U\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Weinheim: Beltz}%
@@ -1950,9 +1854,9 @@
       \strng{authorbibnamehash}{47f3e2eab36b6da196e478413b1fe078}
       \strng{authornamehash}{47f3e2eab36b6da196e478413b1fe078}
       \strng{authorfullhash}{47f3e2eab36b6da196e478413b1fe078}
-      \strng{editorbibnamehash}{4b7a7a5707cf6310eb91922164361e14}
-      \strng{editornamehash}{4b7a7a5707cf6310eb91922164361e14}
-      \strng{editorfullhash}{4b7a7a5707cf6310eb91922164361e14}
+      \strng{editorbibnamehash}{2753339561ac6486af2efc66e32fb58e}
+      \strng{editornamehash}{2753339561ac6486af2efc66e32fb58e}
+      \strng{editorfullhash}{2753339561ac6486af2efc66e32fb58e}
       \field{sortinit}{S}
       \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
       \field{extradatescope}{labelyear}
@@ -1960,8 +1864,8 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{chapter}{Jugend (12-19 Jahre)}
-      \field{title}{Entwicklungspsychologie}
+      \field{booktitle}{Entwicklungspsychologie}
+      \field{title}{Jugend (12-19 Jahre)}
       \field{year}{2012}
       \field{pages}{235\bibrangedash 258}
       \range{pages}{24}
@@ -1985,16 +1889,11 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{Verfügbar unter: \url{https://www.spektrum.de/lexikon/psychologie/aggressivitaet/346}}
       \field{title}{Lexikon der Psychologie: Aggressivität}
       \field{year}{2022}
-      \verb{urlraw}
-      \verb https://www.spektrum.de/lexikon/psychologie/aggressivitaet/346
-      \endverb
-      \verb{url}
-      \verb https://www.spektrum.de/lexikon/psychologie/aggressivitaet/346
-      \endverb
     \endentry
-    \entry{ph_G_wie_aggro}{inbook}{}
+    \entry{ph_G_wie_aggro}{incollection}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=653cd44d7712b014eaa91e5505bdba0c}{%
            family={Szomoru},
@@ -2018,13 +1917,12 @@
       \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Wer einmal schlägt wird's wieder tun: Gewalt und Co-Abhängigkeit in Beziehungen}
+      \field{booktitle}{Wer einmal schlägt wird's wieder tun: Gewalt und Co-Abhängigkeit in Beziehungen}
       \field{year}{2006}
       \field{pages}{29}
       \range{pages}{1}
     \endentry
-    \entry{Übergang_psy_zu_sex_Gewalt}{inbook}{}
+    \entry{Übergang_psy_zu_sex_Gewalt}{incollection}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=e48c20cc91ec67bce889ecd3a55ea158}{%
            family={Ueckeroth},
@@ -2049,14 +1947,11 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{chapter}{Partnergewalt gegen Frauen}
-      \field{title}{Partnergewalt gegen Frauen und deren Gewaltbewältigung}
+      \field{booktitle}{Partnergewalt gegen Frauen und deren Gewaltbewältigung}
+      \field{title}{Partnergewalt gegen Frauen}
       \field{year}{2014}
       \field{pages}{24}
       \range{pages}{1}
-      \verb{doi}
-      \verb https://doi.org/10.1007/978-3-86226-848-1
-      \endverb
     \endentry
     \entry{was_Aggression}{booklet}{}
       \name{author}{1}{}{%
@@ -2085,14 +1980,9 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{shortauthor}
       \field{labeltitlesource}{title}
+      \field{howpublished}{Verfügbar unter: \url {https://www.vbg.de/wbt/gewaltpraevention/daten/html/402.htm}}
       \field{title}{Was ist Aggression?}
       \field{year}{2022}
-      \verb{urlraw}
-      \verb https://www.vbg.de/wbt/gewaltpraevention/daten/html/402.htm
-      \endverb
-      \verb{url}
-      \verb https://www.vbg.de/wbt/gewaltpraevention/daten/html/402.htm
-      \endverb
     \endentry
     \entry{physische_verbale_aggro_2}{booklet}{}
       \name{author}{1}{}{%
@@ -2113,14 +2003,9 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{Verfügbar unter: \url{https://www.violentia-muenchen.de/unterscheidung-von-aggression-und-gewalt-in-der-psychologie/}}
       \field{title}{Definitionen: Aggression und Gewalt in der Psychologie}
       \field{year}{2022}
-      \verb{urlraw}
-      \verb https://www.violentia-muenchen.de/unterscheidung-von-aggression-und-gewalt-in-der-psychologie/
-      \endverb
-      \verb{url}
-      \verb https://www.violentia-muenchen.de/unterscheidung-von-aggression-und-gewalt-in-der-psychologie/
-      \endverb
     \endentry
     \entry{Aggressionsfragebogen}{article}{}
       \name{author}{2}{}{%
@@ -2159,7 +2044,7 @@
       \field{title}{Deutscher Aggressionsfragebogen}
       \field{year}{2004}
       \verb{doi}
-      \verb 10.6102/zis52
+      \verb https://doi.org/10.6102/zis52
       \endverb
     \endentry
     \entry{Friedrich_Hacker}{booklet}{}
@@ -2181,14 +2066,9 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{howpublished}{Verfügbar unter: \url{https://www.zitate.eu/autor/prof-dr-friedrich-hacker-zitate/171727}}
       \field{title}{Zitate von Prof.Dr. Friedrich Hacker}
       \field{year}{2022}
-      \verb{urlraw}
-      \verb https://www.zitate.eu/autor/prof-dr-friedrich-hacker-zitate/171727
-      \endverb
-      \verb{url}
-      \verb https://www.zitate.eu/autor/prof-dr-friedrich-hacker-zitate/171727
-      \endverb
     \endentry
   \enddatalist
 \endrefsection

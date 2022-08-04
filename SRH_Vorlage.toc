@@ -19,7 +19,7 @@
 \contentsline {subsubsection}{\numberline {2.1.3.2}Victim Blaming}{21}{subsubsection.2.1.3.2}%
 \contentsline {subsubsection}{\numberline {2.1.3.3}Theorien zur Erklärung von Victim Blaming}{22}{subsubsection.2.1.3.3}%
 \contentsline {section}{\numberline {2.2}Aktueller Forschungsstand}{23}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Hypothese 1}{23}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.1}Hypothese 1}{24}{subsection.2.2.1}%
 \contentsline {subsection}{\numberline {2.2.2}Hypothese 2}{25}{subsection.2.2.2}%
 \contentsline {subsection}{\numberline {2.2.3}Hypothese 3}{26}{subsection.2.2.3}%
 \contentsline {chapter}{\numberline {3}Methoden}{28}{chapter.3}%
