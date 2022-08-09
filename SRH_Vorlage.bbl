@@ -1153,7 +1153,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Unveröffentlichte Masterarbeit}
+      \field{note}{(Unveröffentlichte Masterarbeit)}
       \field{title}{The relationship between exposure to domestic violence, victim blaming and aggressive behaviour among malysian adolescents}
       \field{year}{2012}
     \endentry
@@ -1637,7 +1637,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{(Unveröffentlichte Dissertation)}
+      \field{note}{(Dissertation)}
       \field{title}{The domestic violence myth acceptance scale: Development and psychometric testing of a new instrument}
       \field{year}{2003}
     \endentry

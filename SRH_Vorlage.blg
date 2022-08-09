@@ -1,23 +1,23 @@
 [0] Config.pm:304> INFO - This is Biber 2.14 (beta)
 [1] Config.pm:307> INFO - Logfile is 'SRH_Vorlage.blg'
-[100] biber:322> INFO - === Thu Aug  4, 2022, 15:16:39
-[133] Biber.pm:415> INFO - Reading 'SRH_Vorlage.bcf'
-[271] Biber.pm:943> INFO - Found 60 citekeys in bib section 0
-[290] Biber.pm:4256> INFO - Processing section 0
-[291] Utils.pm:75> INFO - Globbing data source 'Quellen.bib'
-[294] Utils.pm:91> INFO - Globbed data source 'Quellen.bib' to Quellen.bib
-[305] Biber.pm:4455> INFO - Looking for bibtex format file 'Quellen.bib' for section 0
-[320] bibtex.pm:1653> INFO - LaTeX decoding ...
-[397] bibtex.pm:1471> INFO - Found BibTeX data source 'Quellen.bib'
-[1016] Utils.pm:293> WARN - BibTeX subsystem: /tmp/biber_tmp_gZDc/Quellen.bib_26070.utf8, line 7, warning: 202 characters of junk seen at toplevel
-[1084] Utils.pm:293> WARN - BibTeX subsystem: /tmp/biber_tmp_gZDc/Quellen.bib_26070.utf8, line 44, warning: 49 characters of junk seen at toplevel
-[1156] Utils.pm:293> WARN - BibTeX subsystem: /tmp/biber_tmp_gZDc/Quellen.bib_26070.utf8, line 132, warning: 44 characters of junk seen at toplevel
-[1213] Utils.pm:293> WARN - BibTeX subsystem: /tmp/biber_tmp_gZDc/Quellen.bib_26070.utf8, line 293, warning: 48 characters of junk seen at toplevel
-[1351] Utils.pm:293> WARN - BibTeX subsystem: /tmp/biber_tmp_gZDc/Quellen.bib_26070.utf8, line 313, warning: 48 characters of junk seen at toplevel
-[2201] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[2202] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[2203] Biber.pm:4084> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'de-DE'
-[2203] Biber.pm:4090> INFO - No sort tailoring available for locale 'de-DE'
-[2287] bbl.pm:652> INFO - Writing 'SRH_Vorlage.bbl' with encoding 'UTF-8'
-[2374] bbl.pm:755> INFO - Output to SRH_Vorlage.bbl
-[2378] Biber.pm:128> INFO - WARNINGS: 5
+[186] biber:322> INFO - === Tue Aug  9, 2022, 17:19:19
+[242] Biber.pm:415> INFO - Reading 'SRH_Vorlage.bcf'
+[571] Biber.pm:943> INFO - Found 60 citekeys in bib section 0
+[592] Biber.pm:4256> INFO - Processing section 0
+[593] Utils.pm:75> INFO - Globbing data source 'Quellen.bib'
+[595] Utils.pm:91> INFO - Globbed data source 'Quellen.bib' to Quellen.bib
+[612] Biber.pm:4455> INFO - Looking for bibtex format file 'Quellen.bib' for section 0
+[629] bibtex.pm:1653> INFO - LaTeX decoding ...
+[728] bibtex.pm:1471> INFO - Found BibTeX data source 'Quellen.bib'
+[1361] Utils.pm:293> WARN - BibTeX subsystem: /tmp/biber_tmp_oclI/Quellen.bib_242.utf8, line 7, warning: 202 characters of junk seen at toplevel
+[1361] Utils.pm:293> WARN - BibTeX subsystem: /tmp/biber_tmp_oclI/Quellen.bib_242.utf8, line 44, warning: 49 characters of junk seen at toplevel
+[1362] Utils.pm:293> WARN - BibTeX subsystem: /tmp/biber_tmp_oclI/Quellen.bib_242.utf8, line 132, warning: 44 characters of junk seen at toplevel
+[1362] Utils.pm:293> WARN - BibTeX subsystem: /tmp/biber_tmp_oclI/Quellen.bib_242.utf8, line 293, warning: 48 characters of junk seen at toplevel
+[1363] Utils.pm:293> WARN - BibTeX subsystem: /tmp/biber_tmp_oclI/Quellen.bib_242.utf8, line 313, warning: 48 characters of junk seen at toplevel
+[1499] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1500] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1501] Biber.pm:4084> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'de-DE'
+[1501] Biber.pm:4090> INFO - No sort tailoring available for locale 'de-DE'
+[1600] bbl.pm:652> INFO - Writing 'SRH_Vorlage.bbl' with encoding 'UTF-8'
+[1689] bbl.pm:755> INFO - Output to SRH_Vorlage.bbl
+[1691] Biber.pm:128> INFO - WARNINGS: 5
