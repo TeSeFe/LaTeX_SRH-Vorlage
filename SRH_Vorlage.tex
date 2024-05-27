@@ -6,7 +6,7 @@
 
 
 
-
+% der Kolumnentitel ist in der .sty Datei hinterlegt.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%% VORSPANN %%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -56,6 +56,9 @@
 \renewcommand{\cftfigfont}{\itshape}
 \renewcommand{\cftfigaftersnumb}{\normalfont}
 
+% test wegen Quellen - empfohlen von Chat-GPT.
+%\addbibresource{Quellen.bib}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%% END VORSPANN %%%%%%%%%%%%%%%%%%%%%%%%%
 
 
@@ -64,28 +67,28 @@
 
 \begin{document}
 \input{Titelblatt.tex}
-\input{Abstract.tex}
+%\input{Abstract.tex}
 \tableofcontents
 \clearpage
 \phantomsection \addtocontents{toc}{\vspace*{-1cm}}
-\phantomsection \addcontentsline{toc}{chapter}{Abbildungsverzeichnis}
+%\phantomsection \addcontentsline{toc}{chapter}{Abbildungsverzeichnis}
 \listoffigures
 \phantomsection \addtocontents{lof}{\vspace*{-1cm}}
 \clearpage
-\phantomsection \addcontentsline{toc}{chapter}{Tabellenverzeichnis}
+%\phantomsection \addcontentsline{toc}{chapter}{Tabellenverzeichnis}
 \phantomsection \addtocontents{lot}{\vspace*{-1cm}}
 \listoftables
 
 
-\input{1 Einleitung.tex}
+%\input{1 Einleitung.tex}
 \input{2 Theorie/Theorie.tex}
 \input{3 Methode/Methoden.tex}
-\input{4 Ergebnisse/Ergebnisse.tex}
-\input{5 Diskussion/Diskussion.tex}
+%\input{4 Ergebnisse/Ergebnisse.tex}
+%\input{5 Diskussion/Diskussion.tex}
 
 
 \printbibliography[heading=bibintoc,title={Literaturverzeichnis}]
-\input{Anhang.tex}
+%\input{Anhang.tex}
 \clearpage
-\input{Ehrenwörtliche Erklärung.tex}
+%\input{Ehrenwörtliche Erklärung.tex}
 \end{document}

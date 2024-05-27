@@ -1,51 +1,19 @@
-\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
-\babel@toc {ngerman}{}
+\babel@toc {ngerman}{}\relax 
 \vspace *{-1cm}
-\contentsline {chapter}{Abbildungsverzeichnis}{5}{section*.2}%
-\contentsline {chapter}{Tabellenverzeichnis}{6}{section*.4}%
-\contentsline {chapter}{\numberline {1}Einleitung}{7}{chapter.1}%
-\contentsline {chapter}{\numberline {2}Theorie}{9}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Konstrukte}{9}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}Aggressivität und Aggression}{9}{subsection.2.1.1}%
-\contentsline {subsubsection}{\numberline {2.1.1.1}Aggressionsarten}{11}{subsubsection.2.1.1.1}%
-\contentsline {subsubsection}{\numberline {2.1.1.2}Aggressionstheorie}{12}{subsubsection.2.1.1.2}%
-\contentsline {subsection}{\numberline {2.1.2}Häusliche Gewalt}{13}{subsection.2.1.2}%
-\contentsline {subsubsection}{\numberline {2.1.2.1}Gewaltarten}{14}{subsubsection.2.1.2.1}%
-\contentsline {subsubsection}{\numberline {2.1.2.2}Ursachen und Aufrechterhaltung von Gewalt}{16}{subsubsection.2.1.2.2}%
-\contentsline {subsubsection}{\numberline {2.1.2.3}Folgen von Gewalt}{18}{subsubsection.2.1.2.3}%
-\contentsline {subsubsection}{\numberline {2.1.2.4}Istambul Konvention}{20}{subsubsection.2.1.2.4}%
-\contentsline {subsection}{\numberline {2.1.3}Gewaltmythen}{20}{subsection.2.1.3}%
-\contentsline {subsubsection}{\numberline {2.1.3.1}Vergewaltigungsmythen}{21}{subsubsection.2.1.3.1}%
-\contentsline {subsubsection}{\numberline {2.1.3.2}Victim Blaming}{21}{subsubsection.2.1.3.2}%
-\contentsline {subsubsection}{\numberline {2.1.3.3}Theorien zur Erklärung von Victim Blaming}{22}{subsubsection.2.1.3.3}%
-\contentsline {section}{\numberline {2.2}Aktueller Forschungsstand}{23}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Hypothese 1}{23}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}Hypothese 2}{25}{subsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.2.3}Hypothese 3}{26}{subsection.2.2.3}%
-\contentsline {chapter}{\numberline {3}Methoden}{28}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Stichprobenbeschreibung}{28}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Untersuchungsdesign}{29}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Operationalisierung der Konstrukte}{29}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Untersuchungsdurchführung}{31}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Auswertungsmethode}{32}{section.3.5}%
-\contentsline {chapter}{\numberline {4}Ergebnisse}{35}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Deskriptive Ergebnisse}{35}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Manipulationscheck}{37}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Inferenzstatistische Ergebnisse}{39}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}Hypothese 1}{39}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}Hypothese 2}{40}{subsection.4.3.2}%
-\contentsline {subsection}{\numberline {4.3.3}Hypothese 3}{40}{subsection.4.3.3}%
-\contentsline {section}{\numberline {4.4}Explorative Ergebnisse}{41}{section.4.4}%
-\contentsline {chapter}{\numberline {5}Diskussion}{44}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Zusammenfassung der zentralen Ergebnisse}{44}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Einordnung und Diskussion der Befunde}{45}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Bewertung der Methode}{47}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Ausblick}{49}{section.5.4}%
-\contentsline {chapter}{Literaturverzeichnis}{51}{chapter*.19}%
-\contentsline {chapter}{Anhang A}{56}{appendix*.20}%
-\contentsline {chapter}{Anhang B}{57}{appendix*.22}%
-\contentsline {chapter}{Anhang C}{58}{appendix*.24}%
-\contentsline {chapter}{Anhang D}{59}{appendix*.26}%
-\contentsline {chapter}{Anhang E}{60}{appendix*.28}%
-\contentsline {chapter}{Anhang F}{61}{appendix*.30}%
+\contentsline {chapter}{\numberline {1}Theorie}{4}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Konstrukte}{4}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Religion und Religiosität}{4}{subsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1.1}Auswirkung auf die Gesundheit}{7}{subsubsection.1.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Kultur}{9}{subsection.1.1.2}%
+\contentsline {subsubsection}{\numberline {1.1.2.1}Operationalisierung von Kultur}{10}{subsubsection.1.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.1.2.2}Auswirkung auf die Gesundheit}{12}{subsubsection.1.1.2.2}%
+\contentsline {subsection}{\numberline {1.1.3}Psychisches Wohlbefinden}{13}{subsection.1.1.3}%
+\contentsline {section}{\numberline {1.2}Aktueller Forschungsstand}{13}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Methoden}{14}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Stichprobenbeschreibung}{14}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Untersuchungsdesign}{14}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Operationalisierung der Konstrukte}{15}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Untersuchungsdurchführung}{17}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Auswertungsmethode}{18}{section.2.5}%
+\contentsline {chapter}{Literaturverzeichnis}{19}{chapter*.4}%
 \contentsfinish 

@@ -1,0 +1,532 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{COS}{incollection}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=6966d1ae54238225ac4b74adf7e006d5}{%
+           family={Bierbrauer},
+           familyi={B\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b3bf16259801449e569d6fb1f5c3f99}{%
+           family={Meyer},
+           familyi={M\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9e75ee1ba89a19c5f5743f89fd8da1dd}{%
+           family={Wolfradt},
+           familyi={W\bibinitperiod},
+           given={U.},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=93c61c9784a7cad73d824d440b18a8e6}{%
+           family={{Leibniz-Institut für Psychologie (ZPID)}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Trier}%
+      }
+      \list{publisher}{1}{%
+        {Leibniz-Institut für Psychologie (ZPID)}%
+      }
+      \strng{namehash}{97730b8a0ad761d6061ecaa8e74b538a}
+      \strng{fullhash}{0bd90297eeed1ffa6d61aa8e516e2c76}
+      \strng{fullhashraw}{0bd90297eeed1ffa6d61aa8e516e2c76}
+      \strng{bibnamehash}{0bd90297eeed1ffa6d61aa8e516e2c76}
+      \strng{authorbibnamehash}{0bd90297eeed1ffa6d61aa8e516e2c76}
+      \strng{authornamehash}{97730b8a0ad761d6061ecaa8e74b538a}
+      \strng{authorfullhash}{0bd90297eeed1ffa6d61aa8e516e2c76}
+      \strng{authorfullhashraw}{0bd90297eeed1ffa6d61aa8e516e2c76}
+      \strng{editorbibnamehash}{93c61c9784a7cad73d824d440b18a8e6}
+      \strng{editornamehash}{93c61c9784a7cad73d824d440b18a8e6}
+      \strng{editorfullhash}{93c61c9784a7cad73d824d440b18a8e6}
+      \strng{editorfullhashraw}{93c61c9784a7cad73d824d440b18a8e6}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Open Test Archive}
+      \field{title}{COS. Cultural Orientation Scale [Verfahrensdokumentation und Fragebogen auf Deutsch, Englisch, Russisch und Spanisch]}
+      \field{year}{2002}
+    \endentry
+    \entry{OxfordDic}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c7f81946b4db05e57010b48242ff585}{%
+           family={Bowker},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{9c7f81946b4db05e57010b48242ff585}
+      \strng{fullhash}{9c7f81946b4db05e57010b48242ff585}
+      \strng{fullhashraw}{9c7f81946b4db05e57010b48242ff585}
+      \strng{bibnamehash}{9c7f81946b4db05e57010b48242ff585}
+      \strng{authorbibnamehash}{9c7f81946b4db05e57010b48242ff585}
+      \strng{authornamehash}{9c7f81946b4db05e57010b48242ff585}
+      \strng{authorfullhash}{9c7f81946b4db05e57010b48242ff585}
+      \strng{authorfullhashraw}{9c7f81946b4db05e57010b48242ff585}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Concise Oxford Dictionary of World Religions}
+      \field{year}{2003}
+    \endentry
+    \entry{R_Commitment_Scale}{report}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=76e2f4e1ad10ff3a28180e765188476d}{%
+           family={Klumparendt},
+           familyi={K\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6b948ef083cc781b9f708ba7c929eb20}{%
+           family={Drenckhan},
+           familyi={D\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Zusammenstellung sozialwissenschaftlicher Items und Skalen (ZIS)}%
+      }
+      \strng{namehash}{ff3172e8922d2dea39a32bdf3ecfe394}
+      \strng{fullhash}{ff3172e8922d2dea39a32bdf3ecfe394}
+      \strng{fullhashraw}{ff3172e8922d2dea39a32bdf3ecfe394}
+      \strng{bibnamehash}{ff3172e8922d2dea39a32bdf3ecfe394}
+      \strng{authorbibnamehash}{ff3172e8922d2dea39a32bdf3ecfe394}
+      \strng{authornamehash}{ff3172e8922d2dea39a32bdf3ecfe394}
+      \strng{authorfullhash}{ff3172e8922d2dea39a32bdf3ecfe394}
+      \strng{authorfullhashraw}{ff3172e8922d2dea39a32bdf3ecfe394}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Deutsche Version der Religious Commitment Scale}
+      \field{type}{techreport}
+      \field{year}{2014}
+      \verb{doi}
+      \verb https://doi.org/10.6102/zis217
+      \endverb
+    \endentry
+    \entry{DUREL_Val}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=94594f3d085b84deba31ba7bf36ad09d}{%
+           family={Koenig},
+           familyi={K\bibinitperiod},
+           given={H.\bibnamedelimi G.},
+           giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a33f4ccf279ecbb1742ca3a2da91ba10}{%
+           family={Büssing},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6501a9a239ccb0256b13fcb35fead745}
+      \strng{fullhash}{6501a9a239ccb0256b13fcb35fead745}
+      \strng{fullhashraw}{6501a9a239ccb0256b13fcb35fead745}
+      \strng{bibnamehash}{6501a9a239ccb0256b13fcb35fead745}
+      \strng{authorbibnamehash}{6501a9a239ccb0256b13fcb35fead745}
+      \strng{authornamehash}{6501a9a239ccb0256b13fcb35fead745}
+      \strng{authorfullhash}{6501a9a239ccb0256b13fcb35fead745}
+      \strng{authorfullhashraw}{6501a9a239ccb0256b13fcb35fead745}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Religion}
+      \field{title}{The Duke University Religion Index (DUREL): A Five-Item Measure for Use in Epidemological Studies}
+      \field{volume}{1}
+      \field{year}{2010}
+      \field{pages}{78\bibrangedash 85}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.3390/rel1010078
+      \endverb
+    \endentry
+    \entry{DUREL}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=94594f3d085b84deba31ba7bf36ad09d}{%
+           family={Koenig},
+           familyi={K\bibinitperiod},
+           given={H.\bibnamedelimi G.},
+           giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5313bcf2e998e95bfc4307cd94fe92f3}{%
+           family={Parkerson},
+           familyi={P\bibinitperiod},
+           given={G.\bibnamedelimi R.},
+           giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bf2e164d9995048f17a6c576f2a3b832}{%
+           family={Meador},
+           familyi={M\bibinitperiod},
+           given={K.\bibnamedelimi G.},
+           giveni={K\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9127a57a34ef20cdcb1fd1783b0eaab8}
+      \strng{fullhash}{67b859ed1f8b277e55cf1b2518994fd2}
+      \strng{fullhashraw}{67b859ed1f8b277e55cf1b2518994fd2}
+      \strng{bibnamehash}{67b859ed1f8b277e55cf1b2518994fd2}
+      \strng{authorbibnamehash}{67b859ed1f8b277e55cf1b2518994fd2}
+      \strng{authornamehash}{9127a57a34ef20cdcb1fd1783b0eaab8}
+      \strng{authorfullhash}{67b859ed1f8b277e55cf1b2518994fd2}
+      \strng{authorfullhashraw}{67b859ed1f8b277e55cf1b2518994fd2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The American Journal of Psychiatry}
+      \field{number}{6}
+      \field{title}{Religion index for psychiatric research}
+      \field{volume}{154}
+      \field{year}{1997}
+      \field{pages}{885\bibrangedash 886}
+      \range{pages}{2}
+      \verb{doi}
+      \verb https://doi.org/10.1176/ajp.154.6.885b
+      \endverb
+    \endentry
+    \entry{Taxonimie}{article}{}{}
+      \name{author}{14}{}{%
+        {{un=0,uniquepart=base,hash=ac00f1013458b906f2e0592eb2bbaf46}{%
+           family={Monroe},
+           familyi={M\bibinitperiod},
+           given={M.\bibnamedelimi W.},
+           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c192911042985c529e523ee7694dbfd2}{%
+           family={Spicer},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d247cbb8cfea9d1e83c4629b127dca5a}{%
+           family={Canlas},
+           familyi={C\bibinitperiod},
+           given={G.\bibnamedelimi M.},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=87ea07c6516f29112d7eb17e148a660a}{%
+           family={Chilcott},
+           familyi={C\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=82493585a95ef0f48c23c40a8c8ecc0d}{%
+           family={Christopher},
+           familyi={C\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e323ffd161aca195c396323ba2aef74e}{%
+           family={Daniels},
+           familyi={D\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4d30e77d372e62fc04ec1eaa0912fc7f}{%
+           family={Danielson},
+           familyi={D\bibinitperiod},
+           given={A.\bibnamedelimi J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7eb6bdae552289422378c5f438108bc2}{%
+           family={Hamm},
+           familyi={H\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bc72814f0afe1dfc0156fac5689b06d7}{%
+           family={MacLeod},
+           familyi={M\bibinitperiod},
+           given={C.\bibnamedelimi A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb6951a5b66690c7dac2732c6773baf7}{%
+           family={Noseworthy},
+           familyi={N\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0f58f38cddc63ab4c56a52512f32fdbd}{%
+           family={Randall},
+           familyi={R\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e00fc6520970c734301e6e663f39faa8}{%
+           family={Walsh},
+           familyi={W\bibinitperiod},
+           given={R.\bibnamedelimi F.},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=67541cc49852c55959f1878ce0dde316}{%
+           family={Muthukrishna},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8f2a56d448e7eef5129811b127e9c95f}{%
+           family={Slingerland},
+           familyi={S\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{23dc6df5f0b829ff53da7262e8c9387b}
+      \strng{fullhash}{68b1b7b75d81ea3bad3990a54f8d6c58}
+      \strng{fullhashraw}{68b1b7b75d81ea3bad3990a54f8d6c58}
+      \strng{bibnamehash}{580c309d3c3d04befeec9dabdd21fff6}
+      \strng{authorbibnamehash}{580c309d3c3d04befeec9dabdd21fff6}
+      \strng{authornamehash}{23dc6df5f0b829ff53da7262e8c9387b}
+      \strng{authorfullhash}{68b1b7b75d81ea3bad3990a54f8d6c58}
+      \strng{authorfullhashraw}{68b1b7b75d81ea3bad3990a54f8d6c58}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the American Academy of Religion}
+      \field{number}{2}
+      \field{title}{{On the Category of Religion: A Taxonomic Analysis of a Large-Scale Database}}
+      \field{volume}{91}
+      \field{year}{2023}
+      \field{pages}{257\bibrangedash 282}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1093/jaarel/lfad065
+      \endverb
+    \endentry
+    \entry{PRC2}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=83778ea1c38ca19c82fc35bb68b48c1b}{%
+           family={{Pew Research Center}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{83778ea1c38ca19c82fc35bb68b48c1b}
+      \strng{fullhash}{83778ea1c38ca19c82fc35bb68b48c1b}
+      \strng{fullhashraw}{83778ea1c38ca19c82fc35bb68b48c1b}
+      \strng{bibnamehash}{83778ea1c38ca19c82fc35bb68b48c1b}
+      \strng{authorbibnamehash}{83778ea1c38ca19c82fc35bb68b48c1b}
+      \strng{authornamehash}{83778ea1c38ca19c82fc35bb68b48c1b}
+      \strng{authorfullhash}{83778ea1c38ca19c82fc35bb68b48c1b}
+      \strng{authorfullhashraw}{83778ea1c38ca19c82fc35bb68b48c1b}
+      \field{extraname}{1}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{In the U.S. and other countries, participation in a congregation is a key factor}
+      \field{title}{Religion's Relationship to Happiness, Civic Engagement and Health Around the World}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.pewresearch.org/religion/2019/01/31/religions-relationship-to-happiness-civic-engagement-and-health-around-the-world/
+      \endverb
+      \verb{url}
+      \verb https://www.pewresearch.org/religion/2019/01/31/religions-relationship-to-happiness-civic-engagement-and-health-around-the-world/
+      \endverb
+    \endentry
+    \entry{PRC}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=83778ea1c38ca19c82fc35bb68b48c1b}{%
+           family={{Pew Research Center}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{83778ea1c38ca19c82fc35bb68b48c1b}
+      \strng{fullhash}{83778ea1c38ca19c82fc35bb68b48c1b}
+      \strng{fullhashraw}{83778ea1c38ca19c82fc35bb68b48c1b}
+      \strng{bibnamehash}{83778ea1c38ca19c82fc35bb68b48c1b}
+      \strng{authorbibnamehash}{83778ea1c38ca19c82fc35bb68b48c1b}
+      \strng{authornamehash}{83778ea1c38ca19c82fc35bb68b48c1b}
+      \strng{authorfullhash}{83778ea1c38ca19c82fc35bb68b48c1b}
+      \strng{authorfullhashraw}{83778ea1c38ca19c82fc35bb68b48c1b}
+      \field{extraname}{2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Key Findings From the Global Religious Futures Project}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.pewresearch.org/religion/2022/12/21/key-findings-from-the-global-religious-futures-project/
+      \endverb
+      \verb{url}
+      \verb https://www.pewresearch.org/religion/2022/12/21/key-findings-from-the-global-religious-futures-project/
+      \endverb
+    \endentry
+    \entry{WHO_Val}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c78261560743a6ed8b0a19ce1c643e0f}{%
+           family={Sischka},
+           familyi={S\bibinitperiod},
+           given={Philipp\bibnamedelima E.},
+           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5bc38138500b943d924ad396d628c79c}{%
+           family={Costa},
+           familyi={C\bibinitperiod},
+           given={Andreia\bibnamedelima P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52ed34cc857a6966b46a56faa5304b12}{%
+           family={Steffgen},
+           familyi={S\bibinitperiod},
+           given={Georges},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=28dcf810c5c1785fe0e472dc2d06250d}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={Alexander\bibnamedelima F.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{335c3d358f2a80e54105536650db529e}
+      \strng{fullhash}{13d11240f022850acdeea17f64d9a523}
+      \strng{fullhashraw}{13d11240f022850acdeea17f64d9a523}
+      \strng{bibnamehash}{13d11240f022850acdeea17f64d9a523}
+      \strng{authorbibnamehash}{13d11240f022850acdeea17f64d9a523}
+      \strng{authornamehash}{335c3d358f2a80e54105536650db529e}
+      \strng{authorfullhash}{13d11240f022850acdeea17f64d9a523}
+      \strng{authorfullhashraw}{13d11240f022850acdeea17f64d9a523}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2666-9153}
+      \field{journaltitle}{Journal of Affective Disorders Reports}
+      \field{title}{The WHO-5 well-being index – validation based on item response theory and the analysis of measurement invariance across 35 countries}
+      \field{volume}{1}
+      \field{year}{2020}
+      \field{pages}{100020}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jadr.2020.100020
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2666915320300202
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2666915320300202
+      \endverb
+    \endentry
+    \entry{BritannicaDef}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=83f6ee89935b5d7a3453e31dd8307eea}{%
+           family={{The Britannica Dictionary}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{83f6ee89935b5d7a3453e31dd8307eea}
+      \strng{fullhash}{83f6ee89935b5d7a3453e31dd8307eea}
+      \strng{fullhashraw}{83f6ee89935b5d7a3453e31dd8307eea}
+      \strng{bibnamehash}{83f6ee89935b5d7a3453e31dd8307eea}
+      \strng{authorbibnamehash}{83f6ee89935b5d7a3453e31dd8307eea}
+      \strng{authornamehash}{83f6ee89935b5d7a3453e31dd8307eea}
+      \strng{authorfullhash}{83f6ee89935b5d7a3453e31dd8307eea}
+      \strng{authorfullhashraw}{83f6ee89935b5d7a3453e31dd8307eea}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{religion}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.britannica.com/dictionary/religion
+      \endverb
+      \verb{url}
+      \verb https://www.britannica.com/dictionary/religion
+      \endverb
+    \endentry
+    \entry{WHO-5}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bfa8c395ac070ea6cddc2077faf8215f}{%
+           family={{World Health Organisation}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{bfa8c395ac070ea6cddc2077faf8215f}
+      \strng{fullhash}{bfa8c395ac070ea6cddc2077faf8215f}
+      \strng{fullhashraw}{bfa8c395ac070ea6cddc2077faf8215f}
+      \strng{bibnamehash}{bfa8c395ac070ea6cddc2077faf8215f}
+      \strng{authorbibnamehash}{bfa8c395ac070ea6cddc2077faf8215f}
+      \strng{authornamehash}{bfa8c395ac070ea6cddc2077faf8215f}
+      \strng{authorfullhash}{bfa8c395ac070ea6cddc2077faf8215f}
+      \strng{authorfullhashraw}{bfa8c395ac070ea6cddc2077faf8215f}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{WHO (Five) Well-being Index}
+      \field{year}{1998}
+      \verb{urlraw}
+      \verb https://www.psykiatri-regionh.dk/who-5/who-5-questionnaires/Pages/default.aspx
+      \endverb
+      \verb{url}
+      \verb https://www.psykiatri-regionh.dk/who-5/who-5-questionnaires/Pages/default.aspx
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

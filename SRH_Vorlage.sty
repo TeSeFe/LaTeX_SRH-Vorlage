@@ -64,7 +64,8 @@
 
 \usepackage[style=apa6]{biblatex}   % formats the bibliography acording to the 
 % APA 6th edition guidelines
-\bibliography{Quellen}
+%\bibliography{Quellen}
+\addbibresource{Quellen.bib} %Bib-Datei laden.
 
 % sets header and footer
 \usepackage{scrlayer-fancyhdr}
@@ -72,7 +73,7 @@
 \pagestyle{fancyplain}          % fancyplain instead of fancy -> page number 
 % also on chapter title page
 \fancyhf{}                      % entfernt KAPITEL X. TITEL DES KAPITELS
-\fancyhead[L]{Kolumnentitel: UNTERSUCHUNG VON AGGRESSIVITÄT UND GEWALTMYTHEN} % gewünschten Text hier einfügen
+\fancyhead[L]{Kolumnentitel: KULTUR, RELIGIOSITÄT UND PSYCH. WOHLBEFINDEN} % gewünschten Text hier einfügen
 \fancyfoot[R]{\thepage}         % Seitenzahl unten rechts
 \renewcommand{\headrulewidth}{0pt}
 
