@@ -79,6 +79,43 @@
       \field{pages}{377\bibrangedash 386}
       \range{pages}{10}
     \endentry
+    \entry{Bandura1997}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=51aaa9f3f4f078711dd189cfc7b8dff3}{%
+           family={Bandura},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{2}{%
+        {W.H. Freeman}%
+        {Company}%
+      }
+      \strng{namehash}{51aaa9f3f4f078711dd189cfc7b8dff3}
+      \strng{fullhash}{51aaa9f3f4f078711dd189cfc7b8dff3}
+      \strng{fullhashraw}{51aaa9f3f4f078711dd189cfc7b8dff3}
+      \strng{bibnamehash}{51aaa9f3f4f078711dd189cfc7b8dff3}
+      \strng{authorbibnamehash}{51aaa9f3f4f078711dd189cfc7b8dff3}
+      \strng{authornamehash}{51aaa9f3f4f078711dd189cfc7b8dff3}
+      \strng{authorfullhash}{51aaa9f3f4f078711dd189cfc7b8dff3}
+      \strng{authorfullhashraw}{51aaa9f3f4f078711dd189cfc7b8dff3}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{Cognitive Functioning}
+      \field{title}{Self-efficacy: The exercise of control}
+      \field{year}{1997}
+      \field{pages}{169\bibrangedash 198}
+      \range{pages}{30}
+    \endentry
     \entry{COS}{incollection}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=6966d1ae54238225ac4b74adf7e006d5}{%
@@ -133,6 +170,53 @@
       \field{booktitle}{Open Test Archive}
       \field{title}{COS. Cultural Orientation Scale [Verfahrensdokumentation und Fragebogen auf Deutsch, Englisch, Russisch und Spanisch]}
       \field{year}{2002}
+    \endentry
+    \entry{Borrell-Carrió2004}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=12f813e6a301993bdf44001c092799fa}{%
+           family={Borrell-Carrió},
+           familyi={B\bibinithyphendelim C\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0304c37ffd2748c95d55762e73d02885}{%
+           family={Suchman},
+           familyi={S\bibinitperiod},
+           given={A.\bibnamedelimi L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ca68d68d04175de62d004af947ac79e}{%
+           family={Epstein},
+           familyi={E\bibinitperiod},
+           given={R.\bibnamedelimi M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b25a230cd0aa1ee5285b8f297477c9af}
+      \strng{fullhash}{d5f30a09b7a604b4c4dd405fc2926c89}
+      \strng{fullhashraw}{d5f30a09b7a604b4c4dd405fc2926c89}
+      \strng{bibnamehash}{d5f30a09b7a604b4c4dd405fc2926c89}
+      \strng{authorbibnamehash}{d5f30a09b7a604b4c4dd405fc2926c89}
+      \strng{authornamehash}{b25a230cd0aa1ee5285b8f297477c9af}
+      \strng{authorfullhash}{d5f30a09b7a604b4c4dd405fc2926c89}
+      \strng{authorfullhashraw}{d5f30a09b7a604b4c4dd405fc2926c89}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annals of Family Medicine}
+      \field{number}{6}
+      \field{title}{The biopsychosocial model 25 years later: Principles, practice, and scientific inquiry}
+      \field{volume}{2}
+      \field{year}{2004}
+      \field{pages}{576\bibrangedash 582}
+      \range{pages}{7}
+      \verb{doi}
+      \verb https://doi.org/10.1370/afm.245
+      \endverb
     \endentry
     \entry{OxfordDic}{book}{}{}
       \name{author}{1}{}{%
@@ -195,6 +279,41 @@
       \field{year}{2008}
       \field{pages}{35\bibrangedash 37}
       \range{pages}{3}
+    \endentry
+    \entry{Carver2010}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fc4efc30a0008d63cba9a3ec6e5bd63e}{%
+           family={Carver},
+           familyi={C\bibinitperiod},
+           given={C.\bibnamedelimi S.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fc4efc30a0008d63cba9a3ec6e5bd63e}
+      \strng{fullhash}{fc4efc30a0008d63cba9a3ec6e5bd63e}
+      \strng{fullhashraw}{fc4efc30a0008d63cba9a3ec6e5bd63e}
+      \strng{bibnamehash}{fc4efc30a0008d63cba9a3ec6e5bd63e}
+      \strng{authorbibnamehash}{fc4efc30a0008d63cba9a3ec6e5bd63e}
+      \strng{authornamehash}{fc4efc30a0008d63cba9a3ec6e5bd63e}
+      \strng{authorfullhash}{fc4efc30a0008d63cba9a3ec6e5bd63e}
+      \strng{authorfullhashraw}{fc4efc30a0008d63cba9a3ec6e5bd63e}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Social Issues}
+      \field{number}{2}
+      \field{title}{Resilience and thriving: Issues, models, and linkages}
+      \field{volume}{54}
+      \field{year}{2010}
+      \field{pages}{245\bibrangedash 266}
+      \range{pages}{22}
+      \verb{doi}
+      \verb https://doi.org/10.1111/j.1540-4560.1998.tb01217.x
+      \endverb
     \endentry
     \entry{ReliInKultur}{article}{}{}
       \name{author}{1}{}{%
@@ -283,7 +402,111 @@
       \verb 10.1093/acrefore/9780190228613.013.166
       \endverb
     \endentry
-    \entry{PsychWohlbefinden}{article}{}{}
+    \entry{DasEtAl2020}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=efd127b11ed1fdef1b349eca056776f2}{%
+           family={Das},
+           familyi={D\bibinitperiod},
+           given={K.\bibnamedelimi V.},
+           giveni={K\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a1ee635f44ca8184bd7dbff7565304c1}{%
+           family={Jones-Harrell},
+           familyi={J\bibinithyphendelim H\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f7fd6fb881501ca5ea978714193f2e1}{%
+           family={Fan},
+           familyi={F\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e33a57bbcad687025eef075129bf6d7d}{%
+           family={Ramaswami},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0b987b751ef477624b25c460a340f305}{%
+           family={Orlove},
+           familyi={O\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2590fe99c1ec38d5db86359928bac965}{%
+           family={Botchwey},
+           familyi={B\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e42e432ee560cfe67c835bd46dde17e9}
+      \strng{fullhash}{635957353bf77ce83cfd00786085e1b4}
+      \strng{fullhashraw}{635957353bf77ce83cfd00786085e1b4}
+      \strng{bibnamehash}{635957353bf77ce83cfd00786085e1b4}
+      \strng{authorbibnamehash}{635957353bf77ce83cfd00786085e1b4}
+      \strng{authornamehash}{e42e432ee560cfe67c835bd46dde17e9}
+      \strng{authorfullhash}{635957353bf77ce83cfd00786085e1b4}
+      \strng{authorfullhashraw}{635957353bf77ce83cfd00786085e1b4}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Public Health Reviews}
+      \field{number}{25}
+      \field{title}{Understanding subjective well-being: perspectives from psychology and public health}
+      \field{volume}{42}
+      \field{year}{2020}
+      \verb{doi}
+      \verb https://doi.org/10.1186/s40985-020-00142-5
+      \endverb
+    \endentry
+    \entry{DeciRyan2000}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5acbe85a6ee009e2a911b37af9bf1d7b}{%
+           family={Deci},
+           familyi={D\bibinitperiod},
+           given={E.\bibnamedelimi L.},
+           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5272e0da0f534e88e631017471506cdf}{%
+           family={Ryan},
+           familyi={R\bibinitperiod},
+           given={R.\bibnamedelimi M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ed8efc946f97817a95cc62840d660cd7}
+      \strng{fullhash}{ed8efc946f97817a95cc62840d660cd7}
+      \strng{fullhashraw}{ed8efc946f97817a95cc62840d660cd7}
+      \strng{bibnamehash}{ed8efc946f97817a95cc62840d660cd7}
+      \strng{authorbibnamehash}{ed8efc946f97817a95cc62840d660cd7}
+      \strng{authornamehash}{ed8efc946f97817a95cc62840d660cd7}
+      \strng{authorfullhash}{ed8efc946f97817a95cc62840d660cd7}
+      \strng{authorfullhashraw}{ed8efc946f97817a95cc62840d660cd7}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Inquiry}
+      \field{number}{4}
+      \field{title}{The “What” and “Why” of goal pursuits. Human needs and the self-determination of behavior}
+      \field{volume}{11}
+      \field{year}{2000}
+      \field{pages}{227\bibrangedash 268}
+      \range{pages}{42}
+      \verb{doi}
+      \verb https://doi.org/10.1207/S15327965PLI1104_01
+      \endverb
+    \endentry
+    \entry{DhanabhakyamSarath2023}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=c67f311b675503e1d27f072e91e5d0aa}{%
            family={Dhanabhakyam},
@@ -323,6 +546,118 @@
       \verb{doi}
       \verb https://doi.org/10.48175/IJARSCT-8345
       \endverb
+    \endentry
+    \entry{DienerEtAl2009}{incollection}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=076c5c05542799eddab11762fdf2da34}{%
+           family={Diener},
+           familyi={D\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6a978d6dae71bac8d2f0d4ae9b2f69e0}{%
+           family={Oishi},
+           familyi={O\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=03c2f49b0d2db428ed94d386078c3f7c}{%
+           family={Lucas},
+           familyi={L\bibinitperiod},
+           given={R.\bibnamedelimi E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=88d4df920024cbe069876179a91afbec}{%
+           family={Lopez},
+           familyi={L\bibinitperiod},
+           given={S.\bibnamedelimi J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=4361fe0597a0ed4f2378f648888626b1}{%
+           family={Snyder},
+           familyi={S\bibinitperiod},
+           given={C.\bibnamedelimi R.},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{5c36b18f6f0e6dde05cb667b1f8dd83e}
+      \strng{fullhash}{63b9d2f8186e4362b83aa91e415adab4}
+      \strng{fullhashraw}{63b9d2f8186e4362b83aa91e415adab4}
+      \strng{bibnamehash}{63b9d2f8186e4362b83aa91e415adab4}
+      \strng{authorbibnamehash}{63b9d2f8186e4362b83aa91e415adab4}
+      \strng{authornamehash}{5c36b18f6f0e6dde05cb667b1f8dd83e}
+      \strng{authorfullhash}{63b9d2f8186e4362b83aa91e415adab4}
+      \strng{authorfullhashraw}{63b9d2f8186e4362b83aa91e415adab4}
+      \strng{editorbibnamehash}{05c94f8802f8a91035b11752aadc7831}
+      \strng{editornamehash}{05c94f8802f8a91035b11752aadc7831}
+      \strng{editorfullhash}{05c94f8802f8a91035b11752aadc7831}
+      \strng{editorfullhashraw}{05c94f8802f8a91035b11752aadc7831}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{The Oxford Handbook of Positive Psychology}}
+      \field{title}{{Subjective Well-Being: The Science of Happiness and Life Satisfaction}}
+      \field{year}{2009}
+      \verb{doi}
+      \verb https://doi.org/10.1093/oxfordhb/9780195187243.013.0017
+      \endverb
+    \endentry
+    \entry{DienerEtAl1999}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=076c5c05542799eddab11762fdf2da34}{%
+           family={Diener},
+           familyi={D\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cfde526dbfe922439740ac3cc36aab0a}{%
+           family={Suh},
+           familyi={S\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0aa9d76fb687845b64014e2358691531}{%
+           family={Lucas},
+           familyi={L\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=47ff3796a4662b114944cd089d3d4b99}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={H.\bibnamedelimi L.},
+           giveni={H\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5c36b18f6f0e6dde05cb667b1f8dd83e}
+      \strng{fullhash}{febfde5b635d0ceabe5d25f9aa3eea28}
+      \strng{fullhashraw}{febfde5b635d0ceabe5d25f9aa3eea28}
+      \strng{bibnamehash}{febfde5b635d0ceabe5d25f9aa3eea28}
+      \strng{authorbibnamehash}{febfde5b635d0ceabe5d25f9aa3eea28}
+      \strng{authornamehash}{5c36b18f6f0e6dde05cb667b1f8dd83e}
+      \strng{authorfullhash}{febfde5b635d0ceabe5d25f9aa3eea28}
+      \strng{authorfullhashraw}{febfde5b635d0ceabe5d25f9aa3eea28}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Bulletin}
+      \field{number}{2}
+      \field{title}{Subjective Well-Being: Three Decades of Progress}
+      \field{volume}{125}
+      \field{year}{1999}
     \endentry
     \entry{Durkeim}{inbook}{}{}
       \name{author}{1}{}{%
@@ -402,6 +737,41 @@
       \field{labeltitlesource}{title}
       \field{title}{Die elementare Formen des religiösen Lebens}
       \field{year}{1981}
+    \endentry
+    \entry{Engel1977}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a54a53cf2928730d1dbdefccde92ac0e}{%
+           family={Engel},
+           familyi={E\bibinitperiod},
+           given={G.\bibnamedelimi L.},
+           giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a54a53cf2928730d1dbdefccde92ac0e}
+      \strng{fullhash}{a54a53cf2928730d1dbdefccde92ac0e}
+      \strng{fullhashraw}{a54a53cf2928730d1dbdefccde92ac0e}
+      \strng{bibnamehash}{a54a53cf2928730d1dbdefccde92ac0e}
+      \strng{authorbibnamehash}{a54a53cf2928730d1dbdefccde92ac0e}
+      \strng{authornamehash}{a54a53cf2928730d1dbdefccde92ac0e}
+      \strng{authorfullhash}{a54a53cf2928730d1dbdefccde92ac0e}
+      \strng{authorfullhashraw}{a54a53cf2928730d1dbdefccde92ac0e}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science}
+      \field{number}{4286}
+      \field{title}{The need for a new medical model: A challenge for biomedicine}
+      \field{volume}{196}
+      \field{year}{1977}
+      \field{pages}{129\bibrangedash 136}
+      \range{pages}{8}
+      \verb{doi}
+      \verb https://doi.org/10.1126/science.847460
+      \endverb
     \endentry
     \entry{ReliBegriff}{article}{}{}
       \name{author}{1}{}{%
@@ -585,6 +955,38 @@
       \field{pages}{111\bibrangedash 130}
       \range{pages}{20}
     \endentry
+    \entry{Hoffmann1984}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7e21d33b8eedfbe1ff0f2a6d9549954c}{%
+           family={Hoffmann},
+           familyi={H\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7e21d33b8eedfbe1ff0f2a6d9549954c}
+      \strng{fullhash}{7e21d33b8eedfbe1ff0f2a6d9549954c}
+      \strng{fullhashraw}{7e21d33b8eedfbe1ff0f2a6d9549954c}
+      \strng{bibnamehash}{7e21d33b8eedfbe1ff0f2a6d9549954c}
+      \strng{authorbibnamehash}{7e21d33b8eedfbe1ff0f2a6d9549954c}
+      \strng{authornamehash}{7e21d33b8eedfbe1ff0f2a6d9549954c}
+      \strng{authorfullhash}{7e21d33b8eedfbe1ff0f2a6d9549954c}
+      \strng{authorfullhashraw}{7e21d33b8eedfbe1ff0f2a6d9549954c}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychologische Beiträge}
+      \field{number}{3}
+      \field{title}{Erleben von Glück - eine empirische Untersuchung}
+      \field{volume}{26}
+      \field{year}{1984}
+      \field{pages}{516\bibrangedash 532}
+      \range{pages}{17}
+    \endentry
     \entry{HofstedeOG}{incollection}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=33cd33d6e507fdb2568256c625491f56}{%
@@ -651,6 +1053,104 @@
       \verb{url}
       \verb https://geerthofstede.com/culture-geert-hofstede-gert-jan-hofstede/6d-model-of-national-culture/
       \endverb
+    \endentry
+    \entry{Hornberg2016}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ef17bc8530ad27e35ff847598eb59c01}{%
+           family={Hornberg},
+           familyi={H\bibinitperiod},
+           given={Claudia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=ef47bd70076937f6c6de33f235105a22}{%
+           family={Gebhard},
+           familyi={G\bibinitperiod},
+           given={U.},
+           giveni={U\bibinitperiod}}}%
+        {{hash=287a6efd4c00757cfa3595474f8d70df}{%
+           family={Kistemann},
+           familyi={K\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiesbaden: Springer Fachmedien}%
+      }
+      \strng{namehash}{ef17bc8530ad27e35ff847598eb59c01}
+      \strng{fullhash}{ef17bc8530ad27e35ff847598eb59c01}
+      \strng{fullhashraw}{ef17bc8530ad27e35ff847598eb59c01}
+      \strng{bibnamehash}{ef17bc8530ad27e35ff847598eb59c01}
+      \strng{authorbibnamehash}{ef17bc8530ad27e35ff847598eb59c01}
+      \strng{authornamehash}{ef17bc8530ad27e35ff847598eb59c01}
+      \strng{authorfullhash}{ef17bc8530ad27e35ff847598eb59c01}
+      \strng{authorfullhashraw}{ef17bc8530ad27e35ff847598eb59c01}
+      \strng{editorbibnamehash}{027cfeb797a324c74c7f7c2891c05635}
+      \strng{editornamehash}{027cfeb797a324c74c7f7c2891c05635}
+      \strng{editorfullhash}{027cfeb797a324c74c7f7c2891c05635}
+      \strng{editorfullhashraw}{027cfeb797a324c74c7f7c2891c05635}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Landschaft, Identität und Gesundheit: Zum Konzept der Therapeutischen Landschaften}
+      \field{title}{Gesundheit und Wohlbefinden}
+      \field{year}{2016}
+      \field{pages}{63\bibrangedash 69}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1007/978-3-531-19723-4_5
+      \endverb
+    \endentry
+    \entry{Izard1994}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4675fc4d4444228d333ca7193f1b611a}{%
+           family={Izard},
+           familyi={I\bibinitperiod},
+           given={C.\bibnamedelimi E.},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=87bf5bc2aa12bb8f66b30b52a63d618f}{%
+           family={Murakami},
+           familyi={M\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Beltz, Psychologie-Verlags-Union}%
+      }
+      \strng{namehash}{4675fc4d4444228d333ca7193f1b611a}
+      \strng{fullhash}{4675fc4d4444228d333ca7193f1b611a}
+      \strng{fullhashraw}{4675fc4d4444228d333ca7193f1b611a}
+      \strng{bibnamehash}{4675fc4d4444228d333ca7193f1b611a}
+      \strng{authorbibnamehash}{4675fc4d4444228d333ca7193f1b611a}
+      \strng{authornamehash}{4675fc4d4444228d333ca7193f1b611a}
+      \strng{authorfullhash}{4675fc4d4444228d333ca7193f1b611a}
+      \strng{authorfullhashraw}{4675fc4d4444228d333ca7193f1b611a}
+      \strng{translatorbibnamehash}{87bf5bc2aa12bb8f66b30b52a63d618f}
+      \strng{translatornamehash}{87bf5bc2aa12bb8f66b30b52a63d618f}
+      \strng{translatorfullhash}{87bf5bc2aa12bb8f66b30b52a63d618f}
+      \strng{translatorfullhashraw}{87bf5bc2aa12bb8f66b30b52a63d618f}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{Freude}
+      \field{edition}{3. Auflage}
+      \field{subtitle}{Eine Einführung in die Grundlagen der Emotionspsychologie}
+      \field{title}{Die Emotionen des Menschen}
+      \field{year}{1994}
+      \field{pages}{271\bibrangedash 312}
+      \range{pages}{42}
     \endentry
     \entry{Jakobs_2018}{article}{}{}
       \name{author}{1}{}{%
@@ -813,6 +1313,58 @@
       \verb https://doi.org/10.1007/s10903-016-0501-4
       \endverb
     \endentry
+    \entry{Kiecolt-Glaser2002}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=83148c72dd2746b25b5d89d642695db3}{%
+           family={Kiecolt-Glaser},
+           familyi={K\bibinithyphendelim G\bibinitperiod},
+           given={J.\bibnamedelimi K.},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2200eddd50d1fb572baea041727eb8cb}{%
+           family={McGuire},
+           familyi={M\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b672e58272454cfe034b5afc379860ae}{%
+           family={Robles},
+           familyi={R\bibinitperiod},
+           given={T.\bibnamedelimi F.},
+           giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d4ca7c1b700b5411af89deddeb653561}{%
+           family={Glaser},
+           familyi={G\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9fbb7188a91b623ef62746d4f7efa8e7}
+      \strng{fullhash}{c738cdb33e294232087b26ff085d9afa}
+      \strng{fullhashraw}{c738cdb33e294232087b26ff085d9afa}
+      \strng{bibnamehash}{c738cdb33e294232087b26ff085d9afa}
+      \strng{authorbibnamehash}{c738cdb33e294232087b26ff085d9afa}
+      \strng{authornamehash}{9fbb7188a91b623ef62746d4f7efa8e7}
+      \strng{authorfullhash}{c738cdb33e294232087b26ff085d9afa}
+      \strng{authorfullhashraw}{c738cdb33e294232087b26ff085d9afa}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annual Review of Psychology}
+      \field{title}{Emotions, morbidity, and mortality: New perspectives from psychoneuroimmunology}
+      \field{volume}{53}
+      \field{year}{2002}
+      \field{pages}{83\bibrangedash 107}
+      \range{pages}{25}
+      \verb{doi}
+      \verb https://doi.org/10.1146/annurev.psych.53.100901.135217
+      \endverb
+    \endentry
     \entry{R_Commitment_Scale}{report}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=76e2f4e1ad10ff3a28180e765188476d}{%
@@ -903,6 +1455,7 @@
       \strng{authornamehash}{94594f3d085b84deba31ba7bf36ad09d}
       \strng{authorfullhash}{94594f3d085b84deba31ba7bf36ad09d}
       \strng{authorfullhashraw}{94594f3d085b84deba31ba7bf36ad09d}
+      \field{extraname}{1}
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{extradatescope}{labelyear}
@@ -919,6 +1472,40 @@
       \range{pages}{7}
       \verb{doi}
       \verb https://doi.org/10.1002/aps.239
+      \endverb
+    \endentry
+    \entry{Koenig2012}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=94594f3d085b84deba31ba7bf36ad09d}{%
+           family={Koenig},
+           familyi={K\bibinitperiod},
+           given={H.\bibnamedelimi G.},
+           giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{94594f3d085b84deba31ba7bf36ad09d}
+      \strng{fullhash}{94594f3d085b84deba31ba7bf36ad09d}
+      \strng{fullhashraw}{94594f3d085b84deba31ba7bf36ad09d}
+      \strng{bibnamehash}{94594f3d085b84deba31ba7bf36ad09d}
+      \strng{authorbibnamehash}{94594f3d085b84deba31ba7bf36ad09d}
+      \strng{authornamehash}{94594f3d085b84deba31ba7bf36ad09d}
+      \strng{authorfullhash}{94594f3d085b84deba31ba7bf36ad09d}
+      \strng{authorfullhashraw}{94594f3d085b84deba31ba7bf36ad09d}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ISRN Psychiatry}
+      \field{title}{Religion, spirituality, and health: The research and clinical implications}
+      \field{year}{2012}
+      \field{pages}{1\bibrangedash 33}
+      \range{pages}{33}
+      \verb{doi}
+      \verb https://doi.org/10.5402/2012/278730
       \endverb
     \endentry
     \entry{DUREL_Val}{article}{}{}
@@ -1153,6 +1740,225 @@
       \verb https://doi.org/10.1007/978-3-662-48457-9_7
       \endverb
     \endentry
+    \entry{LazarusFolkman1987}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5cbaaf03793a35c7069c1ae2f785e15b}{%
+           family={Lazarus},
+           familyi={L\bibinitperiod},
+           given={R.\bibnamedelimi S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=01e4d9c7cc2ee7586b7a56f6016d8689}{%
+           family={Folkman},
+           familyi={F\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ac58da5586d3b4dbbaa7904cde816e83}
+      \strng{fullhash}{ac58da5586d3b4dbbaa7904cde816e83}
+      \strng{fullhashraw}{ac58da5586d3b4dbbaa7904cde816e83}
+      \strng{bibnamehash}{ac58da5586d3b4dbbaa7904cde816e83}
+      \strng{authorbibnamehash}{ac58da5586d3b4dbbaa7904cde816e83}
+      \strng{authornamehash}{ac58da5586d3b4dbbaa7904cde816e83}
+      \strng{authorfullhash}{ac58da5586d3b4dbbaa7904cde816e83}
+      \strng{authorfullhashraw}{ac58da5586d3b4dbbaa7904cde816e83}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Journal of Personality}
+      \field{number}{3}
+      \field{title}{Transactional theory and research on emotions and coping}
+      \field{volume}{1}
+      \field{year}{1987}
+      \field{pages}{141\bibrangedash 169}
+      \range{pages}{29}
+      \verb{doi}
+      \verb https://doi.org/10.1002/per.2410010304
+      \endverb
+    \endentry
+    \entry{Lucas2016}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=03c2f49b0d2db428ed94d386078c3f7c}{%
+           family={Lucas},
+           familyi={L\bibinitperiod},
+           given={R.\bibnamedelimi E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=8a2022e1983378af0cc1e637c153d2ca}{%
+           family={Adler},
+           familyi={A\bibinitperiod},
+           given={M.\bibnamedelimi D.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=c3b1b445e16a8214bbde617e4556ad6e}{%
+           family={Fleurbaey},
+           familyi={F\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{03c2f49b0d2db428ed94d386078c3f7c}
+      \strng{fullhash}{03c2f49b0d2db428ed94d386078c3f7c}
+      \strng{fullhashraw}{03c2f49b0d2db428ed94d386078c3f7c}
+      \strng{bibnamehash}{03c2f49b0d2db428ed94d386078c3f7c}
+      \strng{authorbibnamehash}{03c2f49b0d2db428ed94d386078c3f7c}
+      \strng{authornamehash}{03c2f49b0d2db428ed94d386078c3f7c}
+      \strng{authorfullhash}{03c2f49b0d2db428ed94d386078c3f7c}
+      \strng{authorfullhashraw}{03c2f49b0d2db428ed94d386078c3f7c}
+      \strng{editorbibnamehash}{37fae4251be3fbbd79e30df64ef97db6}
+      \strng{editornamehash}{37fae4251be3fbbd79e30df64ef97db6}
+      \strng{editorfullhash}{37fae4251be3fbbd79e30df64ef97db6}
+      \strng{editorfullhashraw}{37fae4251be3fbbd79e30df64ef97db6}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Oxford Handbook of Well-Being and Public Policy}
+      \field{title}{Subjective Well-Being in Psychology}
+      \field{year}{2016}
+      \verb{doi}
+      \verb https://doi.org/10.1093/oxfordhb/9780199325818.013.13
+      \endverb
+    \endentry
+    \entry{MalyMotta2023}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=51ffd864f6cf4777db77c167540340d3}{%
+           family={Maly-Motta},
+           familyi={M\bibinithyphendelim M\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiesbaden: Springer VS}%
+      }
+      \strng{namehash}{51ffd864f6cf4777db77c167540340d3}
+      \strng{fullhash}{51ffd864f6cf4777db77c167540340d3}
+      \strng{fullhashraw}{51ffd864f6cf4777db77c167540340d3}
+      \strng{bibnamehash}{51ffd864f6cf4777db77c167540340d3}
+      \strng{authorbibnamehash}{51ffd864f6cf4777db77c167540340d3}
+      \strng{authornamehash}{51ffd864f6cf4777db77c167540340d3}
+      \strng{authorfullhash}{51ffd864f6cf4777db77c167540340d3}
+      \strng{authorfullhashraw}{51ffd864f6cf4777db77c167540340d3}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{Subjektives Wohlbefinden}
+      \field{title}{Gestersste Eltern}
+      \field{year}{2023}
+      \field{pages}{13\bibrangedash 15}
+      \range{pages}{3}
+      \verb{doi}
+      \verb https://doi.org/10.1007/978-3-658-41224-1
+      \endverb
+    \endentry
+    \entry{MatsumotoJuang2016}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f47ee63d41960ed0904b3388e2d42bd2}{%
+           family={Matsumoto},
+           familyi={M\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=97236e8089c60623e8a5f0aae825396b}{%
+           family={Juang},
+           familyi={J\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Belmont, CA}%
+      }
+      \list{publisher}{1}{%
+        {Cengage Learning}%
+      }
+      \strng{namehash}{ab5fd35e8403d4d88e454e9c8596f55a}
+      \strng{fullhash}{ab5fd35e8403d4d88e454e9c8596f55a}
+      \strng{fullhashraw}{ab5fd35e8403d4d88e454e9c8596f55a}
+      \strng{bibnamehash}{ab5fd35e8403d4d88e454e9c8596f55a}
+      \strng{authorbibnamehash}{ab5fd35e8403d4d88e454e9c8596f55a}
+      \strng{authornamehash}{ab5fd35e8403d4d88e454e9c8596f55a}
+      \strng{authorfullhash}{ab5fd35e8403d4d88e454e9c8596f55a}
+      \strng{authorfullhashraw}{ab5fd35e8403d4d88e454e9c8596f55a}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{Introduction and Basic Concepts}
+      \field{edition}{6th}
+      \field{title}{Culture and psychology}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 38}
+      \range{pages}{38}
+    \endentry
+    \entry{Mayring1991}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3caa7edc7f6d5cad7c055067b8da9f06}{%
+           family={Mayring},
+           familyi={M\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=bacfd49b3e1b6f713d12bc5b43887306}{%
+           family={Abele},
+           familyi={A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5a8bd32009db5f2c1f38fbae7904d743}{%
+           family={Becker},
+           familyi={B\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Weinheim: Juventa}%
+      }
+      \strng{namehash}{3caa7edc7f6d5cad7c055067b8da9f06}
+      \strng{fullhash}{3caa7edc7f6d5cad7c055067b8da9f06}
+      \strng{fullhashraw}{3caa7edc7f6d5cad7c055067b8da9f06}
+      \strng{bibnamehash}{3caa7edc7f6d5cad7c055067b8da9f06}
+      \strng{authorbibnamehash}{3caa7edc7f6d5cad7c055067b8da9f06}
+      \strng{authornamehash}{3caa7edc7f6d5cad7c055067b8da9f06}
+      \strng{authorfullhash}{3caa7edc7f6d5cad7c055067b8da9f06}
+      \strng{authorfullhashraw}{3caa7edc7f6d5cad7c055067b8da9f06}
+      \strng{editorbibnamehash}{d02fd8c6be46e7b49f464d58e3342c30}
+      \strng{editornamehash}{d02fd8c6be46e7b49f464d58e3342c30}
+      \strng{editorfullhash}{d02fd8c6be46e7b49f464d58e3342c30}
+      \strng{editorfullhashraw}{d02fd8c6be46e7b49f464d58e3342c30}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{Die Erfassung subjektiven Wohlbefindens}
+      \field{title}{Wohlbefinden. Theorie, Empirie, Diagnostik}
+      \field{year}{1991}
+      \field{pages}{51\bibrangedash 71}
+      \range{pages}{21}
+    \endentry
     \entry{McGlinchey}{inbook}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=e72fed99ace7e63e3d01658e0fd16920}{%
@@ -1322,6 +2128,124 @@
       \verb 10.1093/jaarel/lfad065
       \endverb
     \endentry
+    \entry{NelsonEtAl2014}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2377598c10f7dd3b89701d1cc3f53e1a}{%
+           family={Nelson},
+           familyi={N\bibinitperiod},
+           given={S.\bibnamedelimi K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce5fb72b2c46a66f4411f27764dd8034}{%
+           family={Kushlev},
+           familyi={K\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=84cb7af51f1e6f38d54537c66cf78f39}{%
+           family={Lyubomirsky},
+           familyi={L\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6817965ebbf211211ef9e07ebb80517d}
+      \strng{fullhash}{328addb3a3aae44afcd1d07331b6e24e}
+      \strng{fullhashraw}{328addb3a3aae44afcd1d07331b6e24e}
+      \strng{bibnamehash}{328addb3a3aae44afcd1d07331b6e24e}
+      \strng{authorbibnamehash}{328addb3a3aae44afcd1d07331b6e24e}
+      \strng{authornamehash}{6817965ebbf211211ef9e07ebb80517d}
+      \strng{authorfullhash}{328addb3a3aae44afcd1d07331b6e24e}
+      \strng{authorfullhashraw}{328addb3a3aae44afcd1d07331b6e24e}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Bulletin}
+      \field{number}{3}
+      \field{title}{The pains and pleasures of parenting: When, why, and how is parenthood associated with more or less well-being?}
+      \field{volume}{140}
+      \field{year}{2014}
+      \field{pages}{846\bibrangedash 895}
+      \range{pages}{50}
+      \verb{doi}
+      \verb https://doi.org/10.1037/a0035444
+      \endverb
+    \endentry
+    \entry{NgEtAl2012}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=7403fd0f18de7707b2c69028d7451c95}{%
+           family={Ng},
+           familyi={N\bibinitperiod},
+           given={J.\bibnamedelimi Y.\bibnamedelimi Y.},
+           giveni={J\bibinitperiod\bibinitdelim Y\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=89972b0c0fcfbcbf55d5bce524025939}{%
+           family={Ntoumaniy},
+           familyi={N\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8aa28fa095396613ee052e40d6909806}{%
+           family={Thøgersen-Ntoumani},
+           familyi={T\bibinithyphendelim N\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5acbe85a6ee009e2a911b37af9bf1d7b}{%
+           family={Deci},
+           familyi={D\bibinitperiod},
+           given={E.\bibnamedelimi L.},
+           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5272e0da0f534e88e631017471506cdf}{%
+           family={Ryan},
+           familyi={R\bibinitperiod},
+           given={R.\bibnamedelimi M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3e85a160f85868e58cb9eee9ef0e4ea9}{%
+           family={Duda},
+           familyi={D\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce2a0c6ea2d2aa0a292f167424eaa68c}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={G.\bibnamedelimi C.},
+           giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{719c68a58e1e60178afd1d497b417d1d}
+      \strng{fullhash}{7583915e3c72744e51c9538e7abc8187}
+      \strng{fullhashraw}{7583915e3c72744e51c9538e7abc8187}
+      \strng{bibnamehash}{7583915e3c72744e51c9538e7abc8187}
+      \strng{authorbibnamehash}{7583915e3c72744e51c9538e7abc8187}
+      \strng{authornamehash}{719c68a58e1e60178afd1d497b417d1d}
+      \strng{authorfullhash}{7583915e3c72744e51c9538e7abc8187}
+      \strng{authorfullhashraw}{7583915e3c72744e51c9538e7abc8187}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Perspectives on Psychological Science}
+      \field{number}{4}
+      \field{title}{Self-Determination Theory Applied to Health Contexts: A Meta-Analysis}
+      \field{volume}{7}
+      \field{year}{2012}
+      \field{pages}{325\bibrangedash 340}
+      \range{pages}{16}
+      \verb{doi}
+      \verb https://doi.org/10.1177/1745691612447309
+      \endverb
+    \endentry
     \entry{NorenzayanShariff2008}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=d95fcc0b52c15c0322f96b83123208bd}{%
@@ -1359,6 +2283,77 @@
       \field{year}{2008}
       \field{pages}{58\bibrangedash 62}
       \range{pages}{5}
+    \endentry
+    \entry{Pargament1997}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0a529bd1a39c018b34587874ec4b55ed}{%
+           family={Pargament},
+           familyi={P\bibinitperiod},
+           given={K.\bibnamedelimi I.},
+           giveni={K\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Guilford Press}%
+      }
+      \strng{namehash}{0a529bd1a39c018b34587874ec4b55ed}
+      \strng{fullhash}{0a529bd1a39c018b34587874ec4b55ed}
+      \strng{fullhashraw}{0a529bd1a39c018b34587874ec4b55ed}
+      \strng{bibnamehash}{0a529bd1a39c018b34587874ec4b55ed}
+      \strng{authorbibnamehash}{0a529bd1a39c018b34587874ec4b55ed}
+      \strng{authornamehash}{0a529bd1a39c018b34587874ec4b55ed}
+      \strng{authorfullhash}{0a529bd1a39c018b34587874ec4b55ed}
+      \strng{authorfullhashraw}{0a529bd1a39c018b34587874ec4b55ed}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{The Sacred and the Search for Significance}
+      \field{title}{The psychology of religion and coping: Theory, research, practice}
+      \field{year}{1997}
+      \field{pages}{20\bibrangedash 50}
+      \range{pages}{31}
+    \endentry
+    \entry{Pearlin2010}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=20ae3fe640d616b6614482b358bdf8ad}{%
+           family={Pearlin},
+           familyi={P\bibinitperiod},
+           given={L.\bibnamedelimi I.},
+           giveni={L\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{20ae3fe640d616b6614482b358bdf8ad}
+      \strng{fullhash}{20ae3fe640d616b6614482b358bdf8ad}
+      \strng{fullhashraw}{20ae3fe640d616b6614482b358bdf8ad}
+      \strng{bibnamehash}{20ae3fe640d616b6614482b358bdf8ad}
+      \strng{authorbibnamehash}{20ae3fe640d616b6614482b358bdf8ad}
+      \strng{authornamehash}{20ae3fe640d616b6614482b358bdf8ad}
+      \strng{authorfullhash}{20ae3fe640d616b6614482b358bdf8ad}
+      \strng{authorfullhashraw}{20ae3fe640d616b6614482b358bdf8ad}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Gerontology: Series B: Psychological Sciences and Social Sciences}
+      \field{number}{2}
+      \field{title}{The Life Course and the Stress Process: Some Conceptual Comparison}
+      \field{volume}{65B}
+      \field{year}{2010}
+      \field{pages}{207\bibrangedash 215}
+      \range{pages}{9}
+      \verb{doi}
+      \verb https://doi.org/10.1093/geronb/gbp106
+      \endverb
     \endentry
     \entry{PRC2}{misc}{}{}
       \name{author}{1}{}{%
@@ -1423,7 +2418,7 @@
       \verb https://www.pewresearch.org/religion/2022/12/21/key-findings-from-the-global-religious-futures-project/
       \endverb
     \endentry
-    \entry{Wohlbefinden}{incollection}{}{}
+    \entry{Röhrle2023}{incollection}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=3bd5d67b7d185eee9484af59a68f2d30}{%
            family={Röhrle},
@@ -1456,6 +2451,43 @@
       \verb{doi}
       \verb https://doi.org/10.17623/BZGA:Q4-i134-1.0
       \endverb
+    \endentry
+    \entry{Sapolsky2004}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7b7bb0aebd86d94d2af78fc1241cb7be}{%
+           family={Sapolsky},
+           familyi={S\bibinitperiod},
+           given={R.\bibnamedelimi M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{2}{%
+        {Henry Holt}%
+        {Company}%
+      }
+      \strng{namehash}{7b7bb0aebd86d94d2af78fc1241cb7be}
+      \strng{fullhash}{7b7bb0aebd86d94d2af78fc1241cb7be}
+      \strng{fullhashraw}{7b7bb0aebd86d94d2af78fc1241cb7be}
+      \strng{bibnamehash}{7b7bb0aebd86d94d2af78fc1241cb7be}
+      \strng{authorbibnamehash}{7b7bb0aebd86d94d2af78fc1241cb7be}
+      \strng{authornamehash}{7b7bb0aebd86d94d2af78fc1241cb7be}
+      \strng{authorfullhash}{7b7bb0aebd86d94d2af78fc1241cb7be}
+      \strng{authorfullhashraw}{7b7bb0aebd86d94d2af78fc1241cb7be}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{Stress, sickness, and death}
+      \field{title}{Why zebras don't get ulcers: The acclaimed guide to stress, stress-related diseases, and coping}
+      \field{year}{2004}
+      \field{pages}{195\bibrangedash 225}
+      \range{pages}{31}
     \endentry
     \entry{Reli}{misc}{}{}
       \name{author}{2}{}{%
@@ -1496,6 +2528,60 @@
       \verb https://www.bpb.de/kurz-knapp/lexika/das-junge-politik-lexikon/321041/religion/
       \endverb
     \endentry
+    \entry{PhilippEtAl2020}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c78261560743a6ed8b0a19ce1c643e0f}{%
+           family={Sischka},
+           familyi={S\bibinitperiod},
+           given={Philipp\bibnamedelima E.},
+           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5bc38138500b943d924ad396d628c79c}{%
+           family={Costa},
+           familyi={C\bibinitperiod},
+           given={Andreia\bibnamedelima P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52ed34cc857a6966b46a56faa5304b12}{%
+           family={Steffgen},
+           familyi={S\bibinitperiod},
+           given={Georges},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=28dcf810c5c1785fe0e472dc2d06250d}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={Alexander\bibnamedelima F.},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{335c3d358f2a80e54105536650db529e}
+      \strng{fullhash}{13d11240f022850acdeea17f64d9a523}
+      \strng{fullhashraw}{13d11240f022850acdeea17f64d9a523}
+      \strng{bibnamehash}{13d11240f022850acdeea17f64d9a523}
+      \strng{authorbibnamehash}{13d11240f022850acdeea17f64d9a523}
+      \strng{authornamehash}{335c3d358f2a80e54105536650db529e}
+      \strng{authorfullhash}{13d11240f022850acdeea17f64d9a523}
+      \strng{authorfullhashraw}{13d11240f022850acdeea17f64d9a523}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Affective Disorders Reports}
+      \field{title}{The WHO-5 well-being index – validation based on item response theory and the analysis of measurement invariance across 35 countries}
+      \field{volume}{1}
+      \field{year}{2020}
+      \field{pages}{100020}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jadr.2020.100020
+      \endverb
+    \endentry
     \entry{WHO_Val}{article}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=c78261560743a6ed8b0a19ce1c643e0f}{%
@@ -1531,8 +2617,10 @@
       \strng{authornamehash}{335c3d358f2a80e54105536650db529e}
       \strng{authorfullhash}{13d11240f022850acdeea17f64d9a523}
       \strng{authorfullhashraw}{13d11240f022850acdeea17f64d9a523}
+      \field{extraname}{2}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -1583,6 +2671,113 @@
       \endverb
       \verb{url}
       \verb https://www.britannica.com/dictionary/religion
+      \endverb
+    \endentry
+    \entry{Triandis1994}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=af3a804826c7fb87fc319939dce6933c}{%
+           family={Triandis},
+           familyi={T\bibinitperiod},
+           given={H.\bibnamedelimi C.},
+           giveni={H\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-Hill}%
+      }
+      \strng{namehash}{af3a804826c7fb87fc319939dce6933c}
+      \strng{fullhash}{af3a804826c7fb87fc319939dce6933c}
+      \strng{fullhashraw}{af3a804826c7fb87fc319939dce6933c}
+      \strng{bibnamehash}{af3a804826c7fb87fc319939dce6933c}
+      \strng{authorbibnamehash}{af3a804826c7fb87fc319939dce6933c}
+      \strng{authornamehash}{af3a804826c7fb87fc319939dce6933c}
+      \strng{authorfullhash}{af3a804826c7fb87fc319939dce6933c}
+      \strng{authorfullhashraw}{af3a804826c7fb87fc319939dce6933c}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{Theoretical Perspectives on Culture and Behavior}
+      \field{title}{Culture and social behavior}
+      \field{year}{1994}
+      \field{pages}{45\bibrangedash 70}
+      \range{pages}{26}
+    \endentry
+    \entry{TrojanLegewie2001}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a25d11b682ef439105e162eaac91a09a}{%
+           family={Trojan},
+           familyi={T\bibinitperiod},
+           given={Alf},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=29376b0f5e09cf1b67198624aac6185b}{%
+           family={Legewie},
+           familyi={L\bibinitperiod},
+           given={Heiner},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Frankfurt: Verlag für Akademische Schriften}%
+      }
+      \strng{namehash}{ce9e47e3c4e0fe1c03ccac031942b466}
+      \strng{fullhash}{ce9e47e3c4e0fe1c03ccac031942b466}
+      \strng{fullhashraw}{ce9e47e3c4e0fe1c03ccac031942b466}
+      \strng{bibnamehash}{ce9e47e3c4e0fe1c03ccac031942b466}
+      \strng{authorbibnamehash}{ce9e47e3c4e0fe1c03ccac031942b466}
+      \strng{authornamehash}{ce9e47e3c4e0fe1c03ccac031942b466}
+      \strng{authorfullhash}{ce9e47e3c4e0fe1c03ccac031942b466}
+      \strng{authorfullhashraw}{ce9e47e3c4e0fe1c03ccac031942b466}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Nachhaltige Gesundheit und Entwicklung: Leitbilder, Politik und Praxis der Gestaltung gesundheitsförderlicher Umwelt- und Lebensbedingungen}
+      \field{year}{2001}
+    \endentry
+    \entry{Uchino2006}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=44275bccee0a7560b274cb692c554413}{%
+           family={Uchino},
+           familyi={U\bibinitperiod},
+           given={B.\bibnamedelimi N.},
+           giveni={B\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{44275bccee0a7560b274cb692c554413}
+      \strng{fullhash}{44275bccee0a7560b274cb692c554413}
+      \strng{fullhashraw}{44275bccee0a7560b274cb692c554413}
+      \strng{bibnamehash}{44275bccee0a7560b274cb692c554413}
+      \strng{authorbibnamehash}{44275bccee0a7560b274cb692c554413}
+      \strng{authornamehash}{44275bccee0a7560b274cb692c554413}
+      \strng{authorfullhash}{44275bccee0a7560b274cb692c554413}
+      \strng{authorfullhashraw}{44275bccee0a7560b274cb692c554413}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Behavioral Medicine}
+      \field{number}{4}
+      \field{title}{Social support and health: A review of physiological processes potentially underlying links to disease outcomes}
+      \field{volume}{29}
+      \field{year}{2006}
+      \field{pages}{377\bibrangedash 387}
+      \range{pages}{11}
+      \verb{doi}
+      \verb https://doi.org/10.1007/s10865-006-9056-5
       \endverb
     \endentry
     \entry{Utler2020}{inbook}{}{}
@@ -1790,20 +2985,50 @@
       \field{pages}{1107\bibrangedash 1128}
       \range{pages}{22}
     \endentry
-    \entry{WHO-5}{misc}{}{}
+    \entry{WHO1948}{report}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=bfa8c395ac070ea6cddc2077faf8215f}{%
-           family={{World Health Organisation}},
+        {{un=0,uniquepart=base,hash=531217507bec092b6ec36c0f78f46736}{%
+           family={{World Health Organization}},
            familyi={W\bibinitperiod}}}%
       }
-      \strng{namehash}{bfa8c395ac070ea6cddc2077faf8215f}
-      \strng{fullhash}{bfa8c395ac070ea6cddc2077faf8215f}
-      \strng{fullhashraw}{bfa8c395ac070ea6cddc2077faf8215f}
-      \strng{bibnamehash}{bfa8c395ac070ea6cddc2077faf8215f}
-      \strng{authorbibnamehash}{bfa8c395ac070ea6cddc2077faf8215f}
-      \strng{authornamehash}{bfa8c395ac070ea6cddc2077faf8215f}
-      \strng{authorfullhash}{bfa8c395ac070ea6cddc2077faf8215f}
-      \strng{authorfullhashraw}{bfa8c395ac070ea6cddc2077faf8215f}
+      \list{institution}{1}{%
+        {World Health Organization}%
+      }
+      \strng{namehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{fullhash}{531217507bec092b6ec36c0f78f46736}
+      \strng{fullhashraw}{531217507bec092b6ec36c0f78f46736}
+      \strng{bibnamehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authorbibnamehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authornamehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authorfullhash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authorfullhashraw}{531217507bec092b6ec36c0f78f46736}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Constitution of the World Health Organization}
+      \field{type}{techreport}
+      \field{year}{1948}
+    \endentry
+    \entry{WHO-5}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=531217507bec092b6ec36c0f78f46736}{%
+           family={{World Health Organization}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{fullhash}{531217507bec092b6ec36c0f78f46736}
+      \strng{fullhashraw}{531217507bec092b6ec36c0f78f46736}
+      \strng{bibnamehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authorbibnamehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authornamehash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authorfullhash}{531217507bec092b6ec36c0f78f46736}
+      \strng{authorfullhashraw}{531217507bec092b6ec36c0f78f46736}
+      \field{extraname}{2}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{extradatescope}{labelyear}

@@ -1,26 +1,26 @@
 # Fdb version 4
-["biber SRH_Vorlage"] 1716568011.60956 "SRH_Vorlage.bcf" "SRH_Vorlage.bbl" "SRH_Vorlage" 1716568824.20095 0
-  "Quellen.bib" 1716567997 16628 7fd89fea8e395a2e97d52add0f4ad36e ""
-  "SRH_Vorlage.bcf" 1716568823 121559 06bcca3bf408c6404e3d03ff2f7084a8 "pdflatex"
+["biber SRH_Vorlage"] 1717158222.70469 "SRH_Vorlage.bcf" "SRH_Vorlage.bbl" "SRH_Vorlage" 1717169276.10176 0
+  "Quellen.bib" 1717158197 27798 74df54655beccae4ab17e9b5650f2198 ""
+  "SRH_Vorlage.bcf" 1717169275 124472 7ac8a62c401b8d0a208ff1f07fdbc5ef "pdflatex"
   (generated)
   "SRH_Vorlage.bbl"
   "SRH_Vorlage.blg"
   (rewritten before read)
-["pdflatex"] 1716568816.8894 "c:/Users/Teresa/OneDrive/uni/0Master/0Thesis/LaTeX_Thesis/SRH_Vorlage.tex" "SRH_Vorlage.pdf" "SRH_Vorlage" 1716568824.20249 0
+["pdflatex"] 1717169270.74454 "c:/Users/Teresa/OneDrive/uni/0Master/0Thesis/LaTeX_Thesis/SRH_Vorlage.tex" "SRH_Vorlage.pdf" "SRH_Vorlage" 1717169276.10384 0
   "2 Theorie/2.1.1 Religion und Religiosität.tex" 1716541806 23882 a21172c84c53cf7dc9c5a19f13954f31 ""
-  "2 Theorie/2.1.2 Kultur.tex" 1716568815 10496 caf52142a9876b65b7c9c2f14f681a25 ""
-  "2 Theorie/2.1.3 Wohlbefinden.tex" 1715944958 1380 f60948da041d1a2207f7ea88ad09549a ""
+  "2 Theorie/2.1.2 Kultur.tex" 1716568859 10496 caf52142a9876b65b7c9c2f14f681a25 ""
+  "2 Theorie/2.1.3 Wohlbefinden.tex" 1717169269 12097 7931867acce0a7d8bc7e79f2eab7541d ""
   "2 Theorie/Theorie.tex" 1715880475 1646 c3019cdfddeda705501c7f36adf7073c ""
   "3 Methode/Methoden.tex" 1714728206 15478 4e77c561300fb78e950d8c3bf89acaec ""
-  "SRH_Vorlage.aux" 1716568823 15158 98b74965ca7ef00eafd32c4e391d4c6c "pdflatex"
-  "SRH_Vorlage.bbl" 1716568016 77602 8cca0553dbde93dbdcd5aef139ae0de2 "biber SRH_Vorlage"
-  "SRH_Vorlage.lof" 1716568823 120 26d92110a27d3eabe7a88cc8df800f11 "pdflatex"
-  "SRH_Vorlage.lot" 1716568823 120 26d92110a27d3eabe7a88cc8df800f11 "pdflatex"
-  "SRH_Vorlage.out" 1716568823 2619 652f0cceb7ba81a3fba1ad6efef2691d "pdflatex"
-  "SRH_Vorlage.run.xml" 1716568823 2474 999d188bf87c896e686d55f794900d3d "pdflatex"
+  "SRH_Vorlage.aux" 1717169275 21780 5a704fc2ed2e4021d72cc712f0d90e20 "pdflatex"
+  "SRH_Vorlage.bbl" 1717158228 130064 47e47ba9547a0097dcd7f48cdcea8717 "biber SRH_Vorlage"
+  "SRH_Vorlage.lof" 1717169275 120 26d92110a27d3eabe7a88cc8df800f11 "pdflatex"
+  "SRH_Vorlage.lot" 1717169275 120 26d92110a27d3eabe7a88cc8df800f11 "pdflatex"
+  "SRH_Vorlage.out" 1717169275 2751 5cebef01c57280cc0a2035cb5240111d "pdflatex"
+  "SRH_Vorlage.run.xml" 1717169275 2474 999d188bf87c896e686d55f794900d3d "pdflatex"
   "SRH_Vorlage.sty" 1713959289 5174 aa14c81c177bad08ad4978394fd657ef ""
   "SRH_Vorlage.tex" 1714728406 3185 fe6336fb6cf2f5846576850ba80b6e4a ""
-  "SRH_Vorlage.toc" 1716568823 1432 8325408365af12b57a04fdc45aeb68b6 "pdflatex"
+  "SRH_Vorlage.toc" 1717169275 1525 cdef5160d0782a409b46dd03ccdad47a "pdflatex"
   "Titelblatt.tex" 1713865707 1137 596303c1373a21d28128703e3b5b5716 ""
   "apa6.bbx" 1653136526 66210 0d7c942d66c14f0e7a4a65f10c942a9c ""
   "apa6.cbx" 1653136526 20252 975f7405a3648b23f4b18202b59a29de ""
