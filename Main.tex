@@ -1,0 +1,94 @@
+%% Diese Vorlage wurde am 24.08.2021 von Teresa Seidl Fernández erstellt 
+%% und wird den Studenten/-innen der Fakultät für Angewandte Psychologie
+%% der SRH Hochschule zur Verfügung gestellt und kann auch von ihnen
+%% angepasst werden.
+
+
+
+
+% der Kolumnentitel ist in der .sty Datei hinterlegt.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%% VORSPANN %%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\documentclass[12pt, a4paper]{report}
+
+\usepackage{SRH_Vorlage}
+
+\usepackage[ngerman]{babel}        % n steht für neu und richtet sich an den
+% neuen Rechtschreibregeln. Weitere Sprachen können verwendet werden. Um eine
+% dieser Sprachen als "Hauptsprache" zu determinieren: main=[gewünschte Sprache]
+\usepackage{ifthen}     % The package’s basic command is \ifthenelse, which 
+% can use a wide array of tests. Also provided is a simple loop command 
+% \whiledo. Ifthen is a separate package within the LaTeX distribution; 
+% while it will always be present in a LaTeX distribution, a \usepackage 
+% command is always needed to load it. 
+\usepackage[retainmissing]{MnSymbol}    % MnSymbol is a symbol font family.
+%  Almost all of LaTeX and AMS mathematical symbols are provided
+\usepackage{titletoc}     % Alternative headings for toc/lof/lot
+% Anhang:
+\usepackage[titletoc,title]{appendix} 
+% für Tabellen:
+\usepackage[flushleft]{threeparttable}  % um Anmerkungen unter Tabellen und 
+% Abbildungen setzen zu können -> needed for notes
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage[export]{adjustbox}
+\usepackage{tabu}
+\usepackage{longtable}
+\usepackage{tabularx}
+\usepackage{siunitx}
+% Abbildungen:
+\usepackage{graphicx}
+\usepackage{subcaption}   % environment allows you to place multiple images at a 
+% certain location next to each other
+
+% is für "Abbildung" im Verzeichnis
+\usepackage{tocloft}
+\renewcommand{\cfttabpresnum}{\normalfont Tabelle }
+\renewcommand{\cfttabaftersnum}{.}
+\cftsetindents{tab}{0em}{5em}
+\renewcommand{\cfttabfont}{\itshape}
+
+\renewcommand{\cftfigpresnum}{Abbildung }
+\renewcommand{\cftfigaftersnum}{.}
+\cftsetindents{fig}{0em}{6.5em}
+\renewcommand{\cftfigfont}{\itshape}
+\renewcommand{\cftfigaftersnumb}{\normalfont}
+
+% test wegen Quellen - empfohlen von Chat-GPT.
+%\addbibresource{Quellen.bib}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%% END VORSPANN %%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%% TEXT-TEIL %%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+\input{Titelblatt.tex}
+%\input{Abstract.tex}
+\tableofcontents
+\clearpage
+\phantomsection \addtocontents{toc}{\vspace*{-1cm}}
+%\phantomsection \addcontentsline{toc}{chapter}{Abbildungsverzeichnis}
+\listoffigures
+\phantomsection \addtocontents{lof}{\vspace*{-1cm}}
+\clearpage
+%\phantomsection \addcontentsline{toc}{chapter}{Tabellenverzeichnis}
+\phantomsection \addtocontents{lot}{\vspace*{-1cm}}
+\listoftables
+
+
+%\input{1 Einleitung.tex}
+\input{2 Theorie/Theorie.tex}
+\input{3 Methode/Methoden.tex}
+%\input{4 Ergebnisse/Ergebnisse.tex}
+%\input{5 Diskussion/Diskussion.tex}
+
+
+\printbibliography[heading=bibintoc,title={Literaturverzeichnis}]
+%\input{Anhang.tex}
+\clearpage
+%\input{Ehrenwörtliche Erklärung.tex}
+\end{document}
