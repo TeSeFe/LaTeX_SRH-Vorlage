@@ -317,21 +317,21 @@
     \endentry
     \entry{ReliInKultur}{article}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=4a059a24356b28b705a6ba3bc492ea90}{%
+        {{un=0,uniquepart=base,hash=7fc7304db15a9c6bbeb417f5984f6d6a}{%
            family={Cohen},
            familyi={C\bibinitperiod},
-           given={Adam\bibnamedelima B.},
+           given={A.\bibnamedelimi B.},
            giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{4a059a24356b28b705a6ba3bc492ea90}
-      \strng{fullhash}{4a059a24356b28b705a6ba3bc492ea90}
-      \strng{fullhashraw}{4a059a24356b28b705a6ba3bc492ea90}
-      \strng{bibnamehash}{4a059a24356b28b705a6ba3bc492ea90}
-      \strng{authorbibnamehash}{4a059a24356b28b705a6ba3bc492ea90}
-      \strng{authornamehash}{4a059a24356b28b705a6ba3bc492ea90}
-      \strng{authorfullhash}{4a059a24356b28b705a6ba3bc492ea90}
-      \strng{authorfullhashraw}{4a059a24356b28b705a6ba3bc492ea90}
+      \strng{namehash}{7fc7304db15a9c6bbeb417f5984f6d6a}
+      \strng{fullhash}{7fc7304db15a9c6bbeb417f5984f6d6a}
+      \strng{fullhashraw}{7fc7304db15a9c6bbeb417f5984f6d6a}
+      \strng{bibnamehash}{7fc7304db15a9c6bbeb417f5984f6d6a}
+      \strng{authorbibnamehash}{7fc7304db15a9c6bbeb417f5984f6d6a}
+      \strng{authornamehash}{7fc7304db15a9c6bbeb417f5984f6d6a}
+      \strng{authorfullhash}{7fc7304db15a9c6bbeb417f5984f6d6a}
+      \strng{authorfullhashraw}{7fc7304db15a9c6bbeb417f5984f6d6a}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
@@ -690,8 +690,8 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{chapter}{Definition of Religious Phenomena and of Religion}
-      \field{title}{The Elementary Forms of the Religious Life}
+      \field{booktitle}{The Elementary Forms of the Religious Life}
+      \field{title}{Definition of Religious Phenomena and of Religion}
       \field{year}{1915}
       \field{pages}{47}
       \range{pages}{1}
@@ -949,8 +949,8 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{chapter}{Ourbreak Control}
-      \field{title}{Ebola, Culture and Politics: The Anthropology of an Emerging Disease}
+      \field{booktitle}{Ebola, Culture and Politics: The Anthropology of an Emerging Disease}
+      \field{title}{Ourbreak Control}
       \field{year}{2008}
       \field{pages}{111\bibrangedash 130}
       \range{pages}{20}
@@ -1144,10 +1144,10 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{chapter}{Freude}
+      \field{booktitle}{Die Emotionen des Menschen}
       \field{edition}{3. Auflage}
       \field{subtitle}{Eine Einführung in die Grundlagen der Emotionspsychologie}
-      \field{title}{Die Emotionen des Menschen}
+      \field{title}{Freude}
       \field{year}{1994}
       \field{pages}{271\bibrangedash 312}
       \range{pages}{42}
@@ -1499,7 +1499,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{ISRN Psychiatry}
+      \field{journaltitle}{International Scholarly Research Network Psychiatry}
       \field{title}{Religion, spirituality, and health: The research and clinical implications}
       \field{year}{2012}
       \field{pages}{1\bibrangedash 33}
@@ -1698,7 +1698,7 @@
       \field{pages}{477\bibrangedash 489}
       \range{pages}{13}
       \verb{doi}
-      \verb 10.1007/978-3-658-37218-7_48
+      \verb https://doi.org/10.1007/978-3-658-37218-7_48
       \endverb
     \endentry
     \entry{Krause2015}{inbook}{}{}
@@ -1858,8 +1858,8 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{chapter}{Subjektives Wohlbefinden}
-      \field{title}{Gestersste Eltern}
+      \field{booktitle}{Gestersste Eltern}
+      \field{title}{Subjektives Wohlbefinden}
       \field{year}{2023}
       \field{pages}{13\bibrangedash 15}
       \range{pages}{3}
@@ -1953,8 +1953,8 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{chapter}{Die Erfassung subjektiven Wohlbefindens}
-      \field{title}{Wohlbefinden. Theorie, Empirie, Diagnostik}
+      \field{booktitle}{Wohlbefinden. Theorie, Empirie, Diagnostik}
+      \field{title}{Die Erfassung subjektiven Wohlbefindens}
       \field{year}{1991}
       \field{pages}{51\bibrangedash 71}
       \range{pages}{21}
@@ -2009,8 +2009,8 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{chapter}{Religion and Culture - Difference and Similarity}
-      \field{title}{International Relations}
+      \field{booktitle}{International Relations}
+      \field{title}{Religion and Culture - Difference and Similarity}
       \field{year}{2023}
       \field{pages}{9.3.1}
       \range{pages}{-1}

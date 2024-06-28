@@ -1,58 +1,58 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
-[0] Config.pm:311> INFO - Logfile is 'SRH_Vorlage.blg'
-[218] biber-MSWIN64:340> INFO - === 
-[278] Biber.pm:420> INFO - Reading 'SRH_Vorlage.bcf'
-[474] Biber.pm:994> INFO - Found 68 citekeys in bib section 0
-[493] Biber.pm:4463> INFO - Processing section 0
-[509] Biber.pm:4654> INFO - Looking for bibtex file 'Quellen.bib' for section 0
-[591] bibtex.pm:1713> INFO - LaTeX decoding ...
-[818] bibtex.pm:1519> INFO - Found BibTeX data source 'Quellen.bib'
-[2182] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[2183] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[2183] Biber.pm:4283> INFO - Sorting list 'apa/global//global/global/global' of type 'entry' with template 'apa' and locale 'de-DE'
-[2183] Biber.pm:4289> INFO - No sort tailoring available for locale 'de-DE'
-[2641] bbl.pm:676> INFO - Writing 'SRH_Vorlage.bbl' with encoding 'UTF-8'
-[2814] bbl.pm:779> INFO - Output to SRH_Vorlage.bbl
-[2815] Biber.pm:131> WARN - Duplicate entry key: 'LazarusFolkman1987' in file 'Quellen.bib', skipping ...
-[2815] Biber.pm:131> WARN - Duplicate entry key: 'Pearlin2010' in file 'Quellen.bib', skipping ...
-[2815] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2815] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2816] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2816] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2816] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2816] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2816] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2816] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2817] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2817] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2817] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2817] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2817] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2817] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2817] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2817] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2817] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2817] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2818] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2818] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2818] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2818] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2818] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2819] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2819] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2819] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2819] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2819] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2819] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2819] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2820] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2820] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2820] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2821] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2822] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2823] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2823] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2823] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2823] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2823] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[2823] Biber.pm:133> INFO - WARNINGS: 42
+[1] Config.pm:311> INFO - Logfile is 'SRH_Vorlage.blg'
+[154] biber-MSWIN64:340> INFO - === 
+[213] Biber.pm:420> INFO - Reading 'SRH_Vorlage.bcf'
+[408] Biber.pm:994> INFO - Found 68 citekeys in bib section 0
+[430] Biber.pm:4463> INFO - Processing section 0
+[450] Biber.pm:4654> INFO - Looking for bibtex file 'Quellen.bib' for section 0
+[536] bibtex.pm:1713> INFO - LaTeX decoding ...
+[702] bibtex.pm:1519> INFO - Found BibTeX data source 'Quellen.bib'
+[1243] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1243] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1243] Biber.pm:4283> INFO - Sorting list 'apa/global//global/global/global' of type 'entry' with template 'apa' and locale 'de-DE'
+[1244] Biber.pm:4289> INFO - No sort tailoring available for locale 'de-DE'
+[1342] bbl.pm:676> INFO - Writing 'SRH_Vorlage.bbl' with encoding 'UTF-8'
+[1446] bbl.pm:779> INFO - Output to SRH_Vorlage.bbl
+[1447] Biber.pm:131> WARN - Duplicate entry key: 'LazarusFolkman1987' in file 'Quellen.bib', skipping ...
+[1447] Biber.pm:131> WARN - Duplicate entry key: 'Pearlin2010' in file 'Quellen.bib', skipping ...
+[1448] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1448] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1449] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1449] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1450] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1450] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1451] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1451] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1452] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1453] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1453] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1454] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1454] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1455] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1456] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1457] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1458] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1458] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1458] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1459] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1459] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1460] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1461] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1463] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1465] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1466] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1466] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1467] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1468] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1469] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1469] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1470] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1470] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1471] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1471] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1473] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1475] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1476] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1477] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1478] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1479] Biber.pm:133> INFO - WARNINGS: 42
