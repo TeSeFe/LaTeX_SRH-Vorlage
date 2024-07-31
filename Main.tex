@@ -68,15 +68,15 @@
 
 \begin{document}
 \input{Titelblatt.tex}
-%\input{Abstract.tex}
+\input{Abstract.tex}
 \tableofcontents
 \clearpage
 \phantomsection \addtocontents{toc}{\vspace*{-1cm}}
-%\phantomsection \addcontentsline{toc}{chapter}{Abbildungsverzeichnis}
+\phantomsection \addcontentsline{toc}{chapter}{Abbildungsverzeichnis}
 \listoffigures
 \phantomsection \addtocontents{lof}{\vspace*{-1cm}}
 \clearpage
-%\phantomsection \addcontentsline{toc}{chapter}{Tabellenverzeichnis}
+\phantomsection \addcontentsline{toc}{chapter}{Tabellenverzeichnis}
 \phantomsection \addtocontents{lot}{\vspace*{-1cm}}
 \listoftables
 
@@ -85,11 +85,11 @@
 \input{2 Theorie/Theorie.tex}
 \input{3 Methode/Methoden.tex}
 \input{4 Ergebnisse/Ergebnisse.tex}
-%\input{5 Diskussion/Diskussion.tex}
+\input{5 Diskussion/Diskussion.tex}
 
 
 \printbibliography[heading=bibintoc,title={Literaturverzeichnis}]
-%\input{Anhang.tex}
+\input{Anhang.tex}
 \clearpage
-%\input{Ehrenwörtliche Erklärung.tex}   not needed, cause Dokument beigelegt.
+\input{Ehrenwörtliche Erklärung.tex}  
 \end{document}
